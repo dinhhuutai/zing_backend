@@ -1,0 +1,737 @@
+[{
+    "_id": {
+      "$oid": "653e3c22c8830bae78af5829"
+    },
+    "name": "Nhạc Việt",
+    "title": "Nhạc Việt",
+    "alias": "nhac-viet",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/9/5/8/e/958e9994c6720513cc84a7f7a478020b.jpg",
+    "description": "Nhạc Việt Nam",
+    "createDate": {
+      "$date": "2023-10-29T11:04:02.823Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:04:02.824Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3d08307099914de9576b"
+    },
+    "encodeId": "FpnQ1XsS6",
+    "name": "Nhạc Âu Mỹ",
+    "title": "Nhạc Âu Mỹ",
+    "alias": "nhac-au-my",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/d/6/4/0/d640e486023bb0bc1bbe4d94209ff648.jpg",
+    "description": "Nhạc Âu Mỹ",
+    "createDate": {
+      "$date": "2023-10-29T11:07:52.076Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:07:52.076Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3d15307099914de9576d"
+    },
+    "encodeId": "2mY1KuZ3M",
+    "name": "Nhạc Hàn",
+    "title": "Nhạc Hàn",
+    "alias": "nhac-han",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/9/0/c/6/90c615657364a570232d7f6e86ffa6da.jpg",
+    "description": "Nhạc Hàn Quốc",
+    "createDate": {
+      "$date": "2023-10-29T11:08:05.904Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:08:05.904Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3d25307099914de9576f"
+    },
+    "encodeId": "v6bKhtCSf",
+    "name": "Nhạc Hoa",
+    "title": "Nhạc Hoa",
+    "alias": "nhac-hoa",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/0/6/e/0/06e09e84d6c6ef29f588e0c6032d72bf.jpg",
+    "description": "Nhạc Hoa",
+    "createDate": {
+      "$date": "2023-10-29T11:08:21.279Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:08:21.279Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3d2d307099914de95771"
+    },
+    "encodeId": "_mtL5v5lW",
+    "name": "Nhạc Châu Á",
+    "title": "Nhạc Châu Á",
+    "alias": "nhac-chau-a",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/d/b/e/4/dbe426a555b7d680be25232007739019.jpg",
+    "description": "Nhạc Châu Á",
+    "createDate": {
+      "$date": "2023-10-29T11:08:29.910Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:08:29.910Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3d37307099914de95773"
+    },
+    "encodeId": "pRqAKQ9gS",
+    "name": "Nhạc Hòa Tấu",
+    "title": "Nhạc Hòa Tấu",
+    "alias": "nhac-hoa-tau",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/d/b/e/4/dbe426a555b7d680be25232007739019.jpg",
+    "description": "Nhạc Hòa Tấu",
+    "createDate": {
+      "$date": "2023-10-29T11:08:39.064Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:08:39.064Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3d4a307099914de95775"
+    },
+    "encodeId": "DPbva9dzN",
+    "name": "Top 100",
+    "title": "Top 100",
+    "alias": "top-100",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/2/d/2/d/2d2d88326a507319335ffc2e2887c0b7.jpg",
+    "description": "Top 100",
+    "createDate": {
+      "$date": "2023-10-29T11:08:58.870Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:08:58.870Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3d52307099914de95777"
+    },
+    "encodeId": "phH4Qn1x4",
+    "name": "Artist's Story",
+    "title": "Artist's Story",
+    "alias": "artist-story",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/a/c/9/e/ac9e073bbfbaadea7b1cb50bd047ece0.jpg",
+    "description": "Artist's Story",
+    "createDate": {
+      "$date": "2023-10-29T11:09:06.786Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:09:06.786Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3d5a307099914de95779"
+    },
+    "encodeId": "67s7KDDmU",
+    "name": "Chill",
+    "title": "Chill",
+    "alias": "chill",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/5/d/9/b/5d9b3a5de0e11982a0207c92b7ac4c5a.jpg",
+    "description": "Chill",
+    "createDate": {
+      "$date": "2023-10-29T11:09:14.938Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:09:14.938Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3d6e307099914de9577b"
+    },
+    "encodeId": "AYToenJVh",
+    "name": "Những Chuyến Đi",
+    "title": "Những Chuyến Đi",
+    "alias": "nhung-chuyen-di",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/8/e/4/a/8e4a3346be739dc204d16d1729e0c74e.jpg",
+    "description": "Những Chuyến Đi",
+    "createDate": {
+      "$date": "2023-10-29T11:09:34.129Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:09:34.129Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3d76307099914de9577d"
+    },
+    "encodeId": "mrs4IqQOi",
+    "name": "Spa-Yoga",
+    "title": "Spa-Yoga",
+    "alias": "spa-yoga",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/d/0/d/7/d0d772a6c3e35b3e768d5c3ebf644ecd.jpg",
+    "description": "Spa-Yoga",
+    "createDate": {
+      "$date": "2023-10-29T11:09:42.940Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:09:42.940Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3d7f307099914de9577f"
+    },
+    "encodeId": "MLuUutrK3",
+    "name": "Workout",
+    "title": "Workout",
+    "alias": "workout",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/d/b/5/c/db5cf069b328c7858b2d9642cc6b4529.jpg",
+    "description": "Workout",
+    "createDate": {
+      "$date": "2023-10-29T11:09:51.112Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:09:51.112Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3d89307099914de95781"
+    },
+    "encodeId": "5yhn7FdJg",
+    "name": "Ngủ Ngon",
+    "title": "Ngủ Ngon",
+    "alias": "ngu-ngon",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/4/a/3/b/4a3b5265ee2c9e2c84f5a88194382b5d.jpg",
+    "description": "Ngủ Ngon",
+    "createDate": {
+      "$date": "2023-10-29T11:10:01.508Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:10:01.508Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3d94307099914de95783"
+    },
+    "encodeId": "VMJrUTIPs",
+    "name": "Tập Trung",
+    "title": "Tập Trung",
+    "alias": "tap-trung",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/3/b/c/0/3bc090f304669e0a01bc5cccdbc0715a.jpg",
+    "description": "Tập Trung",
+    "createDate": {
+      "$date": "2023-10-29T11:10:12.313Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:10:12.313Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3db6307099914de95785"
+    },
+    "encodeId": "wh6Go2cek",
+    "name": "Lofi",
+    "title": "Lofi",
+    "alias": "lofi",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/7/a/0/0/7a00dbc39931345b369fdf61889302f6.jpg",
+    "description": "Lofi",
+    "createDate": {
+      "$date": "2023-10-29T11:10:46.682Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:10:46.682Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3dbe307099914de95787"
+    },
+    "encodeId": "F8M8598Pf",
+    "name": "Tình Yêu",
+    "title": "Tình Yêu",
+    "alias": "tinh-yeu",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/b/7/7/5/b775816ff23ba94ed879a6282162f011.jpg",
+    "description": "Tình Yêu",
+    "createDate": {
+      "$date": "2023-10-29T11:10:54.184Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:10:54.184Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3dc5307099914de95789"
+    },
+    "encodeId": "lgDxkpOdY",
+    "name": "Running",
+    "title": "Running",
+    "alias": "running",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/8/5/d/1/85d1cfedf63d33e676e85071ab023f66.jpg",
+    "description": "Running",
+    "createDate": {
+      "$date": "2023-10-29T11:11:01.463Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:11:01.463Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3dd8307099914de9578b"
+    },
+    "encodeId": "7qUFweCR6",
+    "name": "Trữ Tình & Bolero",
+    "title": "Trữ Tình & Bolero",
+    "alias": "tru-tinh-&-bolero",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/1/d/0/0/1d0063f9a66d2dfcfc4bd1c39969283b.jpg",
+    "description": "Trữ Tình & Bolero",
+    "createDate": {
+      "$date": "2023-10-29T11:11:20.783Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:11:20.783Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3de0307099914de9578d"
+    },
+    "encodeId": "EbLKCq58F",
+    "name": "Dance/Electronic",
+    "title": "Dance/Electronic",
+    "alias": "dance-electronic",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/a/6/2/7/a627d8df37b074f211563f2aba06ceda.jpg",
+    "description": "Dance/Electronic",
+    "createDate": {
+      "$date": "2023-10-29T11:11:28.908Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:11:28.908Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3de7307099914de9578f"
+    },
+    "encodeId": "AtMEfHJ6r",
+    "name": "Remix",
+    "title": "Remix",
+    "alias": "remix",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/7/0/5/c/705c00fb2d17dd62845323205334119e.jpg",
+    "description": "Remix",
+    "createDate": {
+      "$date": "2023-10-29T11:11:35.434Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:11:35.434Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3dee307099914de95791"
+    },
+    "encodeId": "A1uRiGmn5",
+    "name": "Hip-Hop",
+    "title": "Hip-Hop",
+    "alias": "hip-hop",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/b/1/2/c/b12c4c07a159c1f100b925b0668df5a1.jpg",
+    "description": "Hip-Hop",
+    "createDate": {
+      "$date": "2023-10-29T11:11:42.906Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:11:42.906Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3df5307099914de95793"
+    },
+    "encodeId": "sO-XgeF6c",
+    "name": "R&B",
+    "title": "R&B",
+    "alias": "r&b",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/d/3/4/3/d3436727fdc88ee4abe0de9326a7c8da.jpg",
+    "description": "R&B",
+    "createDate": {
+      "$date": "2023-10-29T11:11:49.793Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:11:49.793Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3dfc307099914de95795"
+    },
+    "encodeId": "McwnwHMHx",
+    "name": "Nhạc Phim",
+    "title": "Nhạc Phim",
+    "alias": "nhac-phim",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/d/c/e/d/dced68be2533e35a4819b3961d267319.jpg",
+    "description": "Nhạc Phim",
+    "createDate": {
+      "$date": "2023-10-29T11:11:56.899Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:11:56.899Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3e03307099914de95797"
+    },
+    "encodeId": "3GW68u-oe",
+    "name": "Nhạc Thiếu Nhi",
+    "title": "Nhạc Thiếu Nhi",
+    "alias": "nhac-thieu-nhi",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/2/6/c/6/26c64a7d02597c75357b78319769b320.jpg",
+    "description": "Nhạc Thiếu Nhi",
+    "createDate": {
+      "$date": "2023-10-29T11:12:03.055Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:12:03.055Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3eda307099914de95799"
+    },
+    "encodeId": "CDrlIpl4h",
+    "name": "Nhạc Không Lời",
+    "title": "Nhạc Không Lời",
+    "alias": "nhac-khong-loi",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/6/b/3/9/6b3969a898ded6a680c3f4da39097ad6.jpg",
+    "description": "Nhạc Không Lời",
+    "createDate": {
+      "$date": "2023-10-29T11:15:38.054Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:15:38.054Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3ee0307099914de9579b"
+    },
+    "encodeId": "N8SxVdqT3",
+    "name": "Jazz",
+    "title": "Jazz",
+    "alias": "jazz",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/b/d/7/9/bd79ee8f3f8dbeed300b02b1e52d2fdb.jpg",
+    "description": "Jazz",
+    "createDate": {
+      "$date": "2023-10-29T11:15:44.934Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:15:44.934Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3ee9307099914de9579d"
+    },
+    "encodeId": "q8dewGa0O",
+    "name": "Nhạc Trịnh",
+    "title": "Nhạc Trịnh",
+    "alias": "nhac-trinh",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/0/c/7/b/0c7b46f44b70689fbb44191363647fbc.jpg",
+    "description": "Nhạc Trịnh",
+    "createDate": {
+      "$date": "2023-10-29T11:15:53.166Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:15:53.166Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3eee307099914de9579f"
+    },
+    "encodeId": "Y3HYKmNO_",
+    "name": "Rock",
+    "title": "Rock",
+    "alias": "rock",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/a/9/b/f/a9bf7a2bb858e16a331e8761843d4fb9.jpg",
+    "description": "Rock",
+    "createDate": {
+      "$date": "2023-10-29T11:15:58.308Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:15:58.308Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3ef5307099914de957a1"
+    },
+    "encodeId": "NShWjq-mr",
+    "name": "Indie",
+    "title": "Indie",
+    "alias": "indie",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/e/d/c/8/edc8ba6432b696c99ce8fd196d2c9d8b.jpg",
+    "description": "Indie",
+    "createDate": {
+      "$date": "2023-10-29T11:16:05.960Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:16:05.960Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3efb307099914de957a3"
+    },
+    "encodeId": "1E2rtGR7X",
+    "name": "Latin",
+    "title": "Latin",
+    "alias": "latin",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/6/3/7/6/63763f8c5b1a510aee3396dbcb883934.jpg",
+    "description": "Latin",
+    "createDate": {
+      "$date": "2023-10-29T11:16:11.131Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:16:11.131Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3f01307099914de957a5"
+    },
+    "encodeId": "N-1ABIEOF",
+    "name": "Acoustic",
+    "title": "Acoustic",
+    "alias": "acoustic",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/a/8/0/0/a800ff42641c97dc822eb4086dab0d4d.jpg",
+    "description": "Acoustic",
+    "createDate": {
+      "$date": "2023-10-29T11:16:17.422Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:16:17.422Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3f07307099914de957a7"
+    },
+    "encodeId": "oMcNw4_o6",
+    "name": "Nhạc Việt Bất Hủ",
+    "title": "Nhạc Việt Bất Hủ",
+    "alias": "nhac-viet-bat-hu",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/a/4/6/5/a465aa0710d01f33d34efba00fdaedc4.jpg",
+    "description": "Nhạc Việt Bất Hủ",
+    "createDate": {
+      "$date": "2023-10-29T11:16:23.785Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:16:23.785Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3f0f307099914de957a9"
+    },
+    "encodeId": "77ymFQlDc",
+    "name": "Cổ Điển",
+    "title": "Cổ Điện",
+    "alias": "co-dien",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/2/d/a/a/2daa37f7c354b9adfe534e88d3ab1fdd.jpg",
+    "description": "Cổ Điển",
+    "createDate": {
+      "$date": "2023-10-29T11:16:31.492Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:16:31.492Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3f15307099914de957ab"
+    },
+    "encodeId": "80okTNE3p",
+    "name": "Nhạc Âu Mỹ Bất Hủ",
+    "title": "Nhạc Âu Mỹ Bất Hủ",
+    "alias": "nhac-au-my-bat-hu",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/6/c/d/4/6cd451408b042c7f30ac4959db0a36cf.jpg",
+    "description": "Nhạc Âu Mỹ Bất Hủ",
+    "createDate": {
+      "$date": "2023-10-29T11:16:37.732Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:16:37.732Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3f1c307099914de957ad"
+    },
+    "encodeId": "r6kqTmuOa",
+    "name": "Khúc Nhạc Vui",
+    "title": "Khúc Nhạc Vui",
+    "alias": "khuc-nhac-vui",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/5/4/5/4/5454a8586d26bd5e5bdb7682b84dce0f.jpg",
+    "description": "Khúc Nhạc Vui",
+    "createDate": {
+      "$date": "2023-10-29T11:16:44.540Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:16:44.540Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3f24307099914de957af"
+    },
+    "encodeId": "ey62HXci0",
+    "name": "Tiệc Tùng",
+    "title": "Tiệc Tùng",
+    "alias": "tiec-tung",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/d/b/e/4/dbe426a555b7d680be25232007739019.jpg",
+    "description": "Tiệc Tùng",
+    "createDate": {
+      "$date": "2023-10-29T11:16:52.010Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:16:52.010Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3f2a307099914de957b1"
+    },
+    "encodeId": "fDQky6KbN",
+    "name": "Dinner",
+    "title": "Dinner",
+    "alias": "dinner",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/1/c/c/8/1cc8ae9704ae8fb7e34487ce744083a9.jpg",
+    "description": "Dinner",
+    "createDate": {
+      "$date": "2023-10-29T11:16:58.252Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:16:58.252Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3f32307099914de957b3"
+    },
+    "encodeId": "ObDXiuSmU",
+    "name": "Giai Điệu Buồn",
+    "title": "Giai Điệu Buồn",
+    "alias": "giai-dieu-buon",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/8/9/0/b/890bea85e09d0f17c414cce6ee9f9214.jpg",
+    "description": "Giai Điệu Buồn",
+    "createDate": {
+      "$date": "2023-10-29T11:17:06.522Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:17:06.522Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3f3b307099914de957b5"
+    },
+    "encodeId": "M9YtiMM7-",
+    "name": "Du Lịch",
+    "title": "Du Lịch",
+    "alias": "du-lich",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/e/3/d/4/e3d43659c6dc756f87f4e44220313f92.jpg",
+    "description": "Du Lịch",
+    "createDate": {
+      "$date": "2023-10-29T11:17:15.881Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:17:15.881Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3f42307099914de957b7"
+    },
+    "encodeId": "Fikvp954d",
+    "name": "Cà Phê",
+    "title": "Cà Phê",
+    "alias": "ca-phe",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/b/b/b/0/bbb0a8963e9ed3b81974613b52b9476c.jpg",
+    "description": "Cà Phê",
+    "createDate": {
+      "$date": "2023-10-29T11:17:22.823Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:17:22.823Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e3f48307099914de957b9"
+    },
+    "encodeId": "vl8x0vEOb",
+    "name": "Chơi Game",
+    "title": "Chơi Game",
+    "alias": "choi-game",
+    "cover": "https://photo-zmp3.zmdcdn.me/cover/4/d/f/4/4df44f0a15edb254717c383cf256b193.jpg",
+    "description": "Chơi Game",
+    "createDate": {
+      "$date": "2023-10-29T11:17:28.349Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-29T11:17:28.349Z"
+    },
+    "__v": 0
+  }]

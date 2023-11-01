@@ -1,0 +1,13 @@
+[
+    {
+        "username": "0923044965",
+        "password": "123",
+        "name": "Dinh Huu Tai"
+    },
+    {
+        "username": "0896461474",
+        "password": "123",
+        "name": "Huu Tai",
+        "isAdmin": true
+    }
+]

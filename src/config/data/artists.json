@@ -1,0 +1,240 @@
+[{
+    "_id": {
+      "$oid": "653e71444aede51a9816828e"
+    },
+    "name": "Hoài Lâm",
+    "title": "hoai-lam",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/c/3/2/6c32d58de86a0414e5ab4d0d74728d30.jpg",
+    "banner": "",
+    "information": "Hoài Lâm sinh ra trong gia đình nghệ thuật. Năm 13 tuổi, Hoài Lâm theo nghệ sĩ Hoài Linh học nghề hát và diễn xuất. Anh được Hoài Linh nhận làm con nuôi và đặt nghệ danh \"Hoài Lâm\". Được Hoài Linh giới thiệu, Đàm Vĩnh Hưng nhận Hoài Lâm làm học trò và hướng dẫn luyện thanh. Năm 2013, Hoài Lâm ra mắt album \"Về Đâu Mái Tóc Người Thương\". Năm 2014, anh trở thành quán quân \"Gương mặt thân quen\" mùa 2, cho thấy khả năng hát tốt ở nhiều thể loại: bolero, trữ tình, nhạc trẻ. Cùng năm, anh ra mắt ca khúc debut \"Như Những Phút Ban Đầu\", trở thành tên tuổi sáng giá của V-Pop. Năm 2015, anh phát hành 2 album \"Quay Về\" và \"Cô Bé Ngày Xưa\". Năm 2020, sau một thời gian vắng bóng, Hoài Lâm trở lại với hàng loạt ca khúc mới.",
+    "song": {
+      "items": [],
+      "totalDuration": 0
+    },
+    "following": {
+      "items": []
+    },
+    "createDate": {
+      "$date": "2023-10-29T14:50:44.770Z"
+    },
+    "contentLastUpdate": {
+      "$date": "2023-10-29T14:50:44.771Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e8ea048e11c82aa249ba4"
+    },
+    "name": "Tuấn Hưng",
+    "title": "tuan-hung",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/6/3/6/b636f91811a99221d8833e760596400c.jpg",
+    "banner": "",
+    "information": "Khi còn đang là sinh viên đại học, Tuấn Hưng tham gia nhóm Quả Dưa Hấu, một nhóm nhạc nổi tiếng của Hà Nội lúc bấy giờ. Năm 2000, Tuấn Hưng quyết định vào Sài Gòn để lập nghiệp. Dấu ấn đầu tiên của anh tại Sài Gòn là lần biểu diễn chương trình CLB Bạn Yêu Nhạc tại Nhà hát Bến Thành. Sau đó, với hoạt động âm nhạc bền bỉ, Tuấn Hưng dần được khán giả yêu mến, các ca khúc của anh đều lọt top Làn Sóng Xanh. Hơn 20 năm hoạt động, anh đã phát hành được 18 album riêng với nhiều phong cách, thể loại khác nhau, trở thành một nam ca sĩ nổi bật của âm nhạc Việt Nam qua nhiều thế hệ, với nhiều bài hit gắn liền với tên tuổi Tuấn Hưng như \"Vũ Điệu Thần Tiên\", \"Tìm Lại Bầu Trời\", \"Cầu Vống Khuyết\"...",
+    "song": {
+      "items": [],
+      "totalDuration": 0
+    },
+    "following": {
+      "items": []
+    },
+    "createDate": {
+      "$date": "2023-10-29T16:56:00.750Z"
+    },
+    "contentLastUpdate": {
+      "$date": "2023-10-29T16:56:00.750Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e8eab48e11c82aa249ba6"
+    },
+    "name": "Hồ Quang Hiếu",
+    "title": "ho-quang-hieu",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/2/3/0/a2309e99e71954d95969bc53224318dc.jpg",
+    "banner": "",
+    "information": "Hồ Quang Hiếu tốt nghiệp trường Văn hóa Nghệ thuật Quân đội Hà Nội và vào Thành phố Hồ Chí Minh để lập nghiệp năm 2010. Năm 2011, anh ra mắt album \"Chỉ Cần Em Hạnh Phúc\", trong đó ca khúc chủ đề cùng tên nhận được sự ủng hộ tích cực của người nghe, nhiều tuần đứng đầu các bảng xếp hạng âm nhạc. Năm 2014, anh ra mắt ca khúc \"Con bướm xuân\" cũng rất được yêu thích. Từ đó đến nay, anh ra mắt nhiều album. Gia tài các bài hit của anh ngày càng nhiều lên, có thể kể đến \"Không Cảm Xúc\", \"Đổi Thay\", \"Em Là Của Anh\" (song ca cùng Hồ Việt Trung), \"Nơi Ấy Con Tìm Về\", \"Tôi Là Tôi\"... Hồ Quang Hiếu cũng phát hành phim ca nhạc do anh thủ vai chính có tên \"Hiếu Bến Tàu\" rất được các khán giả yêu thích.",
+    "song": {
+      "items": [],
+      "totalDuration": 0
+    },
+    "following": {
+      "items": []
+    },
+    "createDate": {
+      "$date": "2023-10-29T16:56:11.618Z"
+    },
+    "contentLastUpdate": {
+      "$date": "2023-10-29T16:56:11.619Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e8eb448e11c82aa249ba8"
+    },
+    "name": "Phan Mạnh Quỳnh",
+    "title": "phan-manh-quynh",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/6/a/d/16ad38a571e873f840bbfc0d97214baa.jpg",
+    "banner": "",
+    "information": "Phan Mạnh Quỳnh là tác giả của nhiều ca khúc như: \"Người Yêu Cũ\" của Khởi My, \"Nơi Ấy Con Tìm Về\" của Hồ Quang Hiếu... Năm 2015 ca khúc \"Vợ Người Ta\" được đón nhận nồng nhiệt, mang lại cho anh nhiều giải thưởng. Năm 2016, anh tham gia Sing My Song và sáng tác \"Hồi Ức\" và \"Có Chàng Trai Viết Lên Cây\". Năm 2018, \"Hồi Ức\" được sử dụng làm nhạc phim \"Người Bất Tử\", cùng với ca khúc \"Người Bất Tử\" cũng do anh sáng tác. Năm 2019, \"Có Chàng Trai Viết Lên Cây\" được sử dụng làm nhạc phim \"Mắt Biếc\", cùng với ba ca khúc khác do anh sáng tác là \"Từ Đó\", \"Tôi Chỉ Muốn Nói\" và \"Hà Lan\". Các sáng tác của anh từ đó đến nay đều được khán giả đón nhận nồng nhiệt, gần đây nhất là \"Nhạt\", \"Khi Phải Quên Đi\" và \"Cuộc Gọi\".",
+    "song": {
+      "items": [],
+      "totalDuration": 0
+    },
+    "following": {
+      "items": []
+    },
+    "createDate": {
+      "$date": "2023-10-29T16:56:20.433Z"
+    },
+    "contentLastUpdate": {
+      "$date": "2023-10-29T16:56:20.433Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e8ebb48e11c82aa249baa"
+    },
+    "name": "Khắc Hưng",
+    "title": "khac-hung",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/8/d/d/58dd5b661df85be3c6d4cd13c2f0a579.jpg",
+    "banner": "",
+    "information": "Từ nhỏ, Khắc Hưng đã làm quen với môi trường âm nhạc, chịu ảnh hưởng từ người anh trai ruột là ca-nhạc sĩ Khắc Việt. Năm 2014, Khắc Hưng tham gia sản xuất âm nhạc cho album đầu tay, \"Khởi Hành\" của ca sĩ Nguyễn Trần Trung Quân, giúp ca sĩ này mang về 2 giải Cống hiến. Cùng trong năm, anh chịu trách nhiệm biên tập, chỉ huy ban nhạc cho liveshow đầu tiên \"Yêu\" của Khắc Việt. Sau đó, các nghệ sĩ tin tưởng Khắc Hưng với vai trò sản xuất âm nhạc, như Mỹ Tâm với album \"Tâm 9\" (2017), Văn Mai Hương với \"Hương - Blossom\" (2019) hay Hoàng Rob với \"Hừng Đông\" (2016).. Với vai trò nhạc sĩ, anh có nhiều ca khúc ghi dấu ấn như \"Hơn Cả Yêu\" (Đức Phúc), \"Sau Tất Cả\" (ERIK), \"I'm Still Loving You\" (Noo Phước Thịnh)...",
+    "song": {
+      "items": [],
+      "totalDuration": 0
+    },
+    "following": {
+      "items": []
+    },
+    "createDate": {
+      "$date": "2023-10-29T16:56:27.613Z"
+    },
+    "contentLastUpdate": {
+      "$date": "2023-10-29T16:56:27.614Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e8ec548e11c82aa249bac"
+    },
+    "name": "ERIK",
+    "title": "erik",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/1/c/0/f1c046a525a1b3894afa2f397cb2ed42.jpg",
+    "banner": "",
+    "information": "ERIK tham gia Giọng Hát Việt Nhí năm 2013 và dừng lại ở vị trí top 15. Năm 2014, anh tham gia cuộc thi của St.319 Entertainment và trở thành thực tập sinh. Năm 2016, ERIK debut với ca khúc Pop ballad \"Sau Tất Cả\". Ca khúc nhanh chóng trở thành cơn sốt đối với giới trẻ. Năm 2017, ERIK rời công ty. Anh kết hợp với MIN trong ca khúc \"Ghen\". Bài hát là bước tiến nổi bật trong sự nghiệp ca hát của anh. Từ 2018 đến nay, ERIK đều đặn ra mắt các bản hit: \"Chạm Đáy Nỗi Đau\" (2018), \"Đừng Có Mơ\" (2018), \"Anh Ta Là Sao\" (2019), \"Có Tất Cả Nhưng Thiếu Anh\" (2019)... Đầu năm 2020, phiên bản mới của \"Ghen\" là \"Ghen Cô Vy\" ra mắt trong thời điểm dịch COVID-19 được đón nhận, không chỉ trong nước mà cả trên thế giới.",
+    "song": {
+      "items": [],
+      "totalDuration": 0
+    },
+    "following": {
+      "items": []
+    },
+    "createDate": {
+      "$date": "2023-10-29T16:56:37.899Z"
+    },
+    "contentLastUpdate": {
+      "$date": "2023-10-29T16:56:37.899Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e8ece48e11c82aa249bae"
+    },
+    "name": "MIN",
+    "title": "min",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/e/f/6/2ef6b4fc14d359656cde9d5e09842b57.jpg",
+    "banner": "",
+    "information": "MIN đã có một bước đột phá mới trong sự nghiệp nghệ thuật, khi giới thiệu tới báo giới và người yêu nhạc ca khúc TÌM như một khởi đầu tốt đẹp cho con đường ca hát chuyên nghiệp. TÌM là một trong những ca khúc được tìm nghe nhiều nhất trên mạng xã hội, trong tháng 12/2013, và cũng là sản phẩm mở đường, giúp Min thêm nhiều cơ hội hợp tác cùng các nghệ sĩ trẻ khác. Với giọng hát tình cảm ngọt ngào và cá tính, có thể nói rằng, Min như một cơn gió lạ, một hình tượng mới của giới nghệ thuật Việt Nam, đang từng bước khẳng định được chính mình với sự ủng hộ của thế hệ trẻ. 2017 phát hành các singles như Ghen, Chưa Bao Giờ Mẹ Kể, Có Em Chờ......",
+    "song": {
+      "items": [],
+      "totalDuration": 0
+    },
+    "following": {
+      "items": []
+    },
+    "createDate": {
+      "$date": "2023-10-29T16:56:46.710Z"
+    },
+    "contentLastUpdate": {
+      "$date": "2023-10-29T16:56:46.710Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e8ed848e11c82aa249bb0"
+    },
+    "name": "Phương Ly",
+    "title": "phuong-ly",
+    "image": "",
+    "banner": "https://photo-zmp3.zmdcdn.me/cover_artist/2/1/5/4/21545e4d3c3460644c12d2cb15058a12.jpg",
+    "information": "Phương Ly tham gia các cuộc thi âm nhạc từ sớm, đạt giải nhì nhạc nhẹ của Sao Mai năm 2005, lọt vào top 30 cuộc thi Vietnam Idol 2007 sau đó là bán kết 3 của Vietnam Idol 2010. Cô được đông đảo khán giả yêu thích nhưng bất ngờ biến mất khỏi showbiz Việt. Đầu năm 2015, Phương Ly xuất hiện trở lại. Cô đầu quân công ty OnOn Entertainment rồi ra mắt ca khúc \"Crush On You\" vào năm 2016. Năm 2017, sự kết hợp giữa Phương Ly và JustaTee trong \"Mặt Trời Của Em\" đạt thành công lớn, năm 2018 ca khúc \"Thằng Điên\" của bộ đôi cũng giành nhiều giải thưởng. Cái tên Phương Ly trở nên nổi tiếng trong làng V-pop, cô liên tiếp có các ca khúc hit như \"Anh Là Ai\" hay \"Đâu Chịu Ngồi Yên\" (cùng Rhymastic và Touliver) trong năm 2019.",
+    "song": {
+      "items": [],
+      "totalDuration": 0
+    },
+    "following": {
+      "items": []
+    },
+    "createDate": {
+      "$date": "2023-10-29T16:56:56.257Z"
+    },
+    "contentLastUpdate": {
+      "$date": "2023-10-29T16:56:56.257Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e8edf48e11c82aa249bb2"
+    },
+    "name": "AMEE",
+    "title": "amee",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/f/d/a/2fda5f39b5adca3bad9c4bfc6d586f68.jpg",
+    "banner": "",
+    "information": "Có vẻ ngoài dễ thương và chất giọng ngọt ngào, AMEE gặt hái thành công với những ca khúc nhạc Pop có phần lời thả thính trong sáng như Ex's Hate Me, Anh Nhà Ở Đâu Thế, Đen Đá Không Đường... 15 tuổi, AMEE trở thành thực tập sinh của St.319 Entertainment. Tháng 2 2019, cô góp giọng trong Ex's Hate Me của B Ray và Masew. Tháng 4 2019, cô debut với Anh Nhà Ở Đâu Thế cùng B Ray, nhanh chóng thu hút một lực lượng lớn người nghe. Tháng 5, bộ đôi ra mắt sản phẩm hợp tác thứ ba là Đen Đá Không Đường. Bài hát tiếp tục gây sốt với giới trẻ. Tháng 7, cô kết hợp với Andiez trong Anh Đánh Rơi Người Yêu Này và tháng 10 với VIRUSS trong Trời Giấu Trời Mang Đi, kết thúc một năm thành công của tân binh khủng long AMEE. Đầu năm 2020, AMEE góp giọng trong Do For Love của B Ray và Masew. Và chỉ nửa tháng sau, AMEE ra mắt ca khúc Sao Anh Chưa Về Nhà kết hợp cùng Ricky Star.",
+    "song": {
+      "items": [],
+      "totalDuration": 0
+    },
+    "following": {
+      "items": []
+    },
+    "createDate": {
+      "$date": "2023-10-29T16:57:03.929Z"
+    },
+    "contentLastUpdate": {
+      "$date": "2023-10-29T16:57:03.929Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "653e8ee948e11c82aa249bb4"
+    },
+    "name": "Suni Hạ Linh",
+    "title": "suni-ha-linh",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/5/1/3/e5132977d0df155b73a7637283fb1499.jpg",
+    "banner": "",
+    "information": "Suni du học New Zealand và trở về Việt Nam để theo đuổi đam mê ca hát. Năm 2012, cô giành giải Á quân cuộc thi Kpop Star Hunt và giành được tấm vé sang Hàn Quốc, dừng chân ở Top 16. Tháng 8 năm 2015, cô chính thức xuất hiện với nghệ danh Suni Hạ Linh, qua bản cover \"Âm Thầm Bên Em\", sau đó debut bằng ca khúc \"Cảm Ơn Người Đã rời Xa Tôi\". Năm 2016, tên tuổi Suni Hạ Linh trở nên quen thuộc với khán giả qua bản hit \"Em Đã Biết\", sau đó là \"Say Yes\" và \"Cảm Nắng\" ra mắt tháng 7 năm 2017. Năm 2018, cô rời công ty quản lý trở thành ca sĩ độc lập, trở lại thành công với \"Thích Rồi Đấy\". Năm 2019, MV \"Không Sao Mà Em Đây Rồi\" kết hợp cùng Lou Hoàng đánh dấu sự trưởng thành trong âm nhạc và hình ảnh của Suni Hạ Linh.",
+    "song": {
+      "items": [],
+      "totalDuration": 0
+    },
+    "following": {
+      "items": []
+    },
+    "createDate": {
+      "$date": "2023-10-29T16:57:13.014Z"
+    },
+    "contentLastUpdate": {
+      "$date": "2023-10-29T16:57:13.014Z"
+    },
+    "__v": 0
+  }]

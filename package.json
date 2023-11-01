@@ -1,11 +1,13 @@
 {
   "dependencies": {
     "argon2": "^0.31.1",
+    "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^7.5.3"
+    "mongoose": "^7.5.3",
+    "shortid": "^2.2.16"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
@@ -15,6 +17,7 @@
   "main": "index.js",
   "scripts": {
     "server": "nodemon src/index.js",
+    "seeder": "node src/utils/seeder.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

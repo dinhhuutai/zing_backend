@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Những Câu Hỏi Khi Say",
+        "title": "Những Câu Hỏi Khi Say",
+        "artists": [],
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/6/c/7/9/6c7981d66ffba86c620e47814c6a9fcd.jpg",
+        "linkMusic": "https://a320-zmp3.zmdcdn.me/8ace807b8ebef0c8b68e057e460c75fa?authen=exp=1698657973~acl=/8ace807b8ebef0c8b68e057e460c75fa/*~hmac=156db4ce31020c92b29def821f56121c",
+        "duration": 264,
+        "releaseDate": 1698339603,
+        "genreId": [],
+        "like": [],
+        "listen": [
+            {
+                "time": 0,
+                "hour": "",
+                "counter": 0
+            }
+        ],
+        "listenOneDayLast": 0
+    },
+    {
+        "name": "Đậm Sâu Chẳng Được Gì",
+        "title": "Dam-Sau-Chang-Duoc-Gi-Hoai-Lam",
+        "artists": ["653e71444aede51a9816828e"],
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/c/7/7/dc7780482025af567902baf1f15295f3.jpg",
+        "linkMusic": "https://a320-zmp3.zmdcdn.me/77ddebbc1f567ae10ef7f665c10ef38d?authen=exp=1698810193~acl=/77ddebbc1f567ae10ef7f665c10ef38d/*~hmac=34822abc0aecc8cec7e6de26facb53e0",
+        "duration": 317,
+        "releaseDate": 1698325200,
+        "genreId": ["653e3c22c8830bae78af5829", "653e3dbe307099914de95787"],
+        "like": [],
+        "listen": [
+            {
+                "time": 0,
+                "hour": "",
+                "counter": 0
+            }
+        ],
+        "listenOneDayLast": 0
+    }
+]
