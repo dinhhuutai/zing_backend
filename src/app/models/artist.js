@@ -3,6 +3,11 @@ const Schema = mongoose.Schema;
 
 
 const ArtistSchema = new Schema({
+    encodeId: {
+        type: String,
+        require: [true, "encodeId artist no underfined"],
+        unique: true,
+    },
     name: {
         type: String,
         required: [true, 'Please enter artist name'],
@@ -23,23 +28,10 @@ const ArtistSchema = new Schema({
     },
     createDate: {
         type: Date,
-        default: Date.now,
     },
     contentLastUpdate: {
         type: Date,
         default: Date.now,
-    },
-    song: {
-        items: [
-            {
-                ref: "songs",
-                type: mongoose.Schema.Types.ObjectId,
-            }
-        ],
-        totalDuration: {
-            type: Number,
-            default: 0,
-        }
     },
     following: {
         items: [

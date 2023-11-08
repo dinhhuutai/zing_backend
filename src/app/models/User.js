@@ -55,7 +55,15 @@ const UserSchema = new Schema({
     },
     refreshToken: {
         type: String,
-    }
+    },
+    playlistHistory: [{
+        ref: "playlists",
+        type: mongoose.Schema.Types.ObjectId,
+    }],
+    songHistory: [{
+        ref: "songs",
+        type: mongoose.Schema.Types.ObjectId,
+    }],
 });
 
 

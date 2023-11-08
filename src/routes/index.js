@@ -2,6 +2,7 @@ const songRouter = require('./_song');
 const genreRouter = require('./genre');
 const artistRouter = require('./artist');
 const userRouter = require('./user');
+const cloudRouter = require('./cloud');
 
 function routes(app) {
 
@@ -12,6 +13,8 @@ function routes(app) {
     app.use("/api/v1/artist", artistRouter);
 
     app.use("/api/v1/user", userRouter);
+
+    app.use("/api/v1/cloudinary", cloudRouter);
 
 }
 

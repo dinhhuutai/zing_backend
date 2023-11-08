@@ -10,7 +10,7 @@ const generateAccessToken = (user) => {
             isAdmin: user.isAdmin,
         },
         process.env.ACCESS_TOKEN_SECRET,
-        {expiresIn: '10s'}
+        {expiresIn: '1d'}
     );
 }
 const generateRefreshToken = (user) => {
@@ -65,7 +65,7 @@ class UserController {
             })
 
             // Lưu refreshToken vào database
-            user = await User.findByIdAndUpdate(user._id, {refreshToken}, { new: true }).select('-password');
+            user = await User.findByIdAndUpdate(user._id, {refreshToken}, { new: true }).select('-password -refreshToken -createDate -updateDate -playlistHistory -songHistory -songFavourite -artistFollow -albumFavourite -playlistFavourite');
 
             res.status(200).json({
                 success: true,
