@@ -10,15 +10,10 @@ cloudinary.config({
     api_secret: process.env.CLOUDINARY_SECRET,
 });
 
-const storage = new CloudinaryStorage({
-    cloudinary,
-    allowedFormats: ["jpg", "png", 'mp3', 'mp4'],
-    params: {
-        folder: `${process.env.FOLDER_CLOUD}`,
-    },
-});
 
-const uploadCloud = multer({ storage });
+const storage = multer.memoryStorage();
+
+const uploadCloudMusic = multer({ storage });
 
 
-module.exports = uploadCloud;
+module.exports = uploadCloudMusic;

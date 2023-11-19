@@ -8,9 +8,9 @@ const WeekchartSchema = new Schema({
         required: [true, 'Please enter weekchart name'],
         trim: true,
     },
-    title: {
+    alias: {
         type: String,
-        required: [true, 'Please enter weekchart title'],
+        required: [true, 'Please enter weekchart alias'],
     },
     image: {
         type: String,

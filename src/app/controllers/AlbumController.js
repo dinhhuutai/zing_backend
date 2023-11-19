@@ -1,14 +1,14 @@
-const Artist = require("../models/artist");
+const Album = require("../models/Album");
 const shortid = require("shortid");
 
 const cloudinary = require("cloudinary").v2;
 const stringImage = require("../../utils/sliceStringImage");
 
-class ArtistController {
-    // [POST] /api/v1/artist/create
+class AlbumController {
+    // [POST] /api/v1/album/create
     async create(req, res, next) {
         try {
-            const artist = new Artist({
+            const album = new Album({
                 ...req.body,
                 title: req.body.name
                     .normalize("NFD")
@@ -17,13 +17,15 @@ class ArtistController {
                     .replace(/\s+/g, "-"),
                 encodeId: shortid.generate(),
                 createDate: Date.now(),
+                isBanner: false,
+                createBy: req.id,
             });
 
-            await artist.save();
+            await album.save();
 
             res.status(200).json({
                 success: true,
-                artist,
+                album,
             });
         } catch (error) {
             const filename = stringImage(req.body.image);
@@ -36,7 +38,7 @@ class ArtistController {
         }
     }
 
-    // [POST] /api/v1/artist/find
+    // [POST] /api/v1/album/find
     async find(req, res, next) {
         const limit = req.query.limit;
         const skip = req.query.skip;
@@ -45,6 +47,8 @@ class ArtistController {
         const name = Number(req?.query?.sortName);
         const createDate = Number(req?.query?.sortCreateDate);
         const contentLastUpdate = Number(req?.query?.sortContentLastUpdate);
+
+        const genreId = req.query.selectGenre;
 
         let sort = {};
         if (name === 1 || name === -1) {
@@ -56,7 +60,7 @@ class ArtistController {
         }
 
         try {
-            const artist = await Artist.find({
+            const album = await Album.find({
                 $or: [
                     { name: { $regex: new RegExp(search, "i") } },
                     {
@@ -65,12 +69,27 @@ class ArtistController {
                         },
                     },
                 ],
+                genreId: genreId ? { $in: genreId } : { $nin: [] },
             })
                 .sort(sort)
                 .limit(limit)
-                .skip(skip);
+                .skip(skip)
+                .populate("genreId")
+                .populate("createBy", ["name"])
+                .populate({
+                    path: "songs",
+                    populate: {
+                        path: "artists",
+                    },
+                })
+                .populate({
+                    path: "songs",
+                    populate: {
+                        path: "genreId",
+                    },
+                });
 
-            const totalArtist = await Artist.find({
+            const totalAlbum = await Album.find({
                 $or: [
                     { name: { $regex: new RegExp(search, "i") } },
                     {
@@ -79,18 +98,19 @@ class ArtistController {
                         },
                     },
                 ],
+                genreId: genreId ? { $in: genreId } : { $nin: [] },
             }).count();
 
             const today = new Date();
             today.setHours(0, 0, 0, 0);
-            const totalAddToday = await Artist.find({
+            const totalAddToday = await Album.find({
                 createDate: { $gte: today },
             }).count();
 
             res.status(200).json({
                 success: true,
-                artist,
-                totalArtist,
+                album,
+                totalAlbum,
                 totalAddToday,
             });
         } catch (error) {
@@ -101,13 +121,13 @@ class ArtistController {
         }
     }
 
-    // [POST] /api/v1/artist/delete
+    // [POST] /api/v1/album/delete
     async delete(req, res, next) {
         try {
             const { listId } = req.body;
 
             listId.map(async (id) => {
-                const resDelete = await Artist.findByIdAndDelete(id);
+                const resDelete = await Album.findByIdAndDelete(id);
 
                 // if (resDelete) {
                 //     const filename = await stringImage(resDelete.image);
@@ -126,16 +146,30 @@ class ArtistController {
         }
     }
 
-    // [GET] /api/v1/artist/getSingle/:id
+    // [GET] /api/v1/album/getSingle/:id
     async getSingle(req, res, next) {
         try {
             const id = req.params.id;
 
-            const artist = await Artist.findById(id);
+            const album = await Album.findById(id)
+                .populate("songs")
+                .populate("genreId")
+                .populate({
+                    path: "songs",
+                    populate: {
+                        path: "artists",
+                    },
+                })
+                .populate({
+                    path: "songs",
+                    populate: {
+                        path: "genreId",
+                    },
+                });
 
             return res.status(200).json({
                 success: true,
-                artist,
+                album,
             });
         } catch (error) {
             console.log(error);
@@ -145,12 +179,12 @@ class ArtistController {
         }
     }
 
-    // [PUT] /api/v1/artist/update/:id
+    // [PUT] /api/v1/album/update/:id
     async update(req, res, next) {
         try {
             const id = req.params.id;
 
-            const artist = await Artist.findByIdAndUpdate(
+            const album = await Album.findByIdAndUpdate(
                 id,
                 {
                     ...req.body,
@@ -166,37 +200,7 @@ class ArtistController {
 
             return res.status(200).json({
                 success: true,
-                artist,
-            });
-        } catch (error) {
-            console.log(error);
-            return res
-                .status(500)
-                .json({ success: false, message: "Internal server error" });
-        }
-    }
-
-    // [GET] /api/v1/artist/getAll?search=
-    async getAll(req, res, next) {
-        try {
-            const search = req?.query?.search;
-
-            const artists = await Artist.find({
-                $or: [
-                    { name: { $regex: new RegExp(search, "i") } },
-                    {
-                        title: {
-                            $regex: new RegExp(search?.replace(/ /g, "-"), "i"),
-                        },
-                    },
-                ],
-            })
-                .sort({ name: 1 })
-                .limit(10);
-
-            return res.status(200).json({
-                success: true,
-                artists,
+                album,
             });
         } catch (error) {
             console.log(error);
@@ -207,4 +211,4 @@ class ArtistController {
     }
 }
 
-module.exports = new ArtistController();
+module.exports = new AlbumController();

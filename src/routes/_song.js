@@ -1,12 +1,16 @@
 const express = require("express");
 const router = express.Router();
+const verifyToken = require('../middleware/auth');
 
 const songController = require("../app/controllers/SongController");
 
-router.get("/all", songController.getSongs);
-router.get("/:id", songController.getSingleSong);
-router.post("/create", songController.create);
+
+router.post("/create", verifyToken, songController.create);
+router.post("/find", verifyToken, songController.find);
+router.post("/delete", verifyToken, songController.delete);
+router.get("/getSingle/:id", songController.getSingle);
 router.put("/update/:id", songController.update);
-router.delete("/delete/:id", songController.delete);
+router.get("/getAll", songController.getAll);
+
 
 module.exports = router;

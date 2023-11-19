@@ -1,30 +1,32 @@
-const Artist = require("../models/artist");
-const shortid = require("shortid");
+const Weekchart = require("../models/Weekchart");
+const shortid = require('shortid');
 
-const cloudinary = require("cloudinary").v2;
-const stringImage = require("../../utils/sliceStringImage");
 
-class ArtistController {
-    // [POST] /api/v1/artist/create
+class WeekchartController {
+    // [POST] /api/v1/weekchart/create
     async create(req, res, next) {
+
         try {
-            const artist = new Artist({
+
+
+            const weekchart = new Weekchart({
                 ...req.body,
-                title: req.body.name
+                alias: req.body.name
                     .normalize("NFD")
                     .replace(/[\u0300-\u036f]/g, "")
                     .toLowerCase()
                     .replace(/\s+/g, "-"),
-                encodeId: shortid.generate(),
                 createDate: Date.now(),
             });
 
-            await artist.save();
+            await weekchart.save();
 
+            
             res.status(200).json({
                 success: true,
-                artist,
+                weekchart,
             });
+
         } catch (error) {
             const filename = stringImage(req.body.image);
             cloudinary.uploader.destroy(filename);
@@ -36,7 +38,7 @@ class ArtistController {
         }
     }
 
-    // [POST] /api/v1/artist/find
+    // [POST] /api/v1/weekchart/find
     async find(req, res, next) {
         const limit = req.query.limit;
         const skip = req.query.skip;
@@ -44,53 +46,45 @@ class ArtistController {
 
         const name = Number(req?.query?.sortName);
         const createDate = Number(req?.query?.sortCreateDate);
-        const contentLastUpdate = Number(req?.query?.sortContentLastUpdate);
+        const updateDate = Number(req?.query?.sortContentLastUpdate);
 
         let sort = {};
         if (name === 1 || name === -1) {
             sort = { name: name };
         } else if (createDate === 1 || createDate === -1) {
             sort = { createDate: createDate };
-        } else if (contentLastUpdate === 1 || contentLastUpdate === -1) {
-            sort = { contentLastUpdate: contentLastUpdate };
+        } else if (updateDate === 1 || updateDate === -1) {
+            sort = { updateDate: updateDate };
         }
 
         try {
-            const artist = await Artist.find({
+            const weekchart = await Weekchart.find({
                 $or: [
                     { name: { $regex: new RegExp(search, "i") } },
-                    {
-                        title: {
-                            $regex: new RegExp(search?.replace(/ /g, "-"), "i"),
-                        },
-                    },
+                    { alias: { $regex: new RegExp(search?.replace(/ /g, "-"), "i") } },
                 ],
             })
                 .sort(sort)
                 .limit(limit)
                 .skip(skip);
-
-            const totalArtist = await Artist.find({
+                
+            const totalWeekchart = await Weekchart.find({
                 $or: [
                     { name: { $regex: new RegExp(search, "i") } },
-                    {
-                        title: {
-                            $regex: new RegExp(search?.replace(/ /g, "-"), "i"),
-                        },
-                    },
+                    { alias: { $regex: new RegExp(search?.replace(/ /g, "-"), "i") } },
                 ],
             }).count();
 
             const today = new Date();
             today.setHours(0, 0, 0, 0);
-            const totalAddToday = await Artist.find({
-                createDate: { $gte: today },
-            }).count();
+            const totalAddToday = await Weekchart.find(
+                { createDate: { $gte: today } },
+            ).count();
 
             res.status(200).json({
                 success: true,
-                artist,
-                totalArtist,
+                weekchart,
+                totalWeekchart,
                 totalAddToday,
             });
         } catch (error) {
@@ -101,13 +95,13 @@ class ArtistController {
         }
     }
 
-    // [POST] /api/v1/artist/delete
+    // [POST] /api/v1/weekchart/delete
     async delete(req, res, next) {
         try {
             const { listId } = req.body;
 
             listId.map(async (id) => {
-                const resDelete = await Artist.findByIdAndDelete(id);
+                const resDelete = await Weekchart.findByIdAndDelete(id);
 
                 // if (resDelete) {
                 //     const filename = await stringImage(resDelete.image);
@@ -126,16 +120,16 @@ class ArtistController {
         }
     }
 
-    // [GET] /api/v1/artist/getSingle/:id
+    // [GET] /api/v1/weekchart/getSingle/:id
     async getSingle(req, res, next) {
         try {
             const id = req.params.id;
 
-            const artist = await Artist.findById(id);
+            const weekchart = await Weekchart.findById(id);
 
             return res.status(200).json({
                 success: true,
-                artist,
+                weekchart,
             });
         } catch (error) {
             console.log(error);
@@ -145,28 +139,28 @@ class ArtistController {
         }
     }
 
-    // [PUT] /api/v1/artist/update/:id
+    // [PUT] /api/v1/weekchart/update/:id
     async update(req, res, next) {
         try {
             const id = req.params.id;
 
-            const artist = await Artist.findByIdAndUpdate(
+            const weekchart = await Weekchart.findByIdAndUpdate(
                 id,
-                {
+                { 
                     ...req.body,
-                    title: req.body.name
+                    alias: req.body.name
                         .normalize("NFD")
                         .replace(/[\u0300-\u036f]/g, "")
                         .toLowerCase()
                         .replace(/\s+/g, "-"),
-                    contentLastUpdate: Date.now(),
+                    updateDate: Date.now(),
                 },
                 { new: true }
             );
 
             return res.status(200).json({
                 success: true,
-                artist,
+                weekchart,
             });
         } catch (error) {
             console.log(error);
@@ -176,27 +170,23 @@ class ArtistController {
         }
     }
 
-    // [GET] /api/v1/artist/getAll?search=
+
+    // [GET] /api/v1/weekchart/getAll?search=
     async getAll(req, res, next) {
         try {
             const search = req?.query?.search;
 
-            const artists = await Artist.find({
+            const weekchart = await Weekchart.find({
                 $or: [
                     { name: { $regex: new RegExp(search, "i") } },
-                    {
-                        title: {
-                            $regex: new RegExp(search?.replace(/ /g, "-"), "i"),
-                        },
-                    },
+                    { alias: { $regex: new RegExp(search?.replace(/ /g, "-"), "i") } },
                 ],
-            })
-                .sort({ name: 1 })
-                .limit(10);
+            }).sort({name: 1});
+
 
             return res.status(200).json({
                 success: true,
-                artists,
+                weekchart,
             });
         } catch (error) {
             console.log(error);
@@ -205,6 +195,7 @@ class ArtistController {
                 .json({ success: false, message: "Internal server error" });
         }
     }
+
 }
 
-module.exports = new ArtistController();
+module.exports = new WeekchartController();

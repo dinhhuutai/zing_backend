@@ -22,7 +22,6 @@ const PlaylistSchema = new Schema({
     },
     imageBanner: {
         type: String,
-        required: [true, 'Please enter playlist imageBanner'],
     },
     description: {
         type: String,
@@ -40,15 +39,13 @@ const PlaylistSchema = new Schema({
         type: Date,
         default: Date.now,
     },
+    createBy: {
+        ref: "users",
+        type: mongoose.Schema.Types.ObjectId,
+    },
     genreId: [
         {
             ref: "genres",
-            type: mongoose.Schema.Types.ObjectId,
-        }
-    ],
-    artist: [
-        {
-            ref: "artists",
             type: mongoose.Schema.Types.ObjectId,
         }
     ],
@@ -59,26 +56,18 @@ const PlaylistSchema = new Schema({
         type: Date,
         default: Date.now,
     },
-    song: {
-        items: [
-            {
-                ref: "songs",
-                type: mongoose.Schema.Types.ObjectId,
-            }
-        ],
-        totalDuration: {
-            type: Number,
-            default: 0,
+    songs: [
+        {
+            ref: "songs",
+            type: mongoose.Schema.Types.ObjectId,
         }
-    },
-    like: {
-        items: [
-            {
-                ref: "users",
-                type: mongoose.Schema.Types.ObjectId,
-            }
-        ]
-    },
+    ],
+    like: [
+        {
+            ref: "users",
+            type: mongoose.Schema.Types.ObjectId,
+        }
+    ],
     listening: {
         type: Number,
         default: 0,

@@ -12,6 +12,10 @@ const PartnerSchema = new Schema({
         type: String,
         required: [true, 'Please enter partner image'],
     },
+    alias: {
+        type: String,
+        required: [true, 'Please enter genre alias'],
+    },
     createDate: {
         type: Date,
         default: Date.now
