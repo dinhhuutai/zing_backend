@@ -55,6 +55,7 @@ const SongSchema = new Schema({
         }
     ],
     listenOneDayLast: {type: Number},
+    totalListen: {type: Number},
     createDate: {
         type: Date,
         default: Date.now
