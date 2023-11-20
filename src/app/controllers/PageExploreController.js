@@ -271,7 +271,7 @@ class PageExploreController {
 
             const cTime = req.query?.ctime;
             const getRTChart = async () => {
-                const currentDate = new Date(cTime*1000); // Tạo đối tượng Date từ mili giây
+                const currentDate = new Date(cTime * 1000); // Tạo đối tượng Date từ mili giây
                 const hours = currentDate.getHours(); // Lấy giờ từ đối tượng Date
                 const day = currentDate.getDate(); // Lấy ngày từ đối tượng Date
                 const month = currentDate.getMonth(); // Lấy tháng từ đối tượng Date (chú ý: tháng bắt đầu từ 0)
@@ -301,7 +301,12 @@ class PageExploreController {
                             totalCounter: {
                                 $sum: {
                                     $cond: {
-                                        if: { $gte: ["$listen.time", 24 * 60 * 60] }, // Kiểm tra nếu time lớn hơn 3600
+                                        if: {
+                                            $gte: [
+                                                "$listen.time",
+                                                24 * 60 * 60,
+                                            ],
+                                        }, // Kiểm tra nếu time lớn hơn 3600
                                         then: "$listen.counter", // Nếu đúng, cộng counter
                                         else: 0, // Nếu sai, không cộng gì cả
                                     },
@@ -317,43 +322,68 @@ class PageExploreController {
                     },
                 ]);
 
-
                 const items = {
-                    [res[0].encodeId]: arrayTemp.map(item => res[0].listen.length > 0 ? res[0].listen.map(it => it.time === item.time ? {...it, time: it.time*1000} : {...item, time: item.time*1000}) : {...item, time: item.time*1000}),
-                    [res[1].encodeId]: arrayTemp.map(item => res[1].listen.length > 0 ? res[1].listen.map(it => it.time === item.time ? {...it, time: it.time*1000} : {...item, time: item.time*1000}) : {...item, time: item.time*1000}),
-                    [res[2].encodeId]: arrayTemp.map(item => res[2].listen.length > 0 ? res[2].listen.map(it => it.time === item.time ? {...it, time: it.time*1000} : {...item, time: item.time*1000}) : {...item, time: item.time*1000}),
+                    [res[0].encodeId]: arrayTemp.map((item) =>
+                        res[0].listen.length > 0
+                            ? res[0].listen.map((it) =>
+                                  it.time === item.time
+                                      ? { ...it, time: it.time * 1000 }
+                                      : { ...item, time: item.time * 1000 }
+                              )
+                            : { ...item, time: item.time * 1000 }
+                    ),
+                    [res[1].encodeId]: arrayTemp.map((item) =>
+                        res[1].listen.length > 0
+                            ? res[1].listen.map((it) =>
+                                  it.time === item.time
+                                      ? { ...it, time: it.time * 1000 }
+                                      : { ...item, time: item.time * 1000 }
+                              )
+                            : { ...item, time: item.time * 1000 }
+                    ),
+                    [res[2].encodeId]: arrayTemp.map((item) =>
+                        res[2].listen.length > 0
+                            ? res[2].listen.map((it) =>
+                                  it.time === item.time
+                                      ? { ...it, time: it.time * 1000 }
+                                      : { ...item, time: item.time * 1000 }
+                              )
+                            : { ...item, time: item.time * 1000 }
+                    ),
                 };
 
                 const RTChart = {
                     items: res,
-                }
+                };
 
                 return {
-                    sectionType: 'RTChart',
-                    title: '',
+                    sectionType: "RTChart",
+                    title: "",
                     items,
                     RTChart,
                 };
             };
             const rtChart = await getRTChart();
+            
 
             res.status(200).json({
                 success: true,
+                slider,
+                recently,
+                newRelease,
+                chill,
+                loveInLife,
+                remix,
+                slowly,
+                onlyArtist,
+                bxhSongNew,
+                weekchart,
+                top100,
+                album,
+                partner,
                 rtChart,
             });
-            // slider,
-            //     recently,
-            //     newRelease,
-            //     chill,
-            //     loveInLife,
-            //     remix,
-            //     slowly,
-            //     onlyArtist,
-            //     bxhSongNew,
-            //     weekchart,
-            //     top100,
-            //     album,
-            //     partner,
+
         } catch (error) {
             console.log(error);
             return res
