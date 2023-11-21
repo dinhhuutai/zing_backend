@@ -24,37 +24,27 @@ class PageExploreController {
             };
             const slider = await getSlider();
 
-            const getRecently = async () => {
-                const res = await User.findById("6559279d303fc5842b66dcc2")
-                    .select("playlistHistory")
-                    .populate("playlistHistory");
-
-                return {
-                    sectionType: "recentPlaylist",
-                    title: "Gần đây",
-                    items: res.playlistHistory.slice(0, 7),
-                };
-            };
-            const recently = await getRecently();
-
             const getNewRelease = async () => {
                 const genreIdVietNam = await Genre.findOne({
                     alias: "nhac-viet",
                 });
 
                 const resAll = await Song.find()
+                    .populate("artists")
                     .sort({ createDate: -1 })
                     .limit(12);
 
                 const resVN = await Song.find({
                     genreId: { $in: genreIdVietNam._id },
                 })
+                    .populate("artists")
                     .sort({ createDate: -1 })
                     .limit(12);
 
                 const resQt = await Song.find({
                     genreId: { $nin: genreIdVietNam._id },
                 })
+                    .populate("artists")
                     .sort({ createDate: -1 })
                     .limit(12);
 
@@ -72,14 +62,37 @@ class PageExploreController {
 
             const getChill = async () => {
                 const genreIdChill = await Genre.findOne({ alias: "chill" });
+                const genreIdTop100 = await Genre.findOne({ alias: "top-100" });
 
                 const res = await Playlist.aggregate([
                     {
                         $match: {
-                            genreId: { $elemMatch: { $eq: genreIdChill._id } },
+                            genreId: {
+                                $elemMatch: {
+                                    $eq: genreIdChill._id,
+                                    $ne: genreIdTop100._id,
+                                },
+                            },
+                            onlyArtist: false,
                         },
                     },
                     { $sample: { size: 5 } },
+                    {
+                        $lookup: {
+                            from: "songs", // Tên của collection bạn muốn join
+                            localField: "songs", // Trường trong collection hiện tại để join
+                            foreignField: "_id", // Trường trong collection khác để join
+                            as: "songs", // Tên của trường mới trong documents kết quả để chứa thông tin từ collection khác
+                        },
+                    },
+                    {
+                        $lookup: {
+                            from: "artists",
+                            localField: "songs.artists",
+                            foreignField: "_id",
+                            as: "artists",
+                        },
+                    },
                 ]);
 
                 return {
@@ -94,16 +107,37 @@ class PageExploreController {
                 const genreIdLoveInLife = await Genre.findOne({
                     alias: "khuc-nhac-vui",
                 });
+                const genreIdTop100 = await Genre.findOne({ alias: "top-100" });
 
                 const res = await Playlist.aggregate([
                     {
                         $match: {
                             genreId: {
-                                $elemMatch: { $eq: genreIdLoveInLife._id },
+                                $elemMatch: {
+                                    $eq: genreIdLoveInLife._id,
+                                    $ne: genreIdTop100._id,
+                                },
                             },
+                            onlyArtist: false,
                         },
                     },
                     { $sample: { size: 5 } },
+                    {
+                        $lookup: {
+                            from: "songs", // Tên của collection bạn muốn join
+                            localField: "songs", // Trường trong collection hiện tại để join
+                            foreignField: "_id", // Trường trong collection khác để join
+                            as: "songs", // Tên của trường mới trong documents kết quả để chứa thông tin từ collection khác
+                        },
+                    },
+                    {
+                        $lookup: {
+                            from: "artists",
+                            localField: "songs.artists",
+                            foreignField: "_id",
+                            as: "artists",
+                        },
+                    },
                 ]);
 
                 return {
@@ -116,14 +150,37 @@ class PageExploreController {
 
             const getRemix = async () => {
                 const genreIdRemix = await Genre.findOne({ alias: "remix" });
+                const genreIdTop100 = await Genre.findOne({ alias: "top-100" });
 
                 const res = await Playlist.aggregate([
                     {
                         $match: {
-                            genreId: { $elemMatch: { $eq: genreIdRemix._id } },
+                            genreId: {
+                                $elemMatch: {
+                                    $eq: genreIdRemix._id,
+                                    $ne: genreIdTop100._id,
+                                },
+                            },
+                            onlyArtist: false,
                         },
                     },
                     { $sample: { size: 5 } },
+                    {
+                        $lookup: {
+                            from: "songs", // Tên của collection bạn muốn join
+                            localField: "songs", // Trường trong collection hiện tại để join
+                            foreignField: "_id", // Trường trong collection khác để join
+                            as: "songs", // Tên của trường mới trong documents kết quả để chứa thông tin từ collection khác
+                        },
+                    },
+                    {
+                        $lookup: {
+                            from: "artists",
+                            localField: "songs.artists",
+                            foreignField: "_id",
+                            as: "artists",
+                        },
+                    },
                 ]);
 
                 return {
@@ -138,14 +195,37 @@ class PageExploreController {
                 const genreIdSlowly = await Genre.findOne({
                     alias: "giai-dieu-buon",
                 });
+                const genreIdTop100 = await Genre.findOne({ alias: "top-100" });
 
                 const res = await Playlist.aggregate([
                     {
                         $match: {
-                            genreId: { $elemMatch: { $eq: genreIdSlowly._id } },
+                            genreId: {
+                                $elemMatch: {
+                                    $eq: genreIdSlowly._id,
+                                    $ne: genreIdTop100._id,
+                                },
+                            },
+                            onlyArtist: false,
                         },
                     },
                     { $sample: { size: 5 } },
+                    {
+                        $lookup: {
+                            from: "songs", // Tên của collection bạn muốn join
+                            localField: "songs", // Trường trong collection hiện tại để join
+                            foreignField: "_id", // Trường trong collection khác để join
+                            as: "songs", // Tên của trường mới trong documents kết quả để chứa thông tin từ collection khác
+                        },
+                    },
+                    {
+                        $lookup: {
+                            from: "artists",
+                            localField: "songs.artists",
+                            foreignField: "_id",
+                            as: "artists",
+                        },
+                    },
                 ]);
 
                 return {
@@ -177,7 +257,7 @@ class PageExploreController {
                 ); // Ngày trước đó 1 tuần
 
                 let resTemp;
-                let res = await Song.find().sort({ totalListen: -1 }).limit(8);
+                let res = await Song.find().sort({ totalListen: -1 }).limit(8).populate('artists');
 
                 if (res.length < 8) {
                     resTemp = await Song.find({
@@ -226,6 +306,22 @@ class PageExploreController {
                         },
                     },
                     { $sample: { size: 5 } },
+                    {
+                        $lookup: {
+                            from: "songs", // Tên của collection bạn muốn join
+                            localField: "songs", // Trường trong collection hiện tại để join
+                            foreignField: "_id", // Trường trong collection khác để join
+                            as: "songs", // Tên của trường mới trong documents kết quả để chứa thông tin từ collection khác
+                        },
+                    },
+                    {
+                        $lookup: {
+                            from: "artists",
+                            localField: "songs.artists",
+                            foreignField: "_id",
+                            as: "artists",
+                        },
+                    },
                 ]);
 
                 return {
@@ -248,6 +344,22 @@ class PageExploreController {
                     },
                     {
                         $limit: 5, // Giới hạn kết quả chỉ trả về 5 album
+                    },
+                    {
+                        $lookup: {
+                            from: "songs", // Tên của collection bạn muốn join
+                            localField: "songs", // Trường trong collection hiện tại để join
+                            foreignField: "_id", // Trường trong collection khác để join
+                            as: "songs", // Tên của trường mới trong documents kết quả để chứa thông tin từ collection khác
+                        },
+                    },
+                    {
+                        $lookup: {
+                            from: "artists",
+                            localField: "songs.artists",
+                            foreignField: "_id",
+                            as: "artists",
+                        },
                     },
                 ]);
 
@@ -331,7 +443,7 @@ class PageExploreController {
                                       : { ...item, time: item.time * 1000 }
                               )
                             : { ...item, time: item.time * 1000 }
-                    ),
+                    ).flat(),
                     [res[1].encodeId]: arrayTemp.map((item) =>
                         res[1].listen.length > 0
                             ? res[1].listen.map((it) =>
@@ -340,7 +452,7 @@ class PageExploreController {
                                       : { ...item, time: item.time * 1000 }
                               )
                             : { ...item, time: item.time * 1000 }
-                    ),
+                    ).flat(),
                     [res[2].encodeId]: arrayTemp.map((item) =>
                         res[2].listen.length > 0
                             ? res[2].listen.map((it) =>
@@ -349,7 +461,7 @@ class PageExploreController {
                                       : { ...item, time: item.time * 1000 }
                               )
                             : { ...item, time: item.time * 1000 }
-                    ),
+                    ).flat(),
                 };
 
                 const RTChart = {
@@ -364,26 +476,25 @@ class PageExploreController {
                 };
             };
             const rtChart = await getRTChart();
-            
 
             res.status(200).json({
                 success: true,
-                slider,
-                recently,
-                newRelease,
-                chill,
-                loveInLife,
-                remix,
-                slowly,
-                onlyArtist,
-                bxhSongNew,
-                weekchart,
-                top100,
-                album,
-                partner,
-                rtChart,
+                items: {
+                    slider,
+                    newRelease,
+                    chill,
+                    loveInLife,
+                    remix,
+                    slowly,
+                    onlyArtist,
+                    bxhSongNew,
+                    weekchart,
+                    top100,
+                    album,
+                    partner,
+                    rtChart,
+                },
             });
-
         } catch (error) {
             console.log(error);
             return res
@@ -391,6 +502,7 @@ class PageExploreController {
                 .json({ success: false, message: "Internal server error" });
         }
     }
+
 }
 
 module.exports = new PageExploreController();

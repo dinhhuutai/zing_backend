@@ -77,8 +77,8 @@ class UserController {
                 { refreshToken },
                 { new: true }
             ).select(
-                "-password -refreshToken -createDate -updateDate -playlistHistory -songHistory -songFavourite -artistFollow -albumFavourite -playlistFavourite"
-            );
+                "-password -refreshToken -createDate -updateDate -songFavourite -artistFollow -albumFavourite -playlistFavourite"
+            ).populate("playlistHistory");
 
             res.status(200).json({
                 success: true,
@@ -145,7 +145,7 @@ class UserController {
                 newUser._id,
                 { refreshToken },
                 { new: true }
-            ).select("-password");
+            ).select("-password").populate("playlistHistory");
 
             res.status(200).json({
                 success: true,
@@ -162,7 +162,7 @@ class UserController {
     // [GET] /api/v1/user/:id
     async getSingleUser(req, res, next) {
         try {
-            const user = await User.findById(req.params.id).select("-password");
+            const user = await User.findById(req.params.id).select("-password").populate("playlistHistory");
 
             if (!user) {
                 return res
@@ -246,7 +246,7 @@ class UserController {
     // [GET] /api/v1/user/check
     async checkUser(req, res, next) {
         try {
-            const user = await User.findById(req.id).select("-password");
+            const user = await User.findById(req.id).select("-password").populate("playlistHistory");
 
             if (!user) {
                 return res
