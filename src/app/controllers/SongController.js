@@ -220,6 +220,57 @@ class SongController {
                 .json({ success: false, message: "Internal server error" });
         }
     }
+
+    // [PUT] /api/v1/song/listen/:id?ctime=
+    async listen(req, res, next) {
+        try {
+            const id = req.params.id;
+
+            const cTime = req.query?.ctime;
+
+            const currentDate = new Date(cTime * 1000); // Tạo đối tượng Date từ mili giây
+            const hours = currentDate.getHours(); // Lấy giờ từ đối tượng Date
+            const day = currentDate.getDate(); // Lấy ngày từ đối tượng Date
+            const month = currentDate.getMonth(); // Lấy tháng từ đối tượng Date (chú ý: tháng bắt đầu từ 0)
+            const year = currentDate.getFullYear(); // Lấy năm từ đối tượng Date
+
+            let cTimeRound = new Date(year, month, day, hours, 0, 0);
+            cTimeRound = cTimeRound.getTime() / 1000;
+
+            const song = await Song.findById(id);
+
+            if (song && song.listen[0]?.time === cTimeRound) {
+                await Song.updateOne(
+                    { _id: id, "listen.time": cTimeRound },
+                    { $inc: { "listen.$.counter": 1 } }
+                );
+            } else {
+                await Song.findByIdAndUpdate(id, {
+                    $push: {
+                        listen: {
+                            $each: [
+                                {
+                                    time: cTimeRound,
+                                    hour: hours.toString(),
+                                    counter: 1,
+                                },
+                            ],
+                            $position: 0,
+                        },
+                    },
+                });
+            }
+
+            return res.status(200).json({
+                success: true,
+            });
+        } catch (error) {
+            console.log(error);
+            return res
+                .status(500)
+                .json({ success: false, message: "Internal server error" });
+        }
+    }
 }
 
 module.exports = new SongController();

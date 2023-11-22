@@ -168,6 +168,56 @@ class PageAlbumController {
                 .json({ success: false, message: "Internal server error" });
         }
     }
+
+    
+    // [PUT] /api/v1/page/album/like/:idAlbum
+    async like(req, res, next) {
+        try {
+            const idAlbum = req.params.idAlbum;
+            let playlist = await Playlist.findByIdAndUpdate(idAlbum, { $addToSet: { like: req.id } }, {new: true});
+
+            if(!playlist) {
+                playlist = await Album.findByIdAndUpdate(idAlbum, { $addToSet: { like: req.id } }, {new: true});
+            }
+
+            
+            return res.status(200).json({
+                success: true,
+                playlist,
+            });
+            
+        } catch (error) {
+            console.log(error);
+            return res
+                .status(500)
+                .json({ success: false, message: "Internal server error" });
+        }
+    }
+
+    
+    // [PUT] /api/v1/page/album/unlike/:idAlbum
+    async unlike(req, res, next) {
+        try {
+            const idAlbum = req.params.idAlbum;
+            let playlist = await Playlist.findByIdAndUpdate(idAlbum, { $pull: { like: req.id } }, {new: true});
+
+            if(!playlist) {
+                playlist = await Album.findByIdAndUpdate(idAlbum, { $pull: { like: req.id } }, {new: true});
+            }
+
+            
+            return res.status(200).json({
+                success: true,
+                playlist,
+            });
+            
+        } catch (error) {
+            console.log(error);
+            return res
+                .status(500)
+                .json({ success: false, message: "Internal server error" });
+        }
+    }
 }
 
 module.exports = new PageAlbumController();

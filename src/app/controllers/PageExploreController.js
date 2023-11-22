@@ -257,7 +257,10 @@ class PageExploreController {
                 ); // Ngày trước đó 1 tuần
 
                 let resTemp;
-                let res = await Song.find().sort({ totalListen: -1 }).limit(8).populate('artists');
+                let res = await Song.find()
+                    .sort({ totalListen: -1 })
+                    .limit(8)
+                    .populate("artists");
 
                 if (res.length < 8) {
                     resTemp = await Song.find({
@@ -412,18 +415,32 @@ class PageExploreController {
                         $addFields: {
                             totalCounter: {
                                 $sum: {
-                                    $cond: {
-                                        if: {
-                                            $gte: [
-                                                "$listen.time",
-                                                24 * 60 * 60,
-                                            ],
-                                        }, // Kiểm tra nếu time lớn hơn 3600
-                                        then: "$listen.counter", // Nếu đúng, cộng counter
-                                        else: 0, // Nếu sai, không cộng gì cả
+                                    $map: {
+                                        input: "$listen",
+                                        as: "listenItem",
+                                        in: {
+                                            $cond: {
+                                                if: {
+                                                    $gte: [
+                                                        { $toDate: { $multiply: ["$$listenItem.time", 1000] } },
+                                                        new Date((cTimeRound - (24 * 60 * 60)) * 1000),
+                                                    ],
+                                                },
+                                                then: "$$listenItem.counter",
+                                                else: 0,
+                                            },
+                                        },
                                     },
                                 },
                             },
+                        },
+                    },
+                    {
+                        $lookup: {
+                            from: "artists", // Tên bảng cần join
+                            localField: "artists",
+                            foreignField: "_id",
+                            as: "artists", // Tên trường sẽ chứa thông tin user
                         },
                     },
                     {
@@ -434,34 +451,42 @@ class PageExploreController {
                     },
                 ]);
 
+                console.log(res);
+
                 const items = {
-                    [res[0].encodeId]: arrayTemp.map((item) =>
-                        res[0].listen.length > 0
-                            ? res[0].listen.map((it) =>
-                                  it.time === item.time
-                                      ? { ...it, time: it.time * 1000 }
-                                      : { ...item, time: item.time * 1000 }
-                              )
-                            : { ...item, time: item.time * 1000 }
-                    ).flat(),
-                    [res[1].encodeId]: arrayTemp.map((item) =>
-                        res[1].listen.length > 0
-                            ? res[1].listen.map((it) =>
-                                  it.time === item.time
-                                      ? { ...it, time: it.time * 1000 }
-                                      : { ...item, time: item.time * 1000 }
-                              )
-                            : { ...item, time: item.time * 1000 }
-                    ).flat(),
-                    [res[2].encodeId]: arrayTemp.map((item) =>
-                        res[2].listen.length > 0
-                            ? res[2].listen.map((it) =>
-                                  it.time === item.time
-                                      ? { ...it, time: it.time * 1000 }
-                                      : { ...item, time: item.time * 1000 }
-                              )
-                            : { ...item, time: item.time * 1000 }
-                    ).flat(),
+                    [res[0].encodeId]: arrayTemp
+                        .map((item) =>
+                            res[0].listen.length > 0
+                                ? res[0].listen.map((it) =>
+                                      it.time === item.time
+                                          ? { ...it, time: it.time * 1000 }
+                                          : { ...item, time: item.time * 1000 }
+                                  )
+                                : { ...item, time: item.time * 1000 }
+                        )
+                        .flat(),
+                    [res[1].encodeId]: arrayTemp
+                        .map((item) =>
+                            res[1].listen.length > 0
+                                ? res[1].listen.map((it) =>
+                                      it.time === item.time
+                                          ? { ...it, time: it.time * 1000 }
+                                          : { ...item, time: item.time * 1000 }
+                                  )
+                                : { ...item, time: item.time * 1000 }
+                        )
+                        .flat(),
+                    [res[2].encodeId]: arrayTemp
+                        .map((item) =>
+                            res[2].listen.length > 0
+                                ? res[2].listen.map((it) =>
+                                      it.time === item.time
+                                          ? { ...it, time: it.time * 1000 }
+                                          : { ...item, time: item.time * 1000 }
+                                  )
+                                : { ...item, time: item.time * 1000 }
+                        )
+                        .flat(),
                 };
 
                 const RTChart = {
@@ -502,7 +527,6 @@ class PageExploreController {
                 .json({ success: false, message: "Internal server error" });
         }
     }
-
 }
 
 module.exports = new PageExploreController();

@@ -12,5 +12,7 @@ router.get("/getSingle/:id", songController.getSingle);
 router.put("/update/:id", songController.update);
 router.get("/getAll", songController.getAll);
 
+router.put("/listen/:id", songController.listen);
+
 
 module.exports = router;
