@@ -1,13 +1,134 @@
-[
-    {
-        "username": "0923044965",
-        "password": "123",
-        "name": "Dinh Huu Tai"
+[{
+    "_id": {
+      "$oid": "653fffb453dfdbb779957a5b"
     },
-    {
-        "username": "0896461474",
-        "password": "123",
-        "name": "Huu Tai",
-        "isAdmin": true
-    }
-]
+    "name": "Dinh Huu Tai",
+    "username": "0923044965",
+    "password": "$argon2id$v=19$m=65536,t=3,p=4$hY38JPlOH9Z+C19WrDRw6w$UU9MOKJQvCwKDnI8DHgSJb406I4X0Y8TB9gvQ3hxygg",
+    "avatar": "https://zjs.zmdcdn.me/zmp3-desktop/releases/v1.9.87/static/media/user-default.3ff115bb.png",
+    "isAdmin": false,
+    "playlistFavourite": [],
+    "albumFavourite": [],
+    "artistFollow": [],
+    "myPlaylist": [],
+    "songFavourite": [],
+    "createDate": {
+      "$date": "2023-10-30T19:10:44.946Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-30T19:10:44.947Z"
+    },
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1M2ZmZmI0NTNkZmRiYjc3OTk1N2E1YiIsImlzQWRtaW4iOmZhbHNlLCJpYXQiOjE3MDA3MzgxMjUsImV4cCI6MTczMjI3NDEyNX0.RZW4nv5T6ovWcU8doNJSoM3t16pAd-0gp1KW_AWAUQE",
+    "playlistHistory": [
+      {
+        "$oid": "655a4ef01669b799d469a173"
+      },
+      {
+        "$oid": "655b86e5a86f7bbb0dcdefbe"
+      },
+      {
+        "$oid": "655b7c6da86f7bbb0dcdeeb1"
+      },
+      {
+        "$oid": "655b75cda86f7bbb0dcded2d"
+      },
+      {
+        "$oid": "655b2f64a86f7bbb0dcde6a3"
+      },
+      {
+        "$oid": "655b090ea86f7bbb0dcde013"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "name": "Huu Tai",
+    "username": "0896461474",
+    "password": "$argon2id$v=19$m=65536,t=3,p=4$5ntsaCex3fP07fEqNyQS5w$lUO3oupZagSIyOQp8vSPd0FOHQou+qfv0/cnYvsSP2E",
+    "avatar": "https://zjs.zmdcdn.me/zmp3-desktop/releases/v1.9.87/static/media/user-default.3ff115bb.png",
+    "isAdmin": true,
+    "playlistFavourite": [],
+    "albumFavourite": [],
+    "artistFollow": [],
+    "myPlaylist": [],
+    "songFavourite": [],
+    "createDate": {
+      "$date": "2023-10-30T19:11:54.506Z"
+    },
+    "updateDate": {
+      "$date": "2023-10-30T19:11:54.506Z"
+    },
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1M2ZmZmZhNTNkZmRiYjc3OTk1N2E1ZiIsImlzQWRtaW4iOnRydWUsImlhdCI6MTcwMDc0ODgwOSwiZXhwIjoxNzMyMjg0ODA5fQ.mpKBKWqXAhyZr-E9FPLdkR9fiKDYNEYgREU5kLWvLp0",
+    "playlistHistory": [
+      {
+        "$oid": "655b2da2a86f7bbb0dcde561"
+      },
+      {
+        "$oid": "655b3dd4a86f7bbb0dcde893"
+      },
+      {
+        "$oid": "655b2b67a86f7bbb0dcde497"
+      },
+      {
+        "$oid": "655b090ea86f7bbb0dcde013"
+      },
+      {
+        "$oid": "655b3351a86f7bbb0dcde811"
+      },
+      {
+        "$oid": "655b2f64a86f7bbb0dcde6a3"
+      },
+      {
+        "$oid": "655b320da86f7bbb0dcde797"
+      },
+      {
+        "$oid": "655b6800a86f7bbb0dcdebd1"
+      },
+      {
+        "$oid": "655b75cda86f7bbb0dcded2d"
+      },
+      {
+        "$oid": "655b7c0da86f7bbb0dcdeea1"
+      },
+      {
+        "$oid": "655b4a6da86f7bbb0dcdeb27"
+      },
+      {
+        "$oid": "655b41f9a86f7bbb0dcdea68"
+      },
+      {
+        "$oid": "655b4077a86f7bbb0dcde9e2"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6559279d303fc5842b66dcc2"
+    },
+    "name": "Xây dựng web",
+    "username": "okokok",
+    "password": "1",
+    "avatar": "https://zjs.zmdcdn.me/zmp3-desktop/releases/v1.9.87/static/media/user-default.3ff115bb.png",
+    "isAdmin": false,
+    "playlistFavourite": [],
+    "albumFavourite": [],
+    "artistFollow": [],
+    "myPlaylist": [],
+    "songFavourite": [],
+    "createDate": {
+      "$date": "2023-11-18T21:07:41.889Z"
+    },
+    "playlistHistory": [
+      "655a4bad1669b799d469a095",
+      "655a4ef01669b799d469a173"
+    ],
+    "songHistory": [],
+    "updateDate": {
+      "$date": "2023-11-18T21:07:41.904Z"
+    },
+    "__v": 0
+  }]

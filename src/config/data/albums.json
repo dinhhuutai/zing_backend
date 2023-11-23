@@ -1,0 +1,188 @@
+[{
+    "_id": {
+      "$oid": "655b0b16a86f7bbb0dcde0d0"
+    },
+    "name": "Huyền Vi (Single)",
+    "title": "huyen-vi-(single)",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/8/c/c/0/8cc0c3cb083abceb31df735871ac5664.jpg",
+    "description": "<p>Cung cấp bởi: Euphoria Media Vietnam</p>",
+    "releaseDate": 1700265600,
+    "createDate": {
+      "$date": "2023-11-20T07:30:30.297Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3de0307099914de9578d"
+      },
+      {
+        "$oid": "653e3eda307099914de95799"
+      }
+    ],
+    "songs": [
+      {
+        "$oid": "655b0a54a86f7bbb0dcde055"
+      }
+    ],
+    "like": {
+      "items": []
+    },
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T07:30:30.298Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b23eca86f7bbb0dcde194"
+    },
+    "name": "Yêu Nhưng Không Thể Giữ (Single)",
+    "title": "yeu-nhung-khong-the-giu-(single)",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/3/f/0/6/3f0673cdcb84f2d2d0af61f860f4d6d1.jpg",
+    "description": "<p>Cung cấp bởi: MIXUS</p>",
+    "releaseDate": 1700092800,
+    "createDate": {
+      "$date": "2023-11-20T09:16:28.508Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      },
+      {
+        "$oid": "653e3de7307099914de9578f"
+      }
+    ],
+    "songs": [
+      {
+        "$oid": "655b0c56a86f7bbb0dcde15f"
+      }
+    ],
+    "like": {
+      "items": []
+    },
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T09:16:28.510Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b24dfa86f7bbb0dcde206"
+    },
+    "name": "Trượng Phu (Single)",
+    "title": "truong-phu-(single)",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/a/f/0/0/af008193c7ea1077720fc479fcf550a2.jpg",
+    "description": "<p>Cung cấp bởi: MIXUS</p>",
+    "releaseDate": 1700438400,
+    "createDate": {
+      "$date": "2023-11-20T09:20:31.629Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      },
+      {
+        "$oid": "653e3de7307099914de9578f"
+      }
+    ],
+    "songs": [
+      {
+        "$oid": "655b249ba86f7bbb0dcde1f6"
+      }
+    ],
+    "like": {
+      "items": []
+    },
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T09:20:31.630Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b25f2a86f7bbb0dcde25c"
+    },
+    "name": "Sao Em Vội Đi (Single)",
+    "title": "sao-em-voi-đi-(single)",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/f/2/6/9/f2698bf67091d22d388961dbea4117a1.jpg",
+    "description": "<p>Cung cấp bởi: MIXUS</p>",
+    "releaseDate": 1700179200,
+    "createDate": {
+      "$date": "2023-11-20T09:25:06.043Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3f32307099914de957b3"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "songs": [
+      {
+        "$oid": "655b25b8a86f7bbb0dcde23b"
+      }
+    ],
+    "like": {
+      "items": []
+    },
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T09:25:06.043Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b26c5a86f7bbb0dcde2a6"
+    },
+    "name": "Why (Single)",
+    "title": "why-(single)",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/e/b/8/6/eb8673411b05ba68c3442bb30f5fecb7.jpg",
+    "description": "<p>Cung cấp bởi: Kakao Entertainment</p>",
+    "releaseDate": 1700179200,
+    "createDate": {
+      "$date": "2023-11-20T09:28:37.668Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3de0307099914de9578d"
+      },
+      {
+        "$oid": "653e3d08307099914de9576b"
+      },
+      {
+        "$oid": "653e3dee307099914de95791"
+      }
+    ],
+    "songs": [
+      {
+        "$oid": "655b2682a86f7bbb0dcde298"
+      }
+    ],
+    "like": {
+      "items": []
+    },
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T09:28:37.669Z"
+    },
+    "__v": 0
+  }]

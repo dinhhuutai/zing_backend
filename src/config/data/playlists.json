@@ -1,0 +1,1288 @@
+[{
+    "_id": {
+      "$oid": "655a4bad1669b799d469a095"
+    },
+    "name": "Trào Lưu Nhạc Hot",
+    "title": "trao-luu-nhac-hot",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/4/e/4/1/4e41a67ea680c0473ba752e8c111c9d1.jpg",
+    "isBanner": true,
+    "description": "<p>Bắt trend cùng những ca khúc hot như trà chanh giã tay và bánh đồng xu</p>",
+    "createDate": {
+      "$date": "2023-11-19T17:53:49.983Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      },
+      {
+        "$oid": "653e3dbe307099914de95787"
+      },
+      {
+        "$oid": "653e3de7307099914de9578f"
+      }
+    ],
+    "songs": [
+      {
+        "$oid": "655a4a131669b799d4699f5d"
+      },
+      {
+        "$oid": "655a494e1669b799d4699f28"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-19T17:53:49.989Z"
+    },
+    "__v": 0,
+    "imageBanner": "https://photo-zmp3.zmdcdn.me/banner/7/d/5/e/7d5e74c9749adde34eaf3fa6a2cf1df7.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "655a4ef01669b799d469a173"
+    },
+    "name": "Today's V-Pop Hits",
+    "title": "today's-v-pop-hits",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/4/4/4/e/444e366c928016cb30888517d1aee24d.jpg",
+    "isBanner": true,
+    "description": "<p>'Từng quen' và 30 bản Hit V-Pop nổi bật nhất hiện nay</p>",
+    "createDate": {
+      "$date": "2023-11-19T18:07:44.126Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3f32307099914de957b3"
+      }
+    ],
+    "songs": [
+      {
+        "$oid": "655a4dcc1669b799d469a114"
+      },
+      {
+        "$oid": "655a4e8c1669b799d469a140"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-19T18:07:44.128Z"
+    },
+    "__v": 0,
+    "imageBanner": "https://photo-zmp3.zmdcdn.me/banner/b/b/5/1/bb512b65aa57ec80d14c30c576bafb03.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "655a52271669b799d469a21b"
+    },
+    "name": "Acoustic Thư Giãn",
+    "title": "acoustic-thu-gian",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/1/7/3/c/173ce5cfc42b83b9ebe59d4441fbae60.jpg",
+    "isBanner": false,
+    "description": "<p>Không ồn ã, không vội vàng, cùng thư giãn với âm nhạc Acoustic ngay tại đây</p>",
+    "createDate": {
+      "$date": "2023-11-19T18:21:27.900Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3f01307099914de957a5"
+      },
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "songs": [
+      {
+        "$oid": "655a51db1669b799d469a210"
+      },
+      {
+        "$oid": "655a50951669b799d469a1bb"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-19T18:21:27.908Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b090ea86f7bbb0dcde013"
+    },
+    "name": "Billboard Music Awards 2023",
+    "title": "billboard-music-awards-2023",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/1/5/c/6/15c6da4fca87973b4ab48b0c0220e6c1.jpg",
+    "isBanner": true,
+    "description": "<p>Cập nhật nhanh những nghệ sĩ giành chiến thắng tại Billboard Music Awards 2023 cũng như những màn trình diễn nóng nhất tại đây.</p>",
+    "createDate": {
+      "$date": "2023-11-20T07:21:50.913Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3f01307099914de957a5"
+      },
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3d08307099914de9576b"
+      },
+      {
+        "$oid": "653e3de0307099914de9578d"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b089ca86f7bbb0dcddfb2"
+      },
+      {
+        "$oid": "655b07eea86f7bbb0dcddf68"
+      }
+    ],
+    "like": [
+      {
+        "$oid": "653fffb453dfdbb779957a5b"
+      }
+    ],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T07:21:50.915Z"
+    },
+    "__v": 0,
+    "imageBanner": "https://photo-zmp3.zmdcdn.me/banner/4/5/9/e/459e8c5b6e17ebb1e1717011bd359cea.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "655b2b67a86f7bbb0dcde497"
+    },
+    "name": "Lofi Một Chút Thôi",
+    "title": "lofi-mot-chut-thoi",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/2/4/5/3/24538985249cd4d3b324b4a4a09ad288.jpg",
+    "isBanner": false,
+    "description": "<p>Nhạc Việt \"lâu phai\" và gây nghiện hoài hoài</p>",
+    "createDate": {
+      "$date": "2023-11-20T09:48:23.488Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b2b0fa86f7bbb0dcde471"
+      },
+      {
+        "$oid": "655b2a81a86f7bbb0dcde412"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T09:48:23.488Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b2da2a86f7bbb0dcde561"
+    },
+    "name": "Nhạc Hoa Lời Việt Nhẹ Nhàng",
+    "title": "nhac-hoa-loi-viet-nhe-nhang",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/9/b/e/6/9be6f892a7f95ef25632752dd2a319c2.jpg",
+    "isBanner": false,
+    "description": "<p>Lắng nghe những giai điệu nhạc Hoa lời Việt nhẹ nhàng như những cánh hoa rơi</p>",
+    "createDate": {
+      "$date": "2023-11-20T09:57:54.668Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b2d4ca86f7bbb0dcde51f"
+      },
+      {
+        "$oid": "655b2c76a86f7bbb0dcde514"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T11:07:47.922Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b2f64a86f7bbb0dcde6a3"
+    },
+    "name": "Nhạc Lofi Chill Gây Nghiện",
+    "title": "nhac-lofi-chill-gay-nghien",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/4/5/4/9/45493e859cde749c75fb4377c14d0db3.jpg",
+    "isBanner": false,
+    "description": "<p>Thả mình vào những giai điệu Lofi Chill nghe là nghiện</p>",
+    "createDate": {
+      "$date": "2023-11-20T10:05:24.864Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b2e6ba86f7bbb0dcde5ed"
+      },
+      {
+        "$oid": "655b2ed9a86f7bbb0dcde60f"
+      },
+      {
+        "$oid": "655b2b0fa86f7bbb0dcde471"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T11:07:36.558Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b320da86f7bbb0dcde797"
+    },
+    "name": "Playlist Này Chill Phết",
+    "title": "playlist-nay-chill-phet",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/c/c/9/f/cc9f7d0078204d00a5c27345ce3c9546.jpg",
+    "isBanner": false,
+    "description": "<p>Va vào những giai điệu thư giãn của V-Pop</p>",
+    "createDate": {
+      "$date": "2023-11-20T10:16:45.973Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b312ca86f7bbb0dcde74e"
+      },
+      {
+        "$oid": "655b31bca86f7bbb0dcde783"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T10:16:45.974Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b3351a86f7bbb0dcde811"
+    },
+    "name": "Mood: Đà Lạt",
+    "title": "mood:-đa-lat",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/a/1/a/9/a1a9b4ec1741b0f150347bc8582d89ba.jpg",
+    "isBanner": false,
+    "description": "<p>Tận hưởng bầu không khí Đà Lạt thông qua những ca khúc nhẹ nhàng da diết</p>",
+    "createDate": {
+      "$date": "2023-11-20T10:22:09.072Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b330ca86f7bbb0dcde803"
+      },
+      {
+        "$oid": "655b32b6a86f7bbb0dcde801"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T10:22:09.073Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b3dd4a86f7bbb0dcde893"
+    },
+    "name": "tình iu cũng vui á chớ",
+    "title": "tinh-iu-cung-vui-a-cho",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/7/4/0/d/740daa7c8d9531e69f701931ba7fbb8d.jpg",
+    "isBanner": false,
+    "description": "<p>Tình yêu là gì ấy nhỉ, hình như là \"tụi mình\" đó</p>",
+    "createDate": {
+      "$date": "2023-11-20T11:07:00.981Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3f1c307099914de957ad"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b3cf6a86f7bbb0dcde87d"
+      },
+      {
+        "$oid": "655b3d59a86f7bbb0dcde882"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T11:07:00.982Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b3f15a86f7bbb0dcde989"
+    },
+    "name": "Nhạc Chữa Buồn",
+    "title": "nhac-chua-buon",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/1/5/3/2/1532372f1e3baacca5f7a3d9cee03563.jpg",
+    "isBanner": false,
+    "description": "<p>Nhẹ nhàng chữa lành trái tim bằng giai điệu tích cực</p>",
+    "createDate": {
+      "$date": "2023-11-20T11:12:21.385Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      },
+      {
+        "$oid": "653e3f1c307099914de957ad"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b3ea5a86f7bbb0dcde975"
+      },
+      {
+        "$oid": "655b3ee2a86f7bbb0dcde978"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T11:12:21.385Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b4077a86f7bbb0dcde9e2"
+    },
+    "name": "Nhạc Giật Giật Trending",
+    "title": "nhac-giat-giat-trending",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/a/7/2/e/a72e63b7602ab3fd88404c6717920e38.jpg",
+    "isBanner": false,
+    "description": "<p>Ở đây có nhạc để bạn rần rần đu trend.</p>",
+    "createDate": {
+      "$date": "2023-11-20T11:18:15.623Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3f1c307099914de957ad"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b3ff8a86f7bbb0dcde9ce"
+      },
+      {
+        "$oid": "655b4035a86f7bbb0dcde9d1"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T11:18:15.623Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b41f9a86f7bbb0dcdea68"
+    },
+    "name": "Tự Nhiên Vui Ngang",
+    "title": "tu-nhien-vui-ngang",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/b/1/3/5/b135e48463662bab9d9910316ad4b098.jpg",
+    "isBanner": false,
+    "description": "<p>Nghe vào đảm bảo vui muốn xỉu</p>",
+    "createDate": {
+      "$date": "2023-11-20T11:24:41.947Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3f1c307099914de957ad"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b413aa86f7bbb0dcdea42"
+      },
+      {
+        "$oid": "655b41a0a86f7bbb0dcdea48"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T11:24:41.948Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b431fa86f7bbb0dcdeab7"
+    },
+    "name": "Nghe Là Yêu",
+    "title": "nghe-la-yeu",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/0/0/0/e/000e02623da2905645f36df8eb2c4d74.jpg",
+    "isBanner": false,
+    "description": "<p>Va vào những giai điệu nghe là muốn có bồ</p>",
+    "createDate": {
+      "$date": "2023-11-20T11:29:35.346Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3f1c307099914de957ad"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b42b8a86f7bbb0dcdeaa2"
+      },
+      {
+        "$oid": "655b42f0a86f7bbb0dcdeaa6"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T11:29:35.347Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b4a6da86f7bbb0dcdeb27"
+    },
+    "name": "V-Pop Remix",
+    "title": "v-pop-remix",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/b/8/9/3/b89373d04f7f5ad6474575d91487e17c.jpg",
+    "isBanner": false,
+    "description": "<p>Lên là lên là lên với các bản V-Pop Remix sôi động</p>",
+    "createDate": {
+      "$date": "2023-11-20T12:00:45.528Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3de7307099914de9578f"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b49e3a86f7bbb0dcdeb14"
+      },
+      {
+        "$oid": "655b4a2fa86f7bbb0dcdeb16"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T12:00:45.528Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b6800a86f7bbb0dcdebd1"
+    },
+    "name": "Đỉnh Cao Remix Việt",
+    "title": "đinh-cao-remix-viet",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/8/b/6/3/8b633f47ce20e9e7d6f73ff577899c85.jpg",
+    "isBanner": false,
+    "description": "<p>Ở đây có những bản Remix Việt chọn lọc nhất</p>",
+    "createDate": {
+      "$date": "2023-11-20T14:06:56.104Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3de7307099914de9578f"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b678ea86f7bbb0dcdebbd"
+      },
+      {
+        "$oid": "655b67d0a86f7bbb0dcdebc0"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T14:06:56.105Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b7485a86f7bbb0dcdec9a"
+    },
+    "name": "Nhạc Này Là Để Quẩy",
+    "title": "nhac-nay-la-đe-quay",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/0/d/8/d/0d8d4e9d9ed1b9152ff959924083c3fb.jpg",
+    "isBanner": false,
+    "description": "<p>Mở nhạc lên, nào ta cùng quẩy</p>",
+    "createDate": {
+      "$date": "2023-11-20T15:00:21.755Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3de7307099914de9578f"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b743aa86f7bbb0dcdec5d"
+      },
+      {
+        "$oid": "655a4a131669b799d4699f5d"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T15:00:21.762Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b75cda86f7bbb0dcded2d"
+    },
+    "name": "Nhạc Trẻ Vinahouse",
+    "title": "nhac-tre-vinahouse",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/9/e/8/c/9e8c67c23bace04d5e0e99b850ced883.jpg",
+    "isBanner": false,
+    "description": "<p>Tuyển tập nhạc trẻ Vinahouse V-Pop cực đỉnh</p>",
+    "createDate": {
+      "$date": "2023-11-20T15:05:49.495Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3de7307099914de9578f"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b754ea86f7bbb0dcded17"
+      },
+      {
+        "$oid": "655b759ba86f7bbb0dcded1b"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T15:05:49.495Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b7730a86f7bbb0dcdedaa"
+    },
+    "name": "House Lak",
+    "title": "house-lak",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/4/e/6/c/4e6cea49a6cf2f1073858a49aeb2a8b2.jpg",
+    "isBanner": false,
+    "description": "<p>Nhạc này cực cuốn, vừa lak vừa làm gì cũng được</p>",
+    "createDate": {
+      "$date": "2023-11-20T15:11:44.559Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3de7307099914de9578f"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b76a7a86f7bbb0dcded55"
+      },
+      {
+        "$oid": "655b76d6a86f7bbb0dcded58"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T15:11:44.560Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b7ba6a86f7bbb0dcdee91"
+    },
+    "name": "cuối cùng thì mình cũng chia ly",
+    "title": "cuoi-cung-thi-minh-cung-chia-ly",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/a/9/9/2/a9924a699be6554ea10f728839670ecd.jpg",
+    "isBanner": false,
+    "description": "<p>Ngàn câu hứa chẳng được gì, cuối cùng thì mình cũng chia ly</p>",
+    "createDate": {
+      "$date": "2023-11-20T15:30:46.339Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3f32307099914de957b3"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b7975a86f7bbb0dcdee48"
+      },
+      {
+        "$oid": "655b79aba86f7bbb0dcdee4b"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T19:45:14.834Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b7bdfa86f7bbb0dcdee99"
+    },
+    "name": "một chút vỡ nát một chút cô đơn",
+    "title": "mot-chut-vo-nat-mot-chut-co-đon",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/6/5/1/2/65122861ade56e101799b7a0b44dcc69.jpg",
+    "isBanner": false,
+    "description": "<p>Hát có thể làm vơi đi bớt nỗi lòng, nhưng liệu có khỏa lấp được vỡ nát trong tim?</p>",
+    "createDate": {
+      "$date": "2023-11-20T15:31:43.134Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3f32307099914de957b3"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b79e3a86f7bbb0dcdee4e"
+      },
+      {
+        "$oid": "655b7a16a86f7bbb0dcdee51"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T15:31:43.134Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b7c0da86f7bbb0dcdeea1"
+    },
+    "name": "ở đây có một chút nhạc buồn",
+    "title": "o-đay-co-mot-chut-nhac-buon",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/a/5/e/0/a5e006393ee6d892e7663c9aa51eb4ab.jpg",
+    "isBanner": false,
+    "description": "<p>Một mình nghêu ngao những câu hát indie buồn tênh</p>",
+    "createDate": {
+      "$date": "2023-11-20T15:32:29.546Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3f32307099914de957b3"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b7a63a86f7bbb0dcdee57"
+      },
+      {
+        "$oid": "655b7a91a86f7bbb0dcdee5a"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T15:32:29.546Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b7c42a86f7bbb0dcdeea9"
+    },
+    "name": "níu duyên",
+    "title": "niu-duyen",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/1/8/b/8/18b86f948e91b702927f66556ccd26d6.jpg",
+    "isBanner": false,
+    "description": "<p>Khi đôi ta đã hết duyên thì có níu kéo thế nào cũng khiến đối phương thêm đau khổ</p>",
+    "createDate": {
+      "$date": "2023-11-20T15:33:22.723Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3f32307099914de957b3"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b7acba86f7bbb0dcdee5e"
+      },
+      {
+        "$oid": "655a4e8c1669b799d469a140"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T15:33:22.724Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b7c6da86f7bbb0dcdeeb1"
+    },
+    "name": "Lofi Sad Beats",
+    "title": "lofi-sad-beats",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/a/d/4/4/ad44cc26a359cfec02d816e34ce9a4da.jpg",
+    "isBanner": false,
+    "description": "<p>Chầm chậm cùng những giai điệu lofi</p>",
+    "createDate": {
+      "$date": "2023-11-20T15:34:05.584Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3f32307099914de957b3"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b7b25a86f7bbb0dcdee7a"
+      },
+      {
+        "$oid": "655b7b60a86f7bbb0dcdee7e"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T15:34:05.585Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b84f8a86f7bbb0dcdef46"
+    },
+    "name": "Những Bài Hát Hay Nhất Của Wren Evans",
+    "title": "nhung-bai-hat-hay-nhat-cua-wren-evans",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/5/2/3/d/523d21ba9e557a047c1ffa8287cb0071.jpg",
+    "isBanner": false,
+    "description": "<p>Muốn hết bối rối thì nghe ngay Hit của Wren Evans</p>",
+    "createDate": {
+      "$date": "2023-11-20T16:10:32.362Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3f01307099914de957a5"
+      },
+      {
+        "$oid": "653e3d5a307099914de95779"
+      }
+    ],
+    "onlyArtist": true,
+    "songs": [
+      {
+        "$oid": "655b8475a86f7bbb0dcdef30"
+      },
+      {
+        "$oid": "655b84b5a86f7bbb0dcdef34"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T16:10:32.362Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b85c1a86f7bbb0dcdef7a"
+    },
+    "name": "Những Bài Hát Hay Nhất Của Thành Đạt",
+    "title": "nhung-bai-hat-hay-nhat-cua-thanh-đat",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/e/5/3/0/e530d9f2ecc2ac09124490cd8933c8a5.jpg",
+    "isBanner": false,
+    "description": "<p>Khi Thành Đạt kể chuyện tình buồn bằng âm nhạc</p>",
+    "createDate": {
+      "$date": "2023-11-20T16:13:53.506Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3f32307099914de957b3"
+      },
+      {
+        "$oid": "653e3d5a307099914de95779"
+      }
+    ],
+    "onlyArtist": true,
+    "songs": [
+      {
+        "$oid": "655b8554a86f7bbb0dcdef67"
+      },
+      {
+        "$oid": "655b8584a86f7bbb0dcdef69"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T16:13:53.507Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b86e5a86f7bbb0dcdefbe"
+    },
+    "name": "Những Bài Hát Hay Nhất Của Hoàng Duyên",
+    "title": "nhung-bai-hat-hay-nhat-cua-hoang-duyen",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/1/8/9/3/1893f2bb65ea4fe5dc638932d0e854db.jpg",
+    "isBanner": false,
+    "description": "<p>'Ba Giữ Sức Khỏe Nha' và những bản Hit của Hoàng Duyên</p>",
+    "createDate": {
+      "$date": "2023-11-20T16:18:45.829Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      }
+    ],
+    "onlyArtist": true,
+    "songs": [
+      {
+        "$oid": "655b8669a86f7bbb0dcdef97"
+      },
+      {
+        "$oid": "655b86a6a86f7bbb0dcdef9a"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T16:18:45.830Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b87cea86f7bbb0dcdf032"
+    },
+    "name": "Những Bài Hát Hay Nhất Của Hoài Lâm",
+    "title": "nhung-bai-hat-hay-nhat-cua-hoai-lam",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/1/3/8/2/1382c9844fbaeef3284da5fba474a4da.jpg",
+    "isBanner": false,
+    "description": "<p>'Đậm Sâu Chẳng Được Gì' và bộ sưu tập Hit của Hoài Lâm</p>",
+    "createDate": {
+      "$date": "2023-11-20T16:22:38.346Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3f32307099914de957b3"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "onlyArtist": true,
+    "songs": [
+      {
+        "$oid": "655b8755a86f7bbb0dcdf01f"
+      },
+      {
+        "$oid": "655b8788a86f7bbb0dcdf021"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T16:22:38.348Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b88fea86f7bbb0dcdf085"
+    },
+    "name": "Những Bài Hát Hay Nhất Của Đàm Vĩnh Hưng",
+    "title": "nhung-bai-hat-hay-nhat-cua-đam-vinh-hung",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/images/f/c/6/b/fc6b1b8008de5fb935fc567e05859cae.jpg",
+    "isBanner": false,
+    "description": "<p>Tuyển tập các bài hát hay nhất của Đàm Vĩnh Hưng</p>",
+    "createDate": {
+      "$date": "2023-11-20T16:27:42.291Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3dd8307099914de9578b"
+      }
+    ],
+    "onlyArtist": true,
+    "songs": [
+      {
+        "$oid": "655b882da86f7bbb0dcdf066"
+      },
+      {
+        "$oid": "655b8864a86f7bbb0dcdf069"
+      },
+      {
+        "$oid": "655b888aa86f7bbb0dcdf06b"
+      },
+      {
+        "$oid": "655b88b5a86f7bbb0dcdf06d"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T16:27:42.292Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b8b1ba86f7bbb0dcdf0f7"
+    },
+    "name": "Top 100 Bài Hát Nhạc Trẻ Hay Nhất",
+    "title": "top-100-bai-hat-nhac-tre-hay-nhat",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/1/b/f/5/1bf5ddb1bb13570f5cc58ca0eef83aeb.jpg",
+    "isBanner": false,
+    "description": "<p>Top 100 Nhạc Trẻ là danh sách 100 ca khúc hot nhất hiện tại của thể loại Nhạc Trẻ</p>",
+    "createDate": {
+      "$date": "2023-11-20T16:36:43.399Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3d4a307099914de95775"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655a4a131669b799d4699f5d"
+      },
+      {
+        "$oid": "655a4e8c1669b799d469a140"
+      },
+      {
+        "$oid": "655b8475a86f7bbb0dcdef30"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T16:59:27.101Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b8ff2a86f7bbb0dcdf2eb"
+    },
+    "name": "Top 100 Pop Âu Mỹ Hay Nhất",
+    "title": "top-100-pop-au-my-hay-nhat",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/4/a/4/1/4a41cb64d7304c636919cdcef78086da.jpg",
+    "isBanner": false,
+    "description": "<p>Top 100 Nhạc Pop Âu Mỹ là danh sách 100 ca khúc hot nhất hiện tại của thể loại Top 100 Nhạc Pop Âu Mỹ</p>",
+    "createDate": {
+      "$date": "2023-11-20T16:57:22.378Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3d4a307099914de95775"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b8d82a86f7bbb0dcdf252"
+      },
+      {
+        "$oid": "655b8dc0a86f7bbb0dcdf255"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T16:58:59.444Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b903da86f7bbb0dcdf2f4"
+    },
+    "name": "Top 100 Nhạc Hàn Quốc Hay Nhất",
+    "title": "top-100-nhac-han-quoc-hay-nhat",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/4/c/5/7/4c575b953fecca469f847fc7e45dff39.jpg",
+    "isBanner": false,
+    "description": "<p>Top 100 Nhạc Hàn Quốc Hay Nhất là danh sách 100 ca khúc hot nhất hiện tại của thể loại Nhạc Hàn Quốc</p>",
+    "createDate": {
+      "$date": "2023-11-20T16:58:37.742Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3d4a307099914de95775"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b8dffa86f7bbb0dcdf258"
+      },
+      {
+        "$oid": "655b8e35a86f7bbb0dcdf25b"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T16:58:37.743Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b90a8a86f7bbb0dcdf390"
+    },
+    "name": "Top 100 Nhạc Rap Việt Nam Hay Nhất",
+    "title": "top-100-nhac-rap-viet-nam-hay-nhat",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/5/6/d/8/56d83ba23561534e909098bf815bb127.jpg",
+    "isBanner": false,
+    "description": "<p>Top 100 Nhạc Rap Việt Nam Hay Nhất là danh sách 100 ca khúc hot nhất hiện tại của thể loại nhạc Rap Việt Nam</p>",
+    "createDate": {
+      "$date": "2023-11-20T17:00:24.817Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3d4a307099914de95775"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b8eb0a86f7bbb0dcdf261"
+      },
+      {
+        "$oid": "655b8eeea86f7bbb0dcdf264"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T17:00:24.818Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b90dba86f7bbb0dcdf398"
+    },
+    "name": "Top 100 Nhạc EDM Việt Hay Nhất",
+    "title": "top-100-nhac-edm-viet-hay-nhat",
+    "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/9/5/4/d/954d2d517df032fa0ef6331388ffdeec.jpg",
+    "isBanner": false,
+    "description": "<p>Top 100 Nhạc EDM Việt là danh sách 100 ca khúc hot nhất hiện tại của thể loại Nhạc EDM Việt</p>",
+    "createDate": {
+      "$date": "2023-11-20T17:01:15.209Z"
+    },
+    "createBy": {
+      "$oid": "653ffffa53dfdbb779957a5f"
+    },
+    "genreId": [
+      {
+        "$oid": "653e3d4a307099914de95775"
+      }
+    ],
+    "onlyArtist": false,
+    "songs": [
+      {
+        "$oid": "655b8f7aa86f7bbb0dcdf2d6"
+      },
+      {
+        "$oid": "655b8fb4a86f7bbb0dcdf2da"
+      }
+    ],
+    "like": [],
+    "listening": 0,
+    "contentLastUpdate": {
+      "$date": "2023-11-20T17:01:15.210Z"
+    },
+    "__v": 0
+  }]

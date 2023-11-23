@@ -1,240 +1,1800 @@
 [{
-    "_id": {
-      "$oid": "653e71444aede51a9816828e"
-    },
-    "name": "Hoài Lâm",
-    "title": "hoai-lam",
-    "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/c/3/2/6c32d58de86a0414e5ab4d0d74728d30.jpg",
-    "banner": "",
-    "information": "Hoài Lâm sinh ra trong gia đình nghệ thuật. Năm 13 tuổi, Hoài Lâm theo nghệ sĩ Hoài Linh học nghề hát và diễn xuất. Anh được Hoài Linh nhận làm con nuôi và đặt nghệ danh \"Hoài Lâm\". Được Hoài Linh giới thiệu, Đàm Vĩnh Hưng nhận Hoài Lâm làm học trò và hướng dẫn luyện thanh. Năm 2013, Hoài Lâm ra mắt album \"Về Đâu Mái Tóc Người Thương\". Năm 2014, anh trở thành quán quân \"Gương mặt thân quen\" mùa 2, cho thấy khả năng hát tốt ở nhiều thể loại: bolero, trữ tình, nhạc trẻ. Cùng năm, anh ra mắt ca khúc debut \"Như Những Phút Ban Đầu\", trở thành tên tuổi sáng giá của V-Pop. Năm 2015, anh phát hành 2 album \"Quay Về\" và \"Cô Bé Ngày Xưa\". Năm 2020, sau một thời gian vắng bóng, Hoài Lâm trở lại với hàng loạt ca khúc mới.",
-    "song": {
-      "items": [],
-      "totalDuration": 0
-    },
-    "following": {
-      "items": []
-    },
-    "createDate": {
-      "$date": "2023-10-29T14:50:44.770Z"
-    },
-    "contentLastUpdate": {
-      "$date": "2023-10-29T14:50:44.771Z"
-    },
-    "__v": 0
+  "_id": {
+    "$oid": "6555e6684b1ca3f0b692a039"
   },
-  {
-    "_id": {
-      "$oid": "653e8ea048e11c82aa249ba4"
-    },
-    "name": "Tuấn Hưng",
-    "title": "tuan-hung",
-    "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/6/3/6/b636f91811a99221d8833e760596400c.jpg",
-    "banner": "",
-    "information": "Khi còn đang là sinh viên đại học, Tuấn Hưng tham gia nhóm Quả Dưa Hấu, một nhóm nhạc nổi tiếng của Hà Nội lúc bấy giờ. Năm 2000, Tuấn Hưng quyết định vào Sài Gòn để lập nghiệp. Dấu ấn đầu tiên của anh tại Sài Gòn là lần biểu diễn chương trình CLB Bạn Yêu Nhạc tại Nhà hát Bến Thành. Sau đó, với hoạt động âm nhạc bền bỉ, Tuấn Hưng dần được khán giả yêu mến, các ca khúc của anh đều lọt top Làn Sóng Xanh. Hơn 20 năm hoạt động, anh đã phát hành được 18 album riêng với nhiều phong cách, thể loại khác nhau, trở thành một nam ca sĩ nổi bật của âm nhạc Việt Nam qua nhiều thế hệ, với nhiều bài hit gắn liền với tên tuổi Tuấn Hưng như \"Vũ Điệu Thần Tiên\", \"Tìm Lại Bầu Trời\", \"Cầu Vống Khuyết\"...",
-    "song": {
-      "items": [],
-      "totalDuration": 0
-    },
-    "following": {
-      "items": []
-    },
-    "createDate": {
-      "$date": "2023-10-29T16:56:00.750Z"
-    },
-    "contentLastUpdate": {
-      "$date": "2023-10-29T16:56:00.750Z"
-    },
-    "__v": 0
+  "encodeId": "ckMvPdejs",
+  "name": "Hoài Lâm",
+  "title": "hoai-lam",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/c/3/2/6c32d58de86a0414e5ab4d0d74728d30.jpg",
+  "information": "<p>Hoài Lâm sinh ra trong gia đình nghệ thuật. Năm 13 tuổi, Hoài Lâm theo nghệ sĩ Hoài Linh học nghề hát và diễn xuất. Anh được Hoài Linh nhận làm con nuôi và đặt nghệ danh \\\"Hoài Lâm\\\". Được Hoài Linh giới thiệu, Đàm Vĩnh Hưng nhận Hoài Lâm làm học trò và hướng dẫn luyện thanh. Năm 2013, Hoài Lâm ra mắt album \\\"Về Đâu Mái Tóc Người Thương\\\". Năm 2014, anh trở thành quán quân \\\"Gương mặt thân quen\\\" mùa 2, cho thấy khả năng hát tốt ở nhiều thể loại: bolero, trữ tình, nhạc trẻ. Cùng năm, anh ra mắt ca khúc debut \\\"Như Những Phút Ban Đầu\\\", trở thành tên tuổi sáng giá của V-Pop. Năm 2015, anh phát hành 2 album \\\"Quay Về\\\" và \\\"Cô Bé Ngày Xưa\\\". Năm 2020, sau một thời gian vắng bóng, Hoài Lâm trở lại với hàng loạt ca khúc mới.</p>",
+  "createDate": {
+    "$date": "2023-11-16T09:52:40.703Z"
   },
-  {
-    "_id": {
-      "$oid": "653e8eab48e11c82aa249ba6"
-    },
-    "name": "Hồ Quang Hiếu",
-    "title": "ho-quang-hieu",
-    "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/2/3/0/a2309e99e71954d95969bc53224318dc.jpg",
-    "banner": "",
-    "information": "Hồ Quang Hiếu tốt nghiệp trường Văn hóa Nghệ thuật Quân đội Hà Nội và vào Thành phố Hồ Chí Minh để lập nghiệp năm 2010. Năm 2011, anh ra mắt album \"Chỉ Cần Em Hạnh Phúc\", trong đó ca khúc chủ đề cùng tên nhận được sự ủng hộ tích cực của người nghe, nhiều tuần đứng đầu các bảng xếp hạng âm nhạc. Năm 2014, anh ra mắt ca khúc \"Con bướm xuân\" cũng rất được yêu thích. Từ đó đến nay, anh ra mắt nhiều album. Gia tài các bài hit của anh ngày càng nhiều lên, có thể kể đến \"Không Cảm Xúc\", \"Đổi Thay\", \"Em Là Của Anh\" (song ca cùng Hồ Việt Trung), \"Nơi Ấy Con Tìm Về\", \"Tôi Là Tôi\"... Hồ Quang Hiếu cũng phát hành phim ca nhạc do anh thủ vai chính có tên \"Hiếu Bến Tàu\" rất được các khán giả yêu thích.",
-    "song": {
-      "items": [],
-      "totalDuration": 0
-    },
-    "following": {
-      "items": []
-    },
-    "createDate": {
-      "$date": "2023-10-29T16:56:11.618Z"
-    },
-    "contentLastUpdate": {
-      "$date": "2023-10-29T16:56:11.619Z"
-    },
-    "__v": 0
+  "following": {
+    "items": []
   },
-  {
-    "_id": {
-      "$oid": "653e8eb448e11c82aa249ba8"
-    },
-    "name": "Phan Mạnh Quỳnh",
-    "title": "phan-manh-quynh",
-    "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/6/a/d/16ad38a571e873f840bbfc0d97214baa.jpg",
-    "banner": "",
-    "information": "Phan Mạnh Quỳnh là tác giả của nhiều ca khúc như: \"Người Yêu Cũ\" của Khởi My, \"Nơi Ấy Con Tìm Về\" của Hồ Quang Hiếu... Năm 2015 ca khúc \"Vợ Người Ta\" được đón nhận nồng nhiệt, mang lại cho anh nhiều giải thưởng. Năm 2016, anh tham gia Sing My Song và sáng tác \"Hồi Ức\" và \"Có Chàng Trai Viết Lên Cây\". Năm 2018, \"Hồi Ức\" được sử dụng làm nhạc phim \"Người Bất Tử\", cùng với ca khúc \"Người Bất Tử\" cũng do anh sáng tác. Năm 2019, \"Có Chàng Trai Viết Lên Cây\" được sử dụng làm nhạc phim \"Mắt Biếc\", cùng với ba ca khúc khác do anh sáng tác là \"Từ Đó\", \"Tôi Chỉ Muốn Nói\" và \"Hà Lan\". Các sáng tác của anh từ đó đến nay đều được khán giả đón nhận nồng nhiệt, gần đây nhất là \"Nhạt\", \"Khi Phải Quên Đi\" và \"Cuộc Gọi\".",
-    "song": {
-      "items": [],
-      "totalDuration": 0
-    },
-    "following": {
-      "items": []
-    },
-    "createDate": {
-      "$date": "2023-10-29T16:56:20.433Z"
-    },
-    "contentLastUpdate": {
-      "$date": "2023-10-29T16:56:20.433Z"
-    },
-    "__v": 0
+  "contentLastUpdate": {
+    "$date": "2023-11-16T09:52:40.708Z"
   },
-  {
-    "_id": {
-      "$oid": "653e8ebb48e11c82aa249baa"
-    },
-    "name": "Khắc Hưng",
-    "title": "khac-hung",
-    "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/8/d/d/58dd5b661df85be3c6d4cd13c2f0a579.jpg",
-    "banner": "",
-    "information": "Từ nhỏ, Khắc Hưng đã làm quen với môi trường âm nhạc, chịu ảnh hưởng từ người anh trai ruột là ca-nhạc sĩ Khắc Việt. Năm 2014, Khắc Hưng tham gia sản xuất âm nhạc cho album đầu tay, \"Khởi Hành\" của ca sĩ Nguyễn Trần Trung Quân, giúp ca sĩ này mang về 2 giải Cống hiến. Cùng trong năm, anh chịu trách nhiệm biên tập, chỉ huy ban nhạc cho liveshow đầu tiên \"Yêu\" của Khắc Việt. Sau đó, các nghệ sĩ tin tưởng Khắc Hưng với vai trò sản xuất âm nhạc, như Mỹ Tâm với album \"Tâm 9\" (2017), Văn Mai Hương với \"Hương - Blossom\" (2019) hay Hoàng Rob với \"Hừng Đông\" (2016).. Với vai trò nhạc sĩ, anh có nhiều ca khúc ghi dấu ấn như \"Hơn Cả Yêu\" (Đức Phúc), \"Sau Tất Cả\" (ERIK), \"I'm Still Loving You\" (Noo Phước Thịnh)...",
-    "song": {
-      "items": [],
-      "totalDuration": 0
-    },
-    "following": {
-      "items": []
-    },
-    "createDate": {
-      "$date": "2023-10-29T16:56:27.613Z"
-    },
-    "contentLastUpdate": {
-      "$date": "2023-10-29T16:56:27.614Z"
-    },
-    "__v": 0
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6555e70c4b1ca3f0b692a060"
   },
-  {
-    "_id": {
-      "$oid": "653e8ec548e11c82aa249bac"
-    },
-    "name": "ERIK",
-    "title": "erik",
-    "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/1/c/0/f1c046a525a1b3894afa2f397cb2ed42.jpg",
-    "banner": "",
-    "information": "ERIK tham gia Giọng Hát Việt Nhí năm 2013 và dừng lại ở vị trí top 15. Năm 2014, anh tham gia cuộc thi của St.319 Entertainment và trở thành thực tập sinh. Năm 2016, ERIK debut với ca khúc Pop ballad \"Sau Tất Cả\". Ca khúc nhanh chóng trở thành cơn sốt đối với giới trẻ. Năm 2017, ERIK rời công ty. Anh kết hợp với MIN trong ca khúc \"Ghen\". Bài hát là bước tiến nổi bật trong sự nghiệp ca hát của anh. Từ 2018 đến nay, ERIK đều đặn ra mắt các bản hit: \"Chạm Đáy Nỗi Đau\" (2018), \"Đừng Có Mơ\" (2018), \"Anh Ta Là Sao\" (2019), \"Có Tất Cả Nhưng Thiếu Anh\" (2019)... Đầu năm 2020, phiên bản mới của \"Ghen\" là \"Ghen Cô Vy\" ra mắt trong thời điểm dịch COVID-19 được đón nhận, không chỉ trong nước mà cả trên thế giới.",
-    "song": {
-      "items": [],
-      "totalDuration": 0
-    },
-    "following": {
-      "items": []
-    },
-    "createDate": {
-      "$date": "2023-10-29T16:56:37.899Z"
-    },
-    "contentLastUpdate": {
-      "$date": "2023-10-29T16:56:37.899Z"
-    },
-    "__v": 0
+  "encodeId": "HsF2dx86H",
+  "name": "Hồ Quang Hiếu",
+  "title": "ho-quang-hieu",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/2/3/0/a2309e99e71954d95969bc53224318dc.jpg",
+  "information": "<p>Hồ Quang Hiếu tốt nghiệp trường Văn hóa Nghệ thuật Quân đội Hà Nội và vào Thành phố Hồ Chí Minh để lập nghiệp năm 2010. Năm 2011, anh ra mắt album \\\"Chỉ Cần Em Hạnh Phúc\\\", trong đó ca khúc chủ đề cùng tên nhận được sự ủng hộ tích cực của người nghe, nhiều tuần đứng đầu các bảng xếp hạng âm nhạc. Năm 2014, anh ra mắt ca khúc \\\"Con bướm xuân\\\" cũng rất được yêu thích. Từ đó đến nay, anh ra mắt nhiều album. Gia tài các bài hit của anh ngày càng nhiều lên, có thể kể đến \\\"Không Cảm Xúc\\\", \\\"Đổi Thay\\\", \\\"Em Là Của Anh\\\" (song ca cùng Hồ Việt Trung), \\\"Nơi Ấy Con Tìm Về\\\", \\\"Tôi Là Tôi\\\"... Hồ Quang Hiếu cũng phát hành phim ca nhạc do anh thủ vai chính có tên \\\"Hiếu Bến Tàu\\\" rất được các khán giả yêu thích.</p>",
+  "createDate": {
+    "$date": "2023-11-16T09:55:24.648Z"
   },
-  {
-    "_id": {
-      "$oid": "653e8ece48e11c82aa249bae"
-    },
-    "name": "MIN",
-    "title": "min",
-    "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/e/f/6/2ef6b4fc14d359656cde9d5e09842b57.jpg",
-    "banner": "",
-    "information": "MIN đã có một bước đột phá mới trong sự nghiệp nghệ thuật, khi giới thiệu tới báo giới và người yêu nhạc ca khúc TÌM như một khởi đầu tốt đẹp cho con đường ca hát chuyên nghiệp. TÌM là một trong những ca khúc được tìm nghe nhiều nhất trên mạng xã hội, trong tháng 12/2013, và cũng là sản phẩm mở đường, giúp Min thêm nhiều cơ hội hợp tác cùng các nghệ sĩ trẻ khác. Với giọng hát tình cảm ngọt ngào và cá tính, có thể nói rằng, Min như một cơn gió lạ, một hình tượng mới của giới nghệ thuật Việt Nam, đang từng bước khẳng định được chính mình với sự ủng hộ của thế hệ trẻ. 2017 phát hành các singles như Ghen, Chưa Bao Giờ Mẹ Kể, Có Em Chờ......",
-    "song": {
-      "items": [],
-      "totalDuration": 0
-    },
-    "following": {
-      "items": []
-    },
-    "createDate": {
-      "$date": "2023-10-29T16:56:46.710Z"
-    },
-    "contentLastUpdate": {
-      "$date": "2023-10-29T16:56:46.710Z"
-    },
-    "__v": 0
+  "following": {
+    "items": []
   },
-  {
-    "_id": {
-      "$oid": "653e8ed848e11c82aa249bb0"
-    },
-    "name": "Phương Ly",
-    "title": "phuong-ly",
-    "image": "",
-    "banner": "https://photo-zmp3.zmdcdn.me/cover_artist/2/1/5/4/21545e4d3c3460644c12d2cb15058a12.jpg",
-    "information": "Phương Ly tham gia các cuộc thi âm nhạc từ sớm, đạt giải nhì nhạc nhẹ của Sao Mai năm 2005, lọt vào top 30 cuộc thi Vietnam Idol 2007 sau đó là bán kết 3 của Vietnam Idol 2010. Cô được đông đảo khán giả yêu thích nhưng bất ngờ biến mất khỏi showbiz Việt. Đầu năm 2015, Phương Ly xuất hiện trở lại. Cô đầu quân công ty OnOn Entertainment rồi ra mắt ca khúc \"Crush On You\" vào năm 2016. Năm 2017, sự kết hợp giữa Phương Ly và JustaTee trong \"Mặt Trời Của Em\" đạt thành công lớn, năm 2018 ca khúc \"Thằng Điên\" của bộ đôi cũng giành nhiều giải thưởng. Cái tên Phương Ly trở nên nổi tiếng trong làng V-pop, cô liên tiếp có các ca khúc hit như \"Anh Là Ai\" hay \"Đâu Chịu Ngồi Yên\" (cùng Rhymastic và Touliver) trong năm 2019.",
-    "song": {
-      "items": [],
-      "totalDuration": 0
-    },
-    "following": {
-      "items": []
-    },
-    "createDate": {
-      "$date": "2023-10-29T16:56:56.257Z"
-    },
-    "contentLastUpdate": {
-      "$date": "2023-10-29T16:56:56.257Z"
-    },
-    "__v": 0
+  "contentLastUpdate": {
+    "$date": "2023-11-16T09:55:24.650Z"
   },
-  {
-    "_id": {
-      "$oid": "653e8edf48e11c82aa249bb2"
-    },
-    "name": "AMEE",
-    "title": "amee",
-    "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/f/d/a/2fda5f39b5adca3bad9c4bfc6d586f68.jpg",
-    "banner": "",
-    "information": "Có vẻ ngoài dễ thương và chất giọng ngọt ngào, AMEE gặt hái thành công với những ca khúc nhạc Pop có phần lời thả thính trong sáng như Ex's Hate Me, Anh Nhà Ở Đâu Thế, Đen Đá Không Đường... 15 tuổi, AMEE trở thành thực tập sinh của St.319 Entertainment. Tháng 2 2019, cô góp giọng trong Ex's Hate Me của B Ray và Masew. Tháng 4 2019, cô debut với Anh Nhà Ở Đâu Thế cùng B Ray, nhanh chóng thu hút một lực lượng lớn người nghe. Tháng 5, bộ đôi ra mắt sản phẩm hợp tác thứ ba là Đen Đá Không Đường. Bài hát tiếp tục gây sốt với giới trẻ. Tháng 7, cô kết hợp với Andiez trong Anh Đánh Rơi Người Yêu Này và tháng 10 với VIRUSS trong Trời Giấu Trời Mang Đi, kết thúc một năm thành công của tân binh khủng long AMEE. Đầu năm 2020, AMEE góp giọng trong Do For Love của B Ray và Masew. Và chỉ nửa tháng sau, AMEE ra mắt ca khúc Sao Anh Chưa Về Nhà kết hợp cùng Ricky Star.",
-    "song": {
-      "items": [],
-      "totalDuration": 0
-    },
-    "following": {
-      "items": []
-    },
-    "createDate": {
-      "$date": "2023-10-29T16:57:03.929Z"
-    },
-    "contentLastUpdate": {
-      "$date": "2023-10-29T16:57:03.929Z"
-    },
-    "__v": 0
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6555e7234b1ca3f0b692a062"
   },
-  {
-    "_id": {
-      "$oid": "653e8ee948e11c82aa249bb4"
-    },
-    "name": "Suni Hạ Linh",
-    "title": "suni-ha-linh",
-    "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/5/1/3/e5132977d0df155b73a7637283fb1499.jpg",
-    "banner": "",
-    "information": "Suni du học New Zealand và trở về Việt Nam để theo đuổi đam mê ca hát. Năm 2012, cô giành giải Á quân cuộc thi Kpop Star Hunt và giành được tấm vé sang Hàn Quốc, dừng chân ở Top 16. Tháng 8 năm 2015, cô chính thức xuất hiện với nghệ danh Suni Hạ Linh, qua bản cover \"Âm Thầm Bên Em\", sau đó debut bằng ca khúc \"Cảm Ơn Người Đã rời Xa Tôi\". Năm 2016, tên tuổi Suni Hạ Linh trở nên quen thuộc với khán giả qua bản hit \"Em Đã Biết\", sau đó là \"Say Yes\" và \"Cảm Nắng\" ra mắt tháng 7 năm 2017. Năm 2018, cô rời công ty quản lý trở thành ca sĩ độc lập, trở lại thành công với \"Thích Rồi Đấy\". Năm 2019, MV \"Không Sao Mà Em Đây Rồi\" kết hợp cùng Lou Hoàng đánh dấu sự trưởng thành trong âm nhạc và hình ảnh của Suni Hạ Linh.",
-    "song": {
-      "items": [],
-      "totalDuration": 0
-    },
-    "following": {
-      "items": []
-    },
-    "createDate": {
-      "$date": "2023-10-29T16:57:13.014Z"
-    },
-    "contentLastUpdate": {
-      "$date": "2023-10-29T16:57:13.014Z"
-    },
-    "__v": 0
-  }]
+  "encodeId": "j3SXSBDZG",
+  "name": "Phan Mạnh Quỳnh",
+  "title": "phan-manh-quynh",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/6/a/d/16ad38a571e873f840bbfc0d97214baa.jpg",
+  "information": "<p>Phan Mạnh Quỳnh là tác giả của nhiều ca khúc như: \\\"Người Yêu Cũ\\\" của Khởi My, \\\"Nơi Ấy Con Tìm Về\\\" của Hồ Quang Hiếu... Năm 2015 ca khúc \\\"Vợ Người Ta\\\" được đón nhận nồng nhiệt, mang lại cho anh nhiều giải thưởng. Năm 2016, anh tham gia Sing My Song và sáng tác \\\"Hồi Ức\\\" và \\\"Có Chàng Trai Viết Lên Cây\\\". Năm 2018, \\\"Hồi Ức\\\" được sử dụng làm nhạc phim \\\"Người Bất Tử\\\", cùng với ca khúc \\\"Người Bất Tử\\\" cũng do anh sáng tác. Năm 2019, \\\"Có Chàng Trai Viết Lên Cây\\\" được sử dụng làm nhạc phim \\\"Mắt Biếc\\\", cùng với ba ca khúc khác do anh sáng tác là \\\"Từ Đó\\\", \\\"Tôi Chỉ Muốn Nói\\\" và \\\"Hà Lan\\\". Các sáng tác của anh từ đó đến nay đều được khán giả đón nhận nồng nhiệt, gần đây nhất là \\\"Nhạt\\\", \\\"Khi Phải Quên Đi\\\" và \\\"Cuộc Gọi\\\".</p>",
+  "createDate": {
+    "$date": "2023-11-16T09:55:47.425Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-16T09:55:47.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6555e73e4b1ca3f0b692a064"
+  },
+  "encodeId": "aSblwzU7y",
+  "name": "Khắc Hưng",
+  "title": "khac-hung",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/8/d/d/58dd5b661df85be3c6d4cd13c2f0a579.jpg",
+  "information": "<p>Từ nhỏ, Khắc Hưng đã làm quen với môi trường âm nhạc, chịu ảnh hưởng từ người anh trai ruột là ca-nhạc sĩ Khắc Việt. Năm 2014, Khắc Hưng tham gia sản xuất âm nhạc cho album đầu tay, \\\"Khởi Hành\\\" của ca sĩ Nguyễn Trần Trung Quân, giúp ca sĩ này mang về 2 giải Cống hiến. Cùng trong năm, anh chịu trách nhiệm biên tập, chỉ huy ban nhạc cho liveshow đầu tiên \\\"Yêu\\\" của Khắc Việt. Sau đó, các nghệ sĩ tin tưởng Khắc Hưng với vai trò sản xuất âm nhạc, như Mỹ Tâm với album \\\"Tâm 9\\\" (2017), Văn Mai Hương với \\\"Hương - Blossom\\\" (2019) hay Hoàng Rob với \\\"Hừng Đông\\\" (2016).. Với vai trò nhạc sĩ, anh có nhiều ca khúc ghi dấu ấn như \\\"Hơn Cả Yêu\\\" (Đức Phúc), \\\"Sau Tất Cả\\\" (ERIK), \\\"I'm Still Loving You\\\" (Noo Phước Thịnh)...</p>",
+  "createDate": {
+    "$date": "2023-11-16T09:56:14.032Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-16T09:56:14.032Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6555e7534b1ca3f0b692a066"
+  },
+  "encodeId": "POgeGEhZU",
+  "name": "ERIK",
+  "title": "erik",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/1/c/0/f1c046a525a1b3894afa2f397cb2ed42.jpg",
+  "information": "<p>ERIK tham gia Giọng Hát Việt Nhí năm 2013 và dừng lại ở vị trí top 15. Năm 2014, anh tham gia cuộc thi của St.319 Entertainment và trở thành thực tập sinh. Năm 2016, ERIK debut với ca khúc Pop ballad \\\"Sau Tất Cả\\\". Ca khúc nhanh chóng trở thành cơn sốt đối với giới trẻ. Năm 2017, ERIK rời công ty. Anh kết hợp với MIN trong ca khúc \\\"Ghen\\\". Bài hát là bước tiến nổi bật trong sự nghiệp ca hát của anh. Từ 2018 đến nay, ERIK đều đặn ra mắt các bản hit: \\\"Chạm Đáy Nỗi Đau\\\" (2018), \\\"Đừng Có Mơ\\\" (2018), \\\"Anh Ta Là Sao\\\" (2019), \\\"Có Tất Cả Nhưng Thiếu Anh\\\" (2019)... Đầu năm 2020, phiên bản mới của \\\"Ghen\\\" là \\\"Ghen Cô Vy\\\" ra mắt trong thời điểm dịch COVID-19 được đón nhận, không chỉ trong nước mà cả trên thế giới.</p>",
+  "createDate": {
+    "$date": "2023-11-16T09:56:35.038Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-16T09:56:35.038Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6555e7684b1ca3f0b692a068"
+  },
+  "encodeId": "Cff8ssYvu",
+  "name": "MIN",
+  "title": "min",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/e/f/6/2ef6b4fc14d359656cde9d5e09842b57.jpg",
+  "information": "<p>MIN đã có một bước đột phá mới trong sự nghiệp nghệ thuật, khi giới thiệu tới báo giới và người yêu nhạc ca khúc TÌM như một khởi đầu tốt đẹp cho con đường ca hát chuyên nghiệp. TÌM là một trong những ca khúc được tìm nghe nhiều nhất trên mạng xã hội, trong tháng 12/2013, và cũng là sản phẩm mở đường, giúp Min thêm nhiều cơ hội hợp tác cùng các nghệ sĩ trẻ khác. Với giọng hát tình cảm ngọt ngào và cá tính, có thể nói rằng, Min như một cơn gió lạ, một hình tượng mới của giới nghệ thuật Việt Nam, đang từng bước khẳng định được chính mình với sự ủng hộ của thế hệ trẻ. 2017 phát hành các singles như Ghen, Chưa Bao Giờ Mẹ Kể, Có Em Chờ......</p>",
+  "createDate": {
+    "$date": "2023-11-16T09:56:56.069Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-16T09:56:56.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655612374b1ca3f0b692a09e"
+  },
+  "encodeId": "1q2JzziMQ",
+  "name": "Phương Ly",
+  "title": "phuong-ly",
+  "image": "https://photo-zmp3.zmdcdn.me/cover_artist/2/1/5/4/21545e4d3c3460644c12d2cb15058a12.jpg",
+  "information": "<p>Phương Ly tham gia các cuộc thi âm nhạc từ sớm, đạt giải nhì nhạc nhẹ của Sao Mai năm 2005, lọt vào top 30 cuộc thi Vietnam Idol 2007 sau đó là bán kết 3 của Vietnam Idol 2010. Cô được đông đảo khán giả yêu thích nhưng bất ngờ biến mất khỏi showbiz Việt. Đầu năm 2015, Phương Ly xuất hiện trở lại. Cô đầu quân công ty OnOn Entertainment rồi ra mắt ca khúc \\\"Crush On You\\\" vào năm 2016. Năm 2017, sự kết hợp giữa Phương Ly và JustaTee trong \\\"Mặt Trời Của Em\\\" đạt thành công lớn, năm 2018 ca khúc \\\"Thằng Điên\\\" của bộ đôi cũng giành nhiều giải thưởng. Cái tên Phương Ly trở nên nổi tiếng trong làng V-pop, cô liên tiếp có các ca khúc hit như \\\"Anh Là Ai\\\" hay \\\"Đâu Chịu Ngồi Yên\\\" (cùng Rhymastic và Touliver) trong năm 2019.</p>",
+  "createDate": {
+    "$date": "2023-11-16T12:59:35.205Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-16T12:59:35.207Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655612514b1ca3f0b692a0a0"
+  },
+  "encodeId": "BjWwMVW5r",
+  "name": "AMEE",
+  "title": "amee",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/f/d/a/2fda5f39b5adca3bad9c4bfc6d586f68.jpg",
+  "information": "<p>Có vẻ ngoài dễ thương và chất giọng ngọt ngào, AMEE gặt hái thành công với những ca khúc nhạc Pop có phần lời thả thính trong sáng như Ex's Hate Me, Anh Nhà Ở Đâu Thế, Đen Đá Không Đường... 15 tuổi, AMEE trở thành thực tập sinh của St.319 Entertainment. Tháng 2 2019, cô góp giọng trong Ex's Hate Me của B Ray và Masew. Tháng 4 2019, cô debut với Anh Nhà Ở Đâu Thế cùng B Ray, nhanh chóng thu hút một lực lượng lớn người nghe. Tháng 5, bộ đôi ra mắt sản phẩm hợp tác thứ ba là Đen Đá Không Đường. Bài hát tiếp tục gây sốt với giới trẻ. Tháng 7, cô kết hợp với Andiez trong Anh Đánh Rơi Người Yêu Này và tháng 10 với VIRUSS trong Trời Giấu Trời Mang Đi, kết thúc một năm thành công của tân binh khủng long AMEE. Đầu năm 2020, AMEE góp giọng trong Do For Love của B Ray và Masew. Và chỉ nửa tháng sau, AMEE ra mắt ca khúc Sao Anh Chưa Về Nhà kết hợp cùng Ricky Star.</p>",
+  "createDate": {
+    "$date": "2023-11-16T13:00:01.912Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-16T13:00:01.913Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655623b74b1ca3f0b692a316"
+  },
+  "encodeId": "KQ_qbAvHj",
+  "name": "Suni Hạ Linh",
+  "title": "suni-ha-linh",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/5/1/3/e5132977d0df155b73a7637283fb1499.jpg",
+  "information": "<p>Suni du học New Zealand và trở về Việt Nam để theo đuổi đam mê ca hát. Năm 2012, cô giành giải Á quân cuộc thi Kpop Star Hunt và giành được tấm vé sang Hàn Quốc, dừng chân ở Top 16. Tháng 8 năm 2015, cô chính thức xuất hiện với nghệ danh Suni Hạ Linh, qua bản cover \\\"Âm Thầm Bên Em\\\", sau đó debut bằng ca khúc \\\"Cảm Ơn Người Đã rời Xa Tôi\\\". Năm 2016, tên tuổi Suni Hạ Linh trở nên quen thuộc với khán giả qua bản hit \\\"Em Đã Biết\\\", sau đó là \\\"Say Yes\\\" và \\\"Cảm Nắng\\\" ra mắt tháng 7 năm 2017. Năm 2018, cô rời công ty quản lý trở thành ca sĩ độc lập, trở lại thành công với \\\"Thích Rồi Đấy\\\". Năm 2019, MV \\\"Không Sao Mà Em Đây Rồi\\\" kết hợp cùng Lou Hoàng đánh dấu sự trưởng thành trong âm nhạc và hình ảnh của Suni Hạ Linh.</p>",
+  "createDate": {
+    "$date": "2023-11-16T14:14:15.418Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-16T14:14:15.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655624244b1ca3f0b692a338"
+  },
+  "encodeId": "NJw0J0io8",
+  "name": "Tuấn Hưng",
+  "title": "tuan-hung",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/6/3/6/b636f91811a99221d8833e760596400c.jpg",
+  "information": "<p>Khi còn đang là sinh viên đại học, Tuấn Hưng tham gia nhóm Quả Dưa Hấu, một nhóm nhạc nổi tiếng của Hà Nội lúc bấy giờ. Năm 2000, Tuấn Hưng quyết định vào Sài Gòn để lập nghiệp. Dấu ấn đầu tiên của anh tại Sài Gòn là lần biểu diễn chương trình CLB Bạn Yêu Nhạc tại Nhà hát Bến Thành. Sau đó, với hoạt động âm nhạc bền bỉ, Tuấn Hưng dần được khán giả yêu mến, các ca khúc của anh đều lọt top Làn Sóng Xanh. Hơn 20 năm hoạt động, anh đã phát hành được 18 album riêng với nhiều phong cách, thể loại khác nhau, trở thành một nam ca sĩ nổi bật của âm nhạc Việt Nam qua nhiều thế hệ, với nhiều bài hit gắn liền với tên tuổi Tuấn Hưng như \\\"Vũ Điệu Thần Tiên\\\", \\\"Tìm Lại Bầu Trời\\\", \\\"Cầu Vống Khuyết\\\"...</p>",
+  "createDate": {
+    "$date": "2023-11-16T14:16:04.011Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-16T14:16:04.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a47a11669b799d4699ee2"
+  },
+  "encodeId": "wJ40jIzRl",
+  "name": "Gin Tuấn Kiệt",
+  "title": "gin-tuan-kiet",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/6/1/6/d616f356bbf92831c9ab5e9b12079ad7.jpg",
+  "information": "<p>Sinh ra trong một gia đình không có ai làm nghệ thuật nhưng từ nhỏ Gin Tuấn Kiệt đã có năng khiếu ca hát.<br>Khi đang học phổ thông, anh từng đạt giải nhất cuộc thi Gương mặt tuổi hồng của báo Khăn Quàng Đỏ, Top 10 Hot VTeen 2011 do báo VTM tổ chức.<br>Anh tốt nghiệp tại Khoa Thanh nhạc trường Cao Đẳng Văn Hóa Nghệ Thuật.<br>Hiện anh là ca sĩ độc quyền của Ya!Entertainment với vai trò ca sĩ - diễn viên.<br>Những ca khúc của anh được công chúng đón nhận có thể kể đến: \"Không Thể Yêu Ai Được Nữa\", \"Yêu Một Người Sau Anh\", \"Yêu Anh Sẽ Tốt Mà\"...<br>Anh cũng thử sức ở lĩnh vực Việt hóa các ca khúc nhạc Hoa bất hủ, cũng như sáng tác nhạc, như \"Hãy Cho Con Một Mái Nhà\".</p>",
+  "createDate": {
+    "$date": "2023-11-19T17:36:33.264Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-19T17:36:33.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a47c81669b799d4699ee4"
+  },
+  "encodeId": "W8F22120V",
+  "name": "Puka",
+  "title": "puka",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/c/9/0/5c903242cdc7c38cedb331ec61c3861d.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-19T17:37:12.985Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-19T17:37:12.986Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a4a321669b799d4699f76"
+  },
+  "encodeId": "p3BasUz2m",
+  "name": "Tăng Duy Tân",
+  "title": "tang-duy-tan",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/7/1/7/5717ff675b04fe5d6c619b92a0b98916.jpg",
+  "information": "<p>Nhạc sĩ - ca sĩ Tăng Duy Tân, tên thật là Nguyễn Tăng Duy Tân, sinh ngày 15/8/1995. Sinh ra và lớn lên tại Hải Lăng-Quảng Trị. Xuất thân trong gia đình giàu truyền thống âm nhạc với ông là Nhạc sĩ Trần Hoàn (Nguyễn Tăng Hích) và anh là Nam danh ca Tùng Dương nên đam mê âm nhạc đã nhen nhóm trong người Tăng Duy Tân từ rất sớm. Biết hát từ khi 6 tuổi, tự học hát, sáng tác, guitar và trống từ khi còn là học sinh cấp 3. Trong bốn năm Đại Học, Tăng Duy Tân là thành viên của nhiều CLB âm nhạc, band nhạc lớn ở thành phố Huế. Mặc dù là cử nhân ngành Đông Phương Học, Đại học Khoa Học Huế, thông thạo tiếng Trung Quốc và trở thành một hướng dẫn viên du lịch ngay sau khi ra trường nhưng vì đam mê quá lớn với âm nhạc và ước mơ nối tiếp con đường sáng tác của người ông quá cố, Tăng Duy Tân đã chính thức debut vào ngày 19/05/2018 với Hết Duyên-một ca khúc trong chuỗi bài Duyên song ca cùng ca sĩ NIT với vai trò là Nhạc Sĩ, Ca Sĩ thuộc BigArts Entertainment.</p>",
+  "createDate": {
+    "$date": "2023-11-19T17:47:30.933Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-19T17:47:30.934Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a4a4f1669b799d4699f78"
+  },
+  "encodeId": "J1U8O4WTz",
+  "name": "Drum7",
+  "title": "drum7",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/c/6/e/2c6e948ad882583481ca4909879a9555.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-19T17:47:59.523Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-19T17:47:59.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a4d701669b799d469a0fe"
+  },
+  "encodeId": "veHEok4BZ",
+  "name": "Phong Max",
+  "title": "phong-max",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/6/5/9/b65915c9c03ba29912528d234673b882.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-19T18:01:20.338Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-19T18:01:20.339Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a4e1b1669b799d469a132"
+  },
+  "encodeId": "QZyKfM21Y",
+  "name": "Thành Đạt",
+  "title": "thanh-đat",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/1/4/c/914ce9c9ec8344b7da84fe3e8a7ac247.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-19T18:04:11.202Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-19T18:04:11.203Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a503f1669b799d469a1b4"
+  },
+  "encodeId": "fpEmS_wlH",
+  "name": "O.lew",
+  "title": "o.lew",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/7/5/3/7753f31dd5acd14f986b8f6a297c9e94.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-19T18:13:19.413Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-19T18:13:19.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a518e1669b799d469a1f9"
+  },
+  "encodeId": "XnMAzxhhD",
+  "name": "Hoàng Dũng",
+  "title": "hoang-dung",
+  "image": "https://photo-zmp3.zmdcdn.me/cover_artist/6/2/9/7/6297d7a0ce3e47c487a99f3b7f9f7cce.jpg",
+  "information": "<p>Hoàng Dũng là ca nhạc sĩ 9x được yêu thích qua những bản nhạc nhẹ nhàng, du dương và đậm chất \"thơ\". Với lối tư duy văn minh trong âm nhạc, khả năng sáng tác và giọng hát nội lực, Hoàng Dũng được đánh giá là một nghệ sĩ tiềm năng và đang dần khẳng định phong cách cũng như vị trí của mình trong lớp nghệ sĩ trẻ tại Việt Nam.<br>Dấu ấn quan trọng mở đường cho sự nghiệp ca hát chuyên nghiệp của Hoàng Dũng chính là cuộc thi Giọng hát Việt 2015. Sau khi giành Á quân, anh ra mắt ca khúc đầu tay \"Chờ Anh Nhé\" kết hợp cùng Hoàng Rob.<br>Các ca khúc sau đó của Hoàng Dũng phần lớn do chính anh sáng tác và được giới trẻ yêu thích, nổi bật là \"Nàng Thơ\", \"Yếu Đuối\", \"Đôi Lời\".</p>",
+  "createDate": {
+    "$date": "2023-11-19T18:18:54.302Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-19T18:18:54.303Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a52ff1669b799d469a299"
+  },
+  "encodeId": "rYd19TeCN",
+  "name": "Song Luân",
+  "title": "song-luan",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/f/4/c/ff4c8b8249ef509a8cab4b68ac7b0ee4.jpg",
+  "information": "<p>Song Luân là một chàng trai bền bỉ khi tham gia Giọng Hát Việt đến tận 2 mùa (2012 và 2015). Tuy nhiên, ở cả hai lần, anh đều dừng lại từ khá sớm.<br>Không chỉ sở hữu vẻ ngoài điển trai, Song Luân còn có giọng hát tốt, biết sáng tác và chơi được nhiều nhạc cụ như piano, ghita.<br>Năm 2014, Song Luân cho ra mắt ca khúc \"Tạm Chia Tay\" và ghi được dấu ấn nhất định trong lòng người hâm mộ.<br>Các ca khúc khác của Song Luân cũng được yêu thích như \"Đẹp Trai Thì Mới Có Nhiều Đứa Yêu\", \"Nếu Em Không Về\", \"Giấu Đằng Sau\"...<br>Ngoài ca sĩ, anh còn làm tốt vai trò diễn viên cả phim truyền hình và điện ảnh.</p>",
+  "createDate": {
+    "$date": "2023-11-19T18:25:03.889Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-19T18:25:03.889Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a53da1669b799d469a2c9"
+  },
+  "encodeId": "eJMqdMPkg",
+  "name": "Khải Đăng",
+  "title": "khai-đang",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/0/7/7/907799a310b3404f46d43b9899ebd5e4.jpg",
+  "information": "<p>Năm 2010 Khải Đăng cùng gia đình sang định cư Hoa Kỳ. Trong gia đình có truyền thống nghệ thuật nên mấy anh em đều có chung niềm đam mê Ca hát. Năm 2014 Khải Đăng đã dự cuộc thi hát Vstar do Trung Tâm Thúy Nga tổ chức vs Đã đạt giải Quán Quân do khán giả bình chọn vs hiện tại đang là ca sĩ trẻ cộng tác với Trung Tâm Thúy Nga cùng những top hit tại Hãi Ngoại như \"Từ Ngày Tình Bỏ Ta Đi, Tết Này Con Sẽ Về,vv...\"</p>",
+  "createDate": {
+    "$date": "2023-11-19T18:28:42.042Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-19T18:28:42.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a542b1669b799d469a2cb"
+  },
+  "encodeId": "03b0eiMvm",
+  "name": "Đạt G",
+  "title": "đat-g",
+  "image": "https://photo-zmp3.zmdcdn.me/cover_artist/6/9/f/4/69f4796fd5427639a2458a986e9c3798.jpg",
+  "information": "<p>Đạt G tham gia giới underground và là thành viên của Vietcover Squad team, có mối quan hệ thân thiết với Masew và B Ray.<br>Năm 2017, ca khúc ballad \"Buồn Của Anh\" (cùng K-ICM và Masew) được đón nhận nồng nhiệt, Đạt G được giới nghe nhạc chú ý.<br>Nửa năm sau, \"Buồn Không Em\" tiếp tục thành công không kém, mở đường cho sự nghiệp của Đạt G, anh có liên tiếp những bản hit được đón nhận như \"Thêm Bao Nhiêu Lâu\", \"Khó Vẽ Nụ Cười\" và \"Bánh Mì Không\" với DuUyen... với lợi thế pha trộn giữa rap và giai điệu ballad lôi cuốn người nghe.<br>Đạt G cũng là tác giả của nhiều bản hit triệu lượt nghe như \"Anh Ơi Ở Lại\" của Chi Pu, \"Có Như Không Có\" của Hiền Hồ hay \"Còn Thương Thì Không Để Cho Em Khóc\" của Miu Lê...</p>",
+  "createDate": {
+    "$date": "2023-11-19T18:30:03.009Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-19T18:30:03.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655a552a1669b799d469a32e"
+  },
+  "encodeId": "ho8Y42d3C",
+  "name": "Đinh Tùng Huy",
+  "title": "đinh-tung-huy",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/5/0/c/a50c42664585288873464b6e9c18de3e.jpg",
+  "information": "<p>ĐINH TÙNG HUY: sinh ra ở THÁI BÌNH. Sau khi tốt nghiệp phổ thông, anh đã theo đuổi đam mê va theo học tại trường cao đẳng văn hoa, nghệ thuật tại sài gon... Được sự ủng hộ nhiệt tình từ phía gia đình anh đã tham gia rất nhiều cuộc thi âm nhạc. Năm 2012 anh đã tham gia cuộc thi yêu ca hát, anh đã đạt giải nhất trong cuộc thi...từ đó anh đã định hướng được sỡ trường và dòng nhạc minh theo đuổi... Bên cạnh đó a còn là nhạc sĩ trẻ, anh đã sáng tác rất nhiều ca khúc cho các ca sĩ nổi tiếng như: kenvil khánh, anh quân idol, chu bin, khánh phuong.... Và một số ca si trẻ khác</p>",
+  "createDate": {
+    "$date": "2023-11-19T18:34:18.995Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-19T18:34:18.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b07a9a86f7bbb0dcddf52"
+  },
+  "encodeId": "cTKTf8LPg",
+  "name": "Cascada",
+  "title": "cascada",
+  "image": "https://photo-zmp3.zmdcdn.me/cover3_artist/2/e/2e38db61c3f79d45e3b04d09ce52134b_1413168252.jpg",
+  "information": "<p>Cascada là một nhóm eurodance Đức hoạt động từ năm 2004. Họ là nổi tiếng nhất cho các bài hát của họ \"Everytime We Touch\" đã giành cho họ một giải World Music Award trong năm 2007, và lần đầu tiến vào bảng xếp hạng năm 2008 với đĩa đơn \"What Hurts the Most\", và đĩa đơn \"What Hurts the Most\" năm 2009. Cho đến nay nhóm đã bán được 14 triệu bản ước tính của ba album của họ, 36 triệu đĩa đơn trên toàn thế giới.</p>",
+  "createDate": {
+    "$date": "2023-11-20T07:15:53.570Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T07:15:53.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b084ba86f7bbb0dcddf90"
+  },
+  "encodeId": "tHtJlntZu",
+  "name": "Austin Awake",
+  "title": "austin-awake",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/d/9/7/1d976823c7445d08ce4ba53a55c085a3.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T07:18:35.383Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T07:18:35.384Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b09eda86f7bbb0dcde03e"
+  },
+  "encodeId": "_xKCld_62",
+  "name": "Masew",
+  "title": "masew",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/e/5/f/2e5ff23e09b1dacccbbd1c6f1ffb4a7b.jpg",
+  "information": "<p>Masew gắn bó với âm nhạc từ năm lớp 10 và dần nổi tiếng trong giới underground bằng những bản remix bắt tai. Anh là thành viên của AVN Team chuyên Rap, Hiphop, EDM.<br>Năm 2017, Masew gây chú ý cho giới nghe nhạc đại chúng khi cùng Nhật Nguyễn, một tên tuổi khác của giới underground phối lại ca khúc \"Túy Âm\" của Xesi. Ca khúc nhanh chóng đạt thứ hạng cao trên các bảng xếp hạng âm nhạc.<br>Từ đó, những bản phối của Masew rất được quan tâm, có thể kể đến \"Điều Khác Lạ\" (Đạt G, Ngọc Haleyy), \"Buồn Của Anh\" (K-ICM, Đạt G), \"Kém Duyên\" (Rum, NIT)... đặc biệt ca khúc \"Em Hơi Mệt Với Bạn Thân Anh\" do Trang Pháp sáng tác, Hương Giang trình bày với bản phối của Masew giành được giải thưởng lớn của Zing Music Awards.</p>",
+  "createDate": {
+    "$date": "2023-11-20T07:25:33.211Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T07:25:33.212Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b0bfda86f7bbb0dcde148"
+  },
+  "encodeId": "xcahF-sio",
+  "name": "TLong",
+  "title": "tlong",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/a/0/c/7a0cf55c785497b853fb59c2d056cae2.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T07:34:21.993Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T07:34:21.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b2423a86f7bbb0dcde1db"
+  },
+  "encodeId": "J3nEV9qoY",
+  "name": "Cao Sỹ Hùng",
+  "title": "cao-sy-hung",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/d/0d2024153ecb9e20cf5a00fb21b00244_1479785797.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T09:17:23.033Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T09:17:23.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b2544a86f7bbb0dcde224"
+  },
+  "encodeId": "chPYCF3H3",
+  "name": "Quang Đăng Trần",
+  "title": "quang-đang-tran",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/d/4/e/ad4e45eaf0eeffb706778d1309dae8d4.jpg",
+  "information": "<p>\"Trần Đăng Quang sinh ra trong một gia đình không có truyền thống âm nhạc nhưng lại được gia đình cho học piano để giải trí. Từ đó, anh nhận ra mình có sở thích và đam mê với âm nhạc. Anh cũng sớm định hình cho mình về phong cách âm nhạc và hướng đi trong con đường nghệ thuật.<br>Năm 2015, anh đã tham gia chương trình The Voice (2015) và vào đội của nam ca sĩ Tuấn Hưng. Tuy phải dừng lại cuộc chơi khá sớm vì lý do sức khỏe nhưng anh đã để lại những dấu ấn riêng biệt, thể hiện được màu sắc và cá tính âm nhạc của bản thân.<br>Giữa năm 2017, Quang Đăng tung sản phẩm đầu tay của mình với tên \"\"Sẽ Đến Lúc\"\", đánh dấu hoạt động của mình trong vai trò ca sĩ chuyên nghiệp.\"</p>",
+  "createDate": {
+    "$date": "2023-11-20T09:22:12.779Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T09:22:12.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b2636a86f7bbb0dcde290"
+  },
+  "encodeId": "2vj-KHxN4",
+  "name": "Jay Park",
+  "title": "jay-park",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/6/f/e/46fe76dd9c5fadd9fe0656d4cb01692f.jpg",
+  "information": "<p>Jay Park sống ở Mỹ vài năm sau đó về Hàn để gia nhập vào JYP và là leader của 2PM. Năm 2009 xảy ra vụ kiện nên Jay đã rời khỏi 2PM, nay anh ra làm ca sĩ solo,vào năm 2010 anh cover lại co khúc Nothing on U của BOB<br>Các album đã phát hành : Nothing, Abdoned, Demon<br>Hoạt động từ năm 2008<br>Album:<br>Năm 2008\"2PM Hottest Time Of The Day\" Và \"2PM Only You\": \"2PM 2:00 Time for Change\"<br>Năm 2010: Jay Park - Nothin’ On You\"</p>",
+  "createDate": {
+    "$date": "2023-11-20T09:26:14.921Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T09:26:14.921Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b29d6a86f7bbb0dcde3f5"
+  },
+  "encodeId": "21ftUTzQc",
+  "name": "PhucXP",
+  "title": "phucxp",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/8/5/6/2856669e50b923f86f6eff3a701f6ecd.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T09:41:42.880Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T09:41:42.880Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b29eea86f7bbb0dcde3f7"
+  },
+  "encodeId": "ozNAZz_Qw",
+  "name": "Freak D",
+  "title": "freak-d",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/6/c/0/f6c025f38df30e99583f17d81dd0cb54.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T09:42:06.691Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T09:42:06.691Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b2c0fa86f7bbb0dcde505"
+  },
+  "encodeId": "-TPqCoM9P",
+  "name": "Bảo Anh",
+  "title": "bao-anh",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/9/9/b/799b387d346a819ece784725f7d81aa3.jpg",
+  "information": "<p>Bảo Anh có tên đầy đủ là Nguyễn Hoài Bảo Anh là một nữ ca sĩ kiêm diễn viên truyền hình.<br>Năm 2012, Bảo Anh tham gia The Voice và dừng bước ở Liveshow 5.<br>Năm 2014, Bảo Anh debut với \"Anh Muốn Em Sống Sao\".<br>Năm 2016 được xem là năm thành công của Bảo Anh khi cả hai ca khúc của cô đều trở thành hit, đó là \"Trái Tim Em Cũng Biết Đau\" và \"Yêu Một Người Vô Tâm\". Bảo Anh cũng được khán giả gọi là \"Nữ Hoàng Nước Mắt\" vì có nhiều bản hit về tình yêu tan vỡ. Cô tiếp tục giữ vững danh hiệu với \"Sống Xa Anh Chẳng Dễ Dàng\" năm 2017 và \"Ai Khóc Nỗi Đau Này\" ra mắt 2018.<br>Cuối 2018, Bảo Anh bất ngờ rũ bỏ danh hiệu, lột xác cá tính và trẻ trung hơn với \"Như Lời Đồn\" thuộc thể loại Latin sôi động, qua 2019 và \"Ai Cần Ai\" và 2020 là \"Lười Yêu\".</p>",
+  "createDate": {
+    "$date": "2023-11-20T09:51:11.700Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T09:51:11.701Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b2cbea86f7bbb0dcde517"
+  },
+  "encodeId": "1Fw4Zy0xK",
+  "name": "Jang Mi",
+  "title": "jang-mi",
+  "image": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/10e9b7978ca9f86cb67b5e6c664a70b3_1481794747.jpg",
+  "information": "<p>Jang Mi từng từng tham gia cuộc thi hát “Solo cùng Bolero”, tuy nhiên chỉ lọt đến top 100.<br>Sau đó, Jang Mi thường cover các tình khúc bolero và đăng tải trên trang cá nhân. Bất ngờ, cô lại thành công và nổi tiếng chỉ sau một đêm nhờ clip quay lén khi hát trên xe buýt và được ghi hình lại. Sau đó, clip được chia sẻ và hưởng ứng nhiệt tình trên mạng xã hội.<br>Nổi tiếng nhờ cover các ca khúc Bolero nhưng khi theo con đường ca hát chuyên nghiệp, Jang Mi lại chọn theo đuổi dòng nhạc trẻ và nhận khá nhiều ý kiến trái chiều. Tuy nhiên, cô muốn trải nghiệm ở nhiều thể loại hơn là đóng khung mình trong danh hiệu \"Thánh nữ Bolero\".</p>",
+  "createDate": {
+    "$date": "2023-11-20T09:54:06.341Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T09:54:06.341Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b30cfa86f7bbb0dcde738"
+  },
+  "encodeId": "XVt_gKEJj",
+  "name": "JustaTee",
+  "title": "justatee",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/3/b/5/33b54115d5b1149f5ac51b4038ef62c7.jpg",
+  "information": "<p>Là thành viên cũ của Click Click Boom, đang là thành viên trong Joker's Rule và LadyKillah Proz<br>Khả năng: Composer, singer, mixer, beatzmaker<br>Kinh nghiệm : Sáng tác và hát hơn 5 năm<br>Chất giọng: Smooth<br>Thể loại: R'nB everystyle<br>Hiện đang là Music Producer của LadyKillah Proz - Nhóm các Rappers/Singers hàng đầu VN như Lil'Knight, Emily, Mr.T, Yanbi,Mr.A, Bueno, Phúc Bồ, TmT, Big Daddy.....<br>Chất giọng: Smooth<br>Thể loại : R&amp;B/Hiphop<br>Phong cách ăn mặc : Original<br>Là 1 ca sỹ đi lên từ Underground với mức cảm nhạc khác người, họ nói anh là người đầu tiên mang đến định nghĩa thực về dòng nhạc R&amp;B, khi mà trước đó chỉ là những bài hát Pop ngộ nhận, và đến bây giờ cũng chưa có nhiều người nhận thức đúng về dòng nhạc này<br><br>Tiểu sử :<br>Bắt đầu sáng tác từ năm 2004 với nick name JayTee, sau này được đổi thành JustaTee<br>2005 - 2008 : Là Rapper/Singer/Music producer trong nhóm Click Click Boom - nhóm nhạc rap đa thành viên đầu tiên tại Việt Nam<br>2008 : Bắt đầu đánh dấu sự nghiệp R&amp;B<br>2010 : Cùng Lil' Knight đồng sáng lập nên LadyKillah với sự điều hành của Mr.J ( Jan Saker ) làm nên website R&amp;B/Hiphop lớn mạnh nhất hiện nay<br>20/08/2010: Ra mắt mini album JUST-A-TEE đánh dấu tên tuổi mình trên nền nhạc R&amp;B của nước nhà .<br>Ca khúc Sau tất cả, với sự góp giọng của JustaTee và BigDaddy đã trở thành bài hit đình đám trong thế giới nhạc Việt. Trong chương trình The Remix - Hòa âm ánh sáng 2016, cặp bài trùng này lại tiếp tục có màn phối hợp ăn ý trong ca khúc Về nhà ăn tết, ca khúc này đã trở thành bản hit trong những ngày đầu năm mới 2016. Trong năm 2016, cặp bài trùng này tiếp tục hợp tác trong single Dù anh có đứng lại, một ca khúc mạng đậm cá tính của cả hai giọng ca, khiến khán giả phát cuồng về sự mới lạ trong phong cách.<br>Những bài hát mang lại tên tuổi JustaTee : Người Lạ Nơi Cuối Đường, Imma HeartBreaker, K part 2, Không Tin 1 Sớm Mai Bình Yên REMIX, Call Me The Liar...</p>",
+  "createDate": {
+    "$date": "2023-11-20T10:11:27.385Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T10:11:27.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b3153a86f7bbb0dcde75e"
+  },
+  "encodeId": "TN_5NWLhm",
+  "name": "GREY D",
+  "title": "grey-d",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/e/b/8/eeb8663fb09e5b1f32491352e252495b.jpg",
+  "information": "<p>Đoàn Thế Lân là ca sĩ nhí được đông đảo các khán giả biết đến sau chương trình giọng hát Việt nhí năm 2014 và dừng chân tại Top 9.<br>Năm 2016, Đoàn Thế Lân tham gia cuộc thi Sing My Song. Nếu như ở trong chương trình Giọng hát Việt nhí, Đoàn Thế Lân đã chinh phục các khán giả bằng chính tài năng ca hát của mình, thì khi đến với chương trình Sing My Song, anh chàng “hotboy” này đã lại khiến cho công chúng phải ngạc nhiên về cái tài sáng tác, đến mức mà tất cả 4 HLV phải “gạt cần” để chọn Đoàn Thế Lân bởi ca khúc mà em thể hiện là ca khúc “Và tôi đi”.<br>Năm 2017, với nghệ danh GREY-D, Đoàn Thê Lân tham gia nhóm nhạc MONSTAR, sau khi ERIK rời khỏi nhóm.</p>",
+  "createDate": {
+    "$date": "2023-11-20T10:13:39.590Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T10:13:39.590Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b3171a86f7bbb0dcde760"
+  },
+  "encodeId": "UsUCyoTHV",
+  "name": "Chillies",
+  "title": "chillies",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/e/8/2/ee82c4ccac8b557586804d860b4f6654.jpg",
+  "information": "<p>Chillies được thành lập vào tháng 10 năm 2018, gồm có 5 thành viên. Nhóm ra mắt với sản phẩm đầu tay mang tên \"Who? (The Tinder Song)\" và được biết đến nhiều hơn với ca khúc \"Và Thế Là Hết\".<br>Năm 2019, nhóm lần lượt ra mắt các ca khúc \"Nếu Ngày Mai Không Đến\", \"Những con Đường Song Song\"... và nổi bật là \"Mascara\", đây có thể coi là ca khúc thành công nhất của Chillies trong năm.<br>Năm 2020, với thành công của \"Vùng Ký Ức\" và \"Cứ Chill Thôi\" kết hợp cùng Suni Hạ Linh, độ nổi tiếng của Chillies vượt khỏi giới nghe nhạc Indie, mang lại hợp đồng với hãng đĩa Warner Music Vietnam.<br>Năm 2021, Chillies ra mắt album đầu tay có tên \"Qua Khung Cửa Sổ\".</p>",
+  "createDate": {
+    "$date": "2023-11-20T10:14:09.287Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T10:14:09.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b3275a86f7bbb0dcde7fa"
+  },
+  "encodeId": "ffV9MhWNg",
+  "name": "Da LAB",
+  "title": "da-lab",
+  "image": "https://photo-zmp3.zmdcdn.me/cover_artist/7/4/0/d/740d655a5d0c70bb206ce30cb40a8aa1.jpg",
+  "information": "<p>Năm 2007, Da LAB được thành lập với Võ Việt Phương, Nguyễn Trọng Đức và Trần Minh Phương, đến năm 2018 thì thêm Nguyễn Hoàng Long để tạo nên đội hình 4 thành viên như bây giờ.<br>Thời gian đầu, Da LAB cover theo phong cách rap, hiphop từ các bản rap của Eminem, 50 Cent, G-Unit… sau đó chuyển sang sáng tác và trình bày các ca khúc của mình. Đây cũng là thời điểm Da LAB bắt đầu được biết đến, khởi đầu với bài hát \"Hà Nội Giờ Tan Tầm\" và tham gia chương trình Bài hát Việt 2013.<br>Sự ra đời của \"Một Nhà\" năm 2015 được xem là cột mốc đánh dấu sự thành công của nhóm.<br>Sau đó, các sản phẩm mới của Da LAB đều được đón nhận, như \"Thanh Xuân\", \"Từ Ngày Em Đến\" hay \"Nước Mắt Em Lau Bằng Tình Yêu Mới\" kết hợp cùng Tóc Tiên...</p>",
+  "createDate": {
+    "$date": "2023-11-20T10:18:29.316Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T10:18:29.316Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b3c52a86f7bbb0dcde85d"
+  },
+  "encodeId": "Od_elbEE3",
+  "name": "Fous",
+  "title": "fous",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/1/d/e/f1ded75dbcc20e891e367d102b27d235.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T11:00:34.347Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T11:00:34.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b3c61a86f7bbb0dcde85f"
+  },
+  "encodeId": "A98K6VUdC",
+  "name": "UMIE",
+  "title": "umie",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/b/e/b/cbeb48945555636a696f51ec8c9d50d2.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T11:00:49.918Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T11:00:49.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b3c78a86f7bbb0dcde861"
+  },
+  "encodeId": "TLvYNMgVu",
+  "name": "VAnh",
+  "title": "vanh",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/3/2/6/c326dae7dafe7ab358b62fb640973384.jpg",
+  "information": "<p>VAnh sở hữu giọng ca “thiên thần” với nhiều bản cover hit trên YouTube “chạm đáy” trái tim vạn người hâm mộ. Cô nàng đam mê ca hát cùng chiếc guitar xinh xinh đã thu hút hơn 7tr lượt thích và 600k followers trên TikTok chỉ sau 2 năm hoạt động. Ngoài ra, cô từng hợp tác với ca sĩ Phạm Nguyên Ngọc trong nhiều sáng tác triệu view như Đi Ngang Ngày Buồn, Sao Em Lại Tắt Máy,... Tác phẩm nổi bật gần đây nhất của VAnh có thể nhắc đến là Nhất Trên Đời cực hot trên nền tảng TikTok.</p>",
+  "createDate": {
+    "$date": "2023-11-20T11:01:12.320Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T11:01:12.320Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b3c91a86f7bbb0dcde863"
+  },
+  "encodeId": "Zgw6pm_P9",
+  "name": "Vin Quốc Anh",
+  "title": "vin-quoc-anh",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/8/1/0/981031791af9df77fc11f4f4b2cf9db8.jpg",
+  "information": "<p>Vin Quốc Anh không chỉ có khả năng sáng tác và trình<br>bày, anh hứa hẹn sẽ là nhân tố tỏa sáng trong thị trường<br>âm nhạc Việt. Sáng tác nổi bật của Vin Quốc Anh có thể<br>kể đến như Nhất Trên Đời (VAnh trình bày), Thuốc Tiên<br>(YLing trình bày). Các tác phẩm gần đây nhất của anh có<br>thể kể đến Không Thể Hiểu Về Em, Đừng Cho Thêm Cơ<br>Hội, ...</p>",
+  "createDate": {
+    "$date": "2023-11-20T11:01:37.988Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T11:01:37.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b3ca6a86f7bbb0dcde865"
+  },
+  "encodeId": "ir1BIho27",
+  "name": "BMZ",
+  "title": "bmz",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/6/b/3/26b326c8f44b08c642ae1190e94226da.jpg",
+  "information": "<p>BMZ Entertainment sở hữu mạng lưới truyền thông bền vững đa chiều - đa phương tiện từ KOLs, PR Booking đến Comics, Production. Với đội ngũ năng động và chuyên nghiệp, chúng tôi luôn cập nhật, đón đầu xu hướng thị trường song song với việc phát triển đa dạng nhiều giải pháp sáng tạo, đổi mới, thích hợp với từng ngành hàng. Cùng BMZ Entertainment chinh phục thế giới kỹ thuật số - kết nối không giới hạn!</p>",
+  "createDate": {
+    "$date": "2023-11-20T11:01:58.777Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T11:01:58.777Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b3e56a86f7bbb0dcde96b"
+  },
+  "encodeId": "NoCqmnNYL",
+  "name": "Hứa Kim Tuyền",
+  "title": "hua-kim-tuyen",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/7/5/f/675f3f3f3d704dd43eaf5f4e8a3fd579.jpg",
+  "information": "<p>- Top 5 team Giáng Son, chương trình Sing My Song mùa<br>đầu tiên.<br>- Là tác giả của các ca khúc như Hôm nay tôi cô đơn quá,<br>Không ai hơn em đâu anh (Tóc Tiên), Một ngày hay trăm<br>năm (Văn Mai Hương), Cứ yêu đi (Đức Phúc ft. Hòa<br>Minzy), Người ta có thương mình đâu (Trúc Nhân), Muốn<br>(Miu Lê)…</p>",
+  "createDate": {
+    "$date": "2023-11-20T11:09:10.265Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T11:09:10.266Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b3e6ba86f7bbb0dcde96d"
+  },
+  "encodeId": "BvYYx7Kk2",
+  "name": "Tóc Tiên",
+  "title": "toc-tien",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+  "information": "<p>Có giọng hát tốt, Tóc Tiên bắt đầu sự nghiệp ca hát rất sớm, 19 tuổi cô đã phát hành hai 2 album là \"Nụ Cười Nắng Mai\" và \"Thiếu Nữ\".<br>Năm 2007 Tóc Tiên qua Mỹ du học và trở thành ca sĩ của Trung Tâm Thúy Nga. Hình tượng của cô cũng chuyển từ ngây thơ sang gợi cảm.<br>Năm 2015, Tóc Tiên quyết định trở về Việt Nam và hoạt động như một ca sĩ tự do.<br>Năm 2017, cô đại diện Việt Nam tham dự MAMA và xuất sắc giành giải thưởng Nghệ sĩ Châu Á xuất sắc nhất. Cô cũng chính là huấn luyện viên trẻ tuổi nhất trong 2 mùa giải Giọng hát Việt 2017 và 2018.<br>Tóc Tiên có nhiều bản hits với phong cách đa dạng, từ Pop Ballad như \"Có Ai Thương Em Như Anh\" (cùng Touliver) đến Dance Pop như \"Ngày Mai\" (cùng Touliver và Long Halo).</p>",
+  "createDate": {
+    "$date": "2023-11-20T11:09:31.747Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T11:09:31.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b3f63a86f7bbb0dcde9be"
+  },
+  "encodeId": "ErsdTLCne",
+  "name": "JanK",
+  "title": "jank",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/0/3/1/80316255b2ee6f3a481f6b3423a7e0bf.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T11:13:39.427Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T11:13:39.428Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b3f73a86f7bbb0dcde9c0"
+  },
+  "encodeId": "XdtEJx9CM",
+  "name": "1 9 6 7",
+  "title": "1-9-6-7",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/b/9/7/7b97f15e661d70931a8cd399bc482cf3.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T11:13:55.583Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T11:13:55.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b3f81a86f7bbb0dcde9c2"
+  },
+  "encodeId": "axSHAvN79",
+  "name": "N2L",
+  "title": "n2l",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/b/6/8/1b689123a1febe36f7abbb7d708e9d4f.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T11:14:09.345Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T11:14:09.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b3f9fa86f7bbb0dcde9c5"
+  },
+  "encodeId": "6Zyk2ov1K",
+  "name": "Vicky Nhung",
+  "title": "vicky-nhung",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/5/5/a/055ac06bc126ff5e7ec74d6f93852cf8.jpg",
+  "information": "<p>Trước khi trở thành ca sĩ chuyên nghiệp, Vicky Nhung từng được xem là một hiện tượng mạng khi ra các bản mashup ca khúc nổi tiếng.<br>Năm 2015, Vicky Nhung gây ấn tượng khi tham gia chương trình “Giọng Hát Việt” và dừng chân ở vòng chung kết. Sau đó, cô ra mắt ca khúc ballad \"Thèm Yêu\" nhận được nhiều sự ủng hộ.<br>Năm 2016, Vicky Nhung tiếp tục thử sức với chương trình \"Sing My Song\" và cho ra đời nhiều ca khúc vui tươi được các bạn trẻ yêu thích như \"Happy Birthday Xoay Xoay\", \"Việt Nam Những Chuyến Đi\"...<br>Từ đó đến nay, cô liên tục ra mắt những ca khúc do chính mình sáng tác thuộc nhiều thể loại khác nhau nhưng vẫn mang màu sắc riêng của mình như \"Giá Như Ta Chẳng Biết Nhau\", \"Thơ Tình Xuân Diệu\"...</p>",
+  "createDate": {
+    "$date": "2023-11-20T11:14:39.861Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T11:14:39.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b40eba86f7bbb0dcdea3a"
+  },
+  "encodeId": "qYQd9Q3Mx",
+  "name": "Doãn Hiếu",
+  "title": "doan-hieu",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/0/c/d/a0cd74dcd8df0613164b07884e52d81f.jpg",
+  "information": "<p>Giọng ca trẻ nội lực và giàu cảm xúc, Doãn Hiếu sớm được công chúng đón nhận với nhiều bài hát chủ đề tình yêu và thanh xuân học đường. Anh chính là chủ nhân ca khúc Việt hóa “Tình Sầu Thiên Thu Muôn Lối” đã từng “giật hit” YouTube với 2 triệu lượt xem (hiện tại 60tr view) và nhanh chóng đạt vị trí #1 bảng xếp hạng Zing MP3 sau 1 ngày phát hành. Là ca nhạc sĩ đầy triển vọng, Doãn Hiếu liên tục gặt hái thành công với sản phẩm triệu view “đốn tim” giới trẻ như: Em Chỉ Cần Nói Có (7tr view), Nụ Cười 18 20 (11tr view), Họ Yêu Ai Mất Rồi (38tr view), ...</p>",
+  "createDate": {
+    "$date": "2023-11-20T11:20:11.706Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T11:20:11.706Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b423fa86f7bbb0dcdea96"
+  },
+  "encodeId": "IsuQg-fXv",
+  "name": "Luna Đào",
+  "title": "luna-đao",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/f/d/1/3fd10e0a53f7c41bb9dc002f33582c62.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T11:25:51.117Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T11:25:51.117Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b425aa86f7bbb0dcdea98"
+  },
+  "encodeId": "SaJKMTDnZ",
+  "name": "MLee",
+  "title": "mlee",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/7/a/2/47a2e0888b89b0e8840bfba8695bd6e9.jpg",
+  "information": "<p>Hot girl MLee tên thật là Quách Tapiau Maily sinh ngày 24/06/1992, là một ca sĩ mang hai dòng máu Pháp Việt, cô theo đuổi dòng nhạc Pop-Dance, Hip-hop, Rap<br><br>Là thực tập sinh tại VAA 2 năm, học trò của Ngô Thanh Vân,<br>Tham gia biểu diễn trong Show kỉ niệm 2 năm thành lập của 365 “The Invation Show”<br>Từng tham gia các MV của 365 như Ayyo, Oh My Love.<br><br>Từng tham gia với vai trò người mẫu chuyên nghiệp trong các show lớn như, F –Show, Thời trang và đam mê, thời trang và nhân vât.<br><br>Là khách mời trong phim Sitcom “Tiệm Bánh Hoàng Tử Bé”, và là Vj Khách mời cho MTV Thích Mê<br><br>Là người mẫu ảnh cho các tạp chí lớn như : Đẹp, Women’s Health, F .. và xuất hiện thường xuyên trên các báo mạng online.<br><br>Sau hơn 2 năm tự rèn luyện và trau dồi cho bản thân từ việc học thanh nhạc, rap, nhảy, khả năng sáng tác cho đến khả năng trình diễn trên sân khấu, MLee đã chính thức hoàn thành khóa học vào cuối năm 2012.<br><br>Đầu năm 2013, MLee chính thức bắt đầu những bước đi đầu tiên trên con đường âm nhạc và bất ngờ xuất hiện liên tục với vai trò là người mẫu trong những show thời trang đình đám như: show F, show Thời trang và Đam mê. MLee được mệnh danh là một “Bông hồng lai” cá tính giữa Sài thành. Bên cạnh đó, MLee còn là người mẫu cho nhiều tạp chí hàng đầu Việt Nam như: Đẹp,<br><br>Các album đã phát hành:<br>Jingle Bells Remix (Single) (2013)<br>Chưa Bao Giờ Em Được Yêu (Single) (2013)<br>I Can Do (2014)<br>Từng Ngày Em Mơ Về Anh (2016)<br>Party Up (2016)<br>Tình Yêu Dài Lâu (Single) (2017)<br>Cho Em Luôn Gần Anh (2017)<br>Mối Tình Đầu (Show You How To Love) (Single) (2017)</p>",
+  "createDate": {
+    "$date": "2023-11-20T11:26:18.193Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T11:26:18.193Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b4276a86f7bbb0dcdea9a"
+  },
+  "encodeId": "puZmfe1lm",
+  "name": "Isaac",
+  "title": "isaac",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/b/0/c/bb0cdf7161b9acee09b43cf2f188268c.jpg",
+  "information": "<p>Năm 2007, Isaac tham gia cuộc thi Vietnam Idol nhưng không vào sâu được vòng trong.<br>Năm 2010, anh tham gia nhóm 365 DaBand của Ngô Thanh Vân và được chọn là trưởng nhóm. Nghệ danh Isaac cũng bắt đầu từ đây. Ca khúc đầu tiên ra mắt cuối tháng 12 có tên \"Awakening\".<br>Năm 2016, nhóm tan rã. Đến cuối năm, anh ra mắt MV đầu tiên với tư cách ca sĩ solo có tên \"Get Down\" và đạt được thành công đầu tiên, tiếp nối sau đó là \"Giá Ngày Đầu Đừng Nói Thương Nhau\", \"Tôi Đã Quên Thật Rồi\"...<br>Ngoài vai trò ca sĩ, Isaac còn là diễn viên được yêu thích, anh cũng thể hiện rất thành công những ca khúc trong phim \"Song Lang\" hay \"Mùa Viết Tình Ca\".<br>Isaac cũng là huấn luyện viên chương trình Vietnam Idol Kids năm 2016 và 2017.</p>",
+  "createDate": {
+    "$date": "2023-11-20T11:26:46.680Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T11:26:46.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b496aa86f7bbb0dcdeb0c"
+  },
+  "encodeId": "U9jca4Zy0",
+  "name": "Sơn Tùng M-TP",
+  "title": "son-tung-m-tp",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/b/f/1/fbf16d7352a3eea6be8cf5d4b217516d.jpg",
+  "information": "<p>Thanh Tùng bắt đầu chơi nhạc từ cấp ba với nghệ danh M-TP và được biết đến với \"Cơn Mưa Ngang Qua\".<br>Năm 2012, anh đậu thủ khoa Nhạc viện TPHCM và ký hợp đồng với Văn Production, đổi nghệ danh sang Sơn Tùng M-TP.<br>Từ 2013 đến 2015, anh có nhiều bản hit như \"Em Của Ngày Hôm Qua\", \"Nắng Ấm Xa Dần\"...<br>Năm 2015, anh rời khỏi công ty cũ và gia nhập WePro, tổ chức minishow đầu tiên \"M-TP and Friends\".<br>Năm 2017, anh rời khỏi WePro để thành lập M-TP Entertainment, ra mắt \"Lạc Trôi\" và \"Nơi Này Có Anh\". Anh ra mắt album đầu tay \"m-tp M-TP\".<br>Năm 2018 anh ra mắt \"Chạy Ngay Đi\" và \"Hãy Trao Cho Anh\" năm 2019. Cả hai bài hát đều trở thành hit. Đặc biệt \"Hãy Trao Cho Anh\" kết hợp với Snopp Dogg đã đưa tên tuổi anh ra thế giới.</p>",
+  "createDate": {
+    "$date": "2023-11-20T11:56:26.908Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T11:56:26.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b6278a86f7bbb0dcdeb91"
+  },
+  "encodeId": "Z89EKKVVa",
+  "name": "Văn Mai Hương",
+  "title": "van-mai-huong",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/c/b/1acb526eb801e6a4e1579ff4c4a2e872.jpg",
+  "information": "<p>Cô được gia đình cho theo học nhạc và sinh hoạt âm nhạc từ nhỏ.<br>Năm 2010, Văn Mai Hương tham gia Vietnam Idol và đoạt danh hiệu Á quân. Cô được khen ngợi với giọng hát cao và kỹ thuật thanh nhạc tốt.<br>Sau cuộc thi, cô phát hành đĩa đơn đầu tay và quyết định Nam tiến để phát triển sự nghiệp ca hát chuyên nghiệp.<br>Trong năm 2011, cô ra mắt ca khúc \"Nếu Như Anh Đến\" và được khán giả đón nhận. Nối tiếp thành công, cho ra mắt \"Ngày Chung Đôi\" và album đầu tay \"Hãy Mỉm Cười\" cũng trong năm 2011.<br>Những năm tiếp theo, Văn Mai Hương chăm chỉ ra những sản phẩm âm nhạc mới, như album \"Mười Tám +\" (2013), \"Blossom\" (2019).</p>",
+  "createDate": {
+    "$date": "2023-11-20T13:43:20.647Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T13:47:46.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b6297a86f7bbb0dcdeb93"
+  },
+  "encodeId": "-22Ls_hHu",
+  "name": "Hồ Ngọc Hà",
+  "title": "ho-ngoc-ha",
+  "image": "https://photo-zmp3.zmdcdn.me/cover_artist/8/4/842258fd6e7deb0573901da5fc6a940c_1477391705.jpg",
+  "information": "<p>Khởi đầu với nghề người mẫu năm 15 tuổi, Hồ Ngọc Hà thử sức ở vai trò diễn viên rồi quyết định dừng chân với âm nhạc.<br>Năm 2004, cô ra mắt album đầu tay \"24 Giờ 7 Ngày\" (nhạc sĩ Huy Tuấn) nhưng không gây tiếng vang, đến album \"Và Em Đã Yêu\" (nhạc sĩ Đức Trí) thì được khán giả chú ý.<br>Dòng nhạc Hồ Ngọc Hà theo đuổi đa dạng, với ballad như \"Tìm Lại Giấc Mơ\", Pop với \"Nỗi Nhớ Đầy Vơi\" cùng Noo Phước Thịnh, Dance với \"Xin Hãy Thứ Tha\" cùng Suboi, với R&amp;B trong \"24 Giờ 7 Ngày\"...<br>Đến nay, độ nổi tiếng của cô ngày càng tăng, tỷ lệ thuận với khả năng thanh nhạc, vũ đạo cũng được trau chuốt theo thời gian. Cô cũng nhận được nhiều giải thưởng âm nhạc cho tài năng và sự cố gắng của mình.</p>",
+  "createDate": {
+    "$date": "2023-11-20T13:43:51.628Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T13:43:51.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b6bffa86f7bbb0dcdec1a"
+  },
+  "encodeId": "zFyS2M4mT",
+  "name": "Mỹ Mỹ",
+  "title": "my-my",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/b/f/b/dbfbc2470b2613e5fab54cdf3e75eb6e.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T14:23:59.541Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T14:57:35.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b6c14a86f7bbb0dcdec1c"
+  },
+  "encodeId": "yLCOEX75p",
+  "name": "OSAD",
+  "title": "osad",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/4/e/4/04e40200c3b27a6d0014901d008403bd.jpg",
+  "information": "<p>OSAD theo học Đại học Bách Khoa Hà Nội, nhưng với tình yêu âm nhạc, anh hoạt động trong cộng đồng Rap và Hiphop underground.<br>Năm 2018, ca khúc \"Người Âm Phủ\" ra đời đánh dấu bước thành công đầu tiên trong chặng đường âm nhạc của OSAD. Sức hút của ca khúc \"Người Âm Phủ\" còn giúp OSAD được mọi người ưu ái gắn cho biệt danh “thánh thả thính”.<br>Sự thành công đã mở ra cơ hội hoạt động chuyên nghiệp cho OSAD, anh ra mắt các ca khúc mới được khán giả yêu thích như \"Yêu Đương\", \"Em Có Thể\", \"Ngày Chờ Tháng Nhớ Năm Thương\", \"Vì Em Đến\" hay kết hợp cùng AMEE trong \"Dấu Yêu Vô Hình\"...</p>",
+  "createDate": {
+    "$date": "2023-11-20T14:24:20.519Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T14:24:20.519Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b74c5a86f7bbb0dcded02"
+  },
+  "encodeId": "WkNUNgXDz",
+  "name": "NBoro",
+  "title": "nboro",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/b/d/4/dbd4c128054b88e17437a0bbbec592fc.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T15:01:25.401Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T15:01:25.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b74e7a86f7bbb0dcded0c"
+  },
+  "encodeId": "KfVXxX3Kj",
+  "name": "Châu Khải Phong",
+  "title": "chau-khai-phong",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/9/a/e/c9aecf4e016a9f4f325251c05c4cda03.jpg",
+  "information": "<p>Ít ai biết rằng Châu Khải Phong phải trải qua nhiều khó khăn cũng như tốn nhiều mồ hôi và nước mắt để có được danh tiếng và ánh hào quang như ngày hôm nay. Châu Khải Phong xuất thân từ gia đình nông nghiệp ở miền Trung. Từ nhỏ, nam ca sĩ đã phải phụ giúp gia đình bằng cách vừa học vừa đi làm vì hoàn cảnh không được tốt.<br><br>Sớm nuôi dưỡng một tâm hồn và niềm đam mê âm nhạc, Châu Khải Phong đã bắt đầu tham gia vào các cuộc thi âm nhạc của Việt Nam để chứng minh khả năng của bản thân. Anh còn từng lặn lội vào Sài Gòn để thi Sao Mai Điểm Hẹn, nhưng khi ấy may mắn đã không mỉm cười với Châu Khải Phong.<br><br>Châu Khải Phong từng nổi lên như một hiện tượng với bản hit Ngắm Hoa Lệ Rơi. Có lẽ chính chủ nhân của Ngắm Hoa Lệ Rơi cũng không ngờ rằng ca khúc của mình lại được chào đón nồng nhiệt và vang lên khắp nơi như thế. Đồng thời, Ngắm Hoa Lệ Rơi còn được công nhận là Bài hát của năm và Châu Khải Phong cũng nhận được nút vàng trên Youtube.<br><br>Sau khi tạo được tiếng vang lớn, Châu Khải Phong tiếp tục cho ra mắt nhiều sản phẩm âm nhạc tiếp theo. Mặc dù được yêu mến với dòng nhạc ballad trữ tình nhưng để bản thân không rơi vào trạng thái một màu khiến khán giả nhàm chán, Châu Khải Phong đã cố gắng thay đổi trong cả phong cách âm nhạc lẫn hình tượng của bản thân.<br><br>Dù bước đầu lập nghiệp gặp không ít khó khăn nhưng Châu Khải Phong vẫn cố gắng theo đuổi con đường ca hát bằng sự nhiệt huyết của mình. Sau quá trình lao động nghiêm túc cùng những sản phẩm âm nhạc tâm huyết, Châu Khải Phong đã đạt được thành công và trở thành \"idol giới trẻ\". Sau nhiều cố gắng, nỗ lực thì anh cũng đã được đền đáp xứng đáng.</p>",
+  "createDate": {
+    "$date": "2023-11-20T15:01:59.993Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T15:01:59.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b74faa86f7bbb0dcded0e"
+  },
+  "encodeId": "m3CcUGyWx",
+  "name": "Anh Thi",
+  "title": "anh-thi",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/7/c/f/67cfecea07cd81519eaa3997b9a074fc.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T15:02:18.189Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T15:02:18.190Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b75fca86f7bbb0dcded30"
+  },
+  "encodeId": "RYpG6oSQ6",
+  "name": "Hải Nam",
+  "title": "hai-nam",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/2/b2416eac0fd90bcb98349759503468b3_1352183243.jpg",
+  "information": "<p>Tốt nghiêp Thanh Nhạc trường DHVH NGhê Thuât Quân<br>Đội<br>Giả Nhì Giọng Hát Hay Đài tiêng Nói 2004<br>Giải Triển vọng Tieng Hát Học Sinh Sinh viên Toàn quốc<br>2006<br>Với Nhiều Ca Khúc đươc có mặt trong chương trinh Bài<br>Hát việt như Về Nhà THôi ,Ánh Nắng ...v.v</p>",
+  "createDate": {
+    "$date": "2023-11-20T15:06:36.602Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T15:06:36.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b7616a86f7bbb0dcded32"
+  },
+  "encodeId": "e4Na8j3HE",
+  "name": "Nguyễn Hoàng",
+  "title": "nguyen-hoang",
+  "image": "https://photo-zmp3.zmdcdn.me/cover3_artist/0/9/09c089b34b3ef9ccca20a147127896da_1464056972.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T15:07:02.050Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T15:07:02.051Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b7628a86f7bbb0dcded34"
+  },
+  "encodeId": "_LOu3DGyl",
+  "name": "Dunghoangpham",
+  "title": "dunghoangpham",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/0/5/6/7056cb2ccbef8dc5048eacbb24d91ca1.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T15:07:20.822Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T15:07:20.822Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b765ea86f7bbb0dcded36"
+  },
+  "encodeId": "xm3_M94C1",
+  "name": "NamDuc",
+  "title": "namduc",
+  "image": "https://photo-zmp3.zmdcdn.me/cover_rect/4/8/0/4/4804f4402e8a6b6415002ae0ff99b3df.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T15:08:14.389Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T15:08:14.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b77ada86f7bbb0dcdedf2"
+  },
+  "encodeId": "fF-7XaHKp",
+  "name": "Jack - J97",
+  "title": "jack---j97",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/d/d/17ddb4f46bd67ac936d7ee1be469f45c.jpg",
+  "information": "<p>Trịnh Trần Phương Tuấn sinh ngày 12/04/1997, thường được biết đến với nghệ danh Jack - J97, là một nam ca sĩ kiêm sáng tác nhạc, rapper, diễn viên người Việt Nam.<br><br>Với niềm đam mê ca hát, Jack - J97 từ bỏ con đường sư phạm và gia nhập nhóm hiphop G5R. Năm 2019, anh ra mắt ca khúc \"Hồng Nhan\". Bài hát nhanh chóng trở thành một hiện tượng trong giới trẻ Việt Nam.<br><br>Một số giải thưởng âm nhạc nổi bật mà Jack - J97 đã nhận được phải kể đến như: Làn Sóng Xanh, Mai Vàng, WeChoice Awards, Zing Music Awards. Ngoài ra, anh còn được trao giải thưởng Nghệ sĩ Châu Á mới xuất sắc nhất tại Việt Nam ở lễ trao giải Mnet Asian Music Awards 2019 và cũng chiến thắng giải Nghệ sĩ Đông Nam Á xuất sắc nhất tại MTV EMA 2020.</p>",
+  "createDate": {
+    "$date": "2023-11-20T15:13:49.782Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T15:13:49.782Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b77caa86f7bbb0dcdedf4"
+  },
+  "encodeId": "9oPeFd7FJ",
+  "name": "Lê Bảo Bình",
+  "title": "le-bao-binh",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/0/2/3/50235e81f0314d3bcf96633fe2f7665a.jpg",
+  "information": "<p>Lê Bảo Bình sinh năm 1990, là một ca sĩ, nhạc sĩ được yêu thích hiện nay. Các sản phẩm của anh đều được công chúng đón nhận tích cực, gặt hái nhiều thành tích. Đó là thành quả của nhiều năm kiên trì hoạt động và cống hiến cho âm nhạc.<br>Các ca khúc triệu views của anh có thể kể đến như: Người Phản Bội, Tập Cô Đơn, Bước Qua Đời Nhau, Thích Thì Đến, Bỏ Lỡ Một Người...</p>",
+  "createDate": {
+    "$date": "2023-11-20T15:14:18.726Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T15:14:18.726Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b77e9a86f7bbb0dcdedf6"
+  },
+  "encodeId": "x-hf-LoVv",
+  "name": "Nguyên Hà",
+  "title": "nguyen-ha",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/a/2/1/5a21f21d005ced9ef0c3a4d4c293141e.jpg",
+  "information": "<p>Năm 2010, nhạc sĩ Quốc Bảo nghe được bản thu “Tàn Phai” của Nguyên Hà nên quyết định hợp tác với cô. Album đầu tay của Nguyên Hà có tựa đề \"Ru\" gồm 9 ca khúc hát do Quốc Bảo sáng tác: \"Duyên\", \"Ru\", \"Hoàng Hoa\"... Đây là bước đệm cho Nguyên Hà tham gia vào nền âm nhạc Việt Nam.<br>Năm 2010, Nguyên Hà cho ra mắt album \"Địa Đàng\" với 9 bản tình ca được Quốc Bảo viết riêng cho cô.<br>Bước ngoặt lớn nhất của Nguyên Hà là sự hợp tác cùng nhạc sĩ Hồ Tiến Đạt. Album hợp tác đầu tay \"Điều Vô Lý Thứ Nhất\" ra mắt năm 2017, với bản hit được yêu thích \"Ta Có Hẹn Với Tháng 5\". Các ca khúc khác của cặp đôi cũng thành công không kém, như \"Xin Lỗi\", \"Những Câu Chuyện Cũ Mèm\", \"Nhắm Mắt Thấy Mùa Hè\", \"Chờ Ngày Lời Hứa Nở Hoa\"...</p>",
+  "createDate": {
+    "$date": "2023-11-20T15:14:49.851Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T15:14:49.852Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b7809a86f7bbb0dcdedf8"
+  },
+  "encodeId": "jY8VGw1sT",
+  "name": "Phạm Nguyên Ngọc",
+  "title": "pham-nguyen-ngoc",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/5/a/e/45aeae03ef8f70d313a4d65601cb2072.jpg",
+  "information": "<p>Bắt đầu hoạt động âm nhạc từ năm 2018 với bài hát đầu tiên là Chuyện Người Anh Thương. Sau đó anh tiếp tục viết và thể hiện những ca khúc của chính mình.<br><br>Các tác phẩm nổi bật và đạt triệu view của Phạm Nguyên Ngọc có thể kể đến như Sao Em Lại Tắt Máy, Cảm Ơn Tổn Thương, Mặt Mộc, Quên Đặt Tên, ... Anh cũng từng kết hợp với nhiều ca sĩ khác như Dick, M NAIVE, VAnh, Ca Ca, Isaac Thái, ... mang lại những màu sắc âm nhạc rất thú vị.</p>",
+  "createDate": {
+    "$date": "2023-11-20T15:15:21.683Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T15:15:21.683Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b781ea86f7bbb0dcdedfa"
+  },
+  "encodeId": "wrdv9vsvJ",
+  "name": "Dick",
+  "title": "dick",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/8/c/b/d8cb474277502deb13eeaf753eeb71db.jpg",
+  "information": "<p>Dick tên thật là Huỳnh Công Hiếu<br>Sinh năm 1993 , hiện tại đang sinh sống tại TPHCM .<br>Dick hiện đang là Founder và Leader tại Bạn Có Tài Mà ,<br>đồng thời tham gia rất nhiều hoạt động trong nền nghệ<br>thuật Underground</p>",
+  "createDate": {
+    "$date": "2023-11-20T15:15:42.729Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T15:15:42.729Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b7832a86f7bbb0dcdedfc"
+  },
+  "encodeId": "Id-L5klvC",
+  "name": "Reddy",
+  "title": "reddy",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/2/9/9/82995828da5195887e3d1b4150f76a43.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T15:16:02.598Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T15:16:02.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b784da86f7bbb0dcdedfe"
+  },
+  "encodeId": "1N9XIi_L3",
+  "name": "Thương Võ",
+  "title": "thuong-vo",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/d/3/c/8d3cd512d25619c27c320e2808745d05.jpg",
+  "information": "<p>Thương Võ là một cái tên mới trong làng giải trí , cô đã tốt nghiệp chuyên nghành thanh nhạc tại trường Đại học văn hóa nghệ thuật quân đội Hà Nội , hiện là ca sĩ tự do và sống tại Hà Nội , cô sinh ra và lớn lên tại mảnh đất Nghệ An , gia đình không có ai làm nghệ thuật nhưng cô đã bén duyên với con đường âm nhạc bằng sự đam mê của mình , cô được công chúng trên cả nước biết đến từ những ca khúc cover hit nhất hiện nay , cô đã từng tham gia cuộc thi giọng hát việt 2015 và thuộc về team Mỹ Tâm , mong rằng album phát hành của cô được các bạn đón nhận nhiều hơn.</p>",
+  "createDate": {
+    "$date": "2023-11-20T15:16:29.292Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T15:16:29.293Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b786ca86f7bbb0dcdee00"
+  },
+  "encodeId": "kGrjEwIvE",
+  "name": "ACV",
+  "title": "acv",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/e/0/6/5e06d48fb79175a096e059ecf3d8b1e8.jpg",
+  "information": "<p>ACV là công ty sản xuất và truyền thông nhạc góp phần<br>tạo nên tên tuổi của Thương Võ, Như Việt. Ngoài ra ACV<br>còn hợp tác với nhiều nghệ sĩ khác như Minh Vương<br>M4U, Châu Khải Phong…</p>",
+  "createDate": {
+    "$date": "2023-11-20T15:17:00.719Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T15:17:00.719Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b78dca86f7bbb0dcdee2d"
+  },
+  "encodeId": "Mu1iJEDwm",
+  "name": "Daemon",
+  "title": "daemon",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T15:18:52.995Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T15:18:52.996Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b78eca86f7bbb0dcdee2f"
+  },
+  "encodeId": "Yvf_LqPhl",
+  "name": "Slowheal",
+  "title": "slowheal",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T15:19:08.740Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T15:19:08.740Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b78faa86f7bbb0dcdee31"
+  },
+  "encodeId": "R1Ry5ghwz",
+  "name": "marbre",
+  "title": "marbre",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T15:19:22.302Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T15:19:22.302Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b8334a86f7bbb0dcdeeea"
+  },
+  "encodeId": "eMfWbjxvT",
+  "name": "Wren Evans",
+  "title": "wren-evans",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/c/9/0/8c90a0d826a705c3d67c8045e7ea2e30.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T16:03:00.710Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T16:03:00.710Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b8344a86f7bbb0dcdeeec"
+  },
+  "encodeId": "NRh9iT8JJ",
+  "name": "Itsnk",
+  "title": "itsnk",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/a/2/f/fa2faafc86d65a8cf9a288fb6a484419.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T16:03:16.671Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T16:03:16.671Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b838fa86f7bbb0dcdeeff"
+  },
+  "encodeId": "JNOE-qgVI",
+  "name": "Hoàng Duyên",
+  "title": "hoang-duyen",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/1/9/6/619672078f62a2d9e5bec3d6318e42eb.jpg",
+  "information": "<p>Với chất giọng trong trẻo nhẹ nhàng và tình cảm, Hoàng Duyên thể hiện được đa dạng phong cách âm nhạc. Không chỉ hát, Hoàng Duyên còn có thể sử dụng nhạc cụ (piano, guitar…) và sáng tác ca khúc ở nhiều thể loại và chủ đề. Chọn cho mình hình ảnh nữ tính, tươi trẻ nhưng vẫn đậm dấu ấn Việt Nam và âm nhạc hiện đại kết hợp ngũ cung, thơ ca, Hoàng Duyên mong muốn nét đẹp truyền thống được ứng dụng trong cuộc sống hiện đại, gần gũi hơn để người trẻ dễ dàng tiếp nhận, yêu mến, tự hào và trân trọng - như trải nghiệm của bản thân mình. Và tương lai không xa, âm nhạc - văn hóa Việt Nam sẽ được bạn bè quốc tế biết đến, đón nhận bởi những điều thuần Việt.</p>",
+  "createDate": {
+    "$date": "2023-11-20T16:04:31.451Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T16:04:31.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b83a8a86f7bbb0dcdef01"
+  },
+  "encodeId": "iMSlmLaUb",
+  "name": "JSOL",
+  "title": "jsol",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/d/8/1/ad81a2c02c179c76f4bfbc278cb7df8e.jpg",
+  "information": "<p>Học Thanh nhạc tại Đại học Văn hóa Nghệ thuật và Quân đội Hà Nội, JSOL thường cover các ca khúc nổi tiếng và đăng trên mạng xã hội. Các bản cover của anh rất được yêu thích, đặc biệt là \"Em Gái Mưa\".<br>Năm 2017, Jsol gia nhập DreamS Entertainment và ra mắt MV đầu tay \"Lặng\" với giai điệu nhẹ nhàng sâu lắng, sau đó là \"Anh Vẫn Cứ Lo\" vào đầu năm 2018, định hình cho mình phong cách Hàn Quốc.<br>Tháng 4 2018, anh tham gia chương trình Giai Điệu Chung Đôi cùng ca sĩ người Hàn Quốc Jin Ju và được khán giả yêu mến. Cả hai ra mắt ca khúc song ca mang tên \"Cứ Đi Rồi Sẽ Đến\".<br>Năm 2019, JSOL ra mắt \"Đủ Xa Tình Sẽ Cũ\" và \"Giá Như Em Nhìn Lại\" (cùng ViruSs), \"Hết Yêu Thật Sao\" (cùng ViruSs và Hậu Hoàng) và đều được yêu thích.</p>",
+  "createDate": {
+    "$date": "2023-11-20T16:04:56.742Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T16:04:56.742Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b83f0a86f7bbb0dcdef03"
+  },
+  "encodeId": "Sqc-5KFN1",
+  "name": "Đàm Vĩnh Hưng",
+  "title": "đam-vinh-hung",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/avatars/6/f/9/5/6f95a5545394cf4b65830cab489788e8.jpg",
+  "information": "<p>Đàm Vĩnh Hưng tên thiệt là Huỳnh Minh Hưng. Anh sinh ngày 02/10/1971 và anh là anh cả trong gia đình của 2 anh em.<br><br>Thời còn là học trò, Đàm Vĩnh Hưng từng theo học tại trường phổ thông cơ sở Ngô Quyền và trường trung học phổ thông Nguyễn Thượng Hiền tại quận Tân Bình - Thành phố Hồ Chí Minh.<br><br>Đàm Vĩnh Hưng đoạt giải nhất trong cuộc bình chọn những giọng ca xuất sắc do Câu lạc bộ bạn trẻ nhạc chiều thứ 5 của Nhà hát Bến Thành tổ chức từ tháng 9/2000 - 9/2001. Đây là cột mốc đầu tiên cho sự nghiệp của Đàm Vĩnh Hưng.<br><br>Đàm Vĩnh Hưng tham gia sinh hoạt văn nghệ từ CLB Ca Sĩ Trẻ tại Trung tâm văn hóa quận 10 từ năm 1991. Sau khi đoạt giải nhất cuộc thi tuyển chọn giọng ca trẻ do Công ty Văn hóa quận 10 tổ chức tại công viên Hồ Kỳ Hòa năm 1992, Đàm Vĩnh Hưng chính thức đi vào con đường ca hát chuyên nghiệp.<br><br>Anh đã tự học đàn, tự nghiên cứu tài liệu để được làm quen với ký xướng âm và cả phong cách biểu diễn. Năm 1999, Đàm Vĩnh Hưng đã vượt qua 300 thí sinh để lọt vào danh sách 10 giọng ca có triển vọng của Trung tâm ca nhạc nhẹ Sài Gòn. Có thể xem Giọt nước mắt cho đời (Vol.05) là album đưa Đàm Vĩnh Hưng thật sự bật thành sao trong làng nhạc Việt<br><br>1991 - Tham gia vào sinh hoạt văn nghệ tụ CLB ca sỹ trẻ.<br>1992 - Đạt giải nhất tuyển chọn giọng ca trẻ tại công viên Hồ Kỳ Hòa.<br>1996: Giải Khuyến Khích trong cuộc thi \"Bài ca tháng 4\" do khu du lịch Đầm Sen tổ chức.<br>1997: Giải nhất cuộc thi \"Liên hoan các giọng hát hay bán chuyên nghiệp\".<br>1998: Giải tư Tiếng hát truyền hình Thành phố Hồ Chí Minh.<br>1999 - Được chọn vào 10 giọng ca có triển vọng của Trung tâm ca nhạc nhẹ Sài Gòn.<br>2001: Giải nhất giọng ca và gương mặt ca sĩ trẻ được yêu thích do chương trình Chiều thứ 5 dành cho các sinh viên bình chọn.<br>2002: Giải thưởng Làn Sóng Xanh của Đài tiếng nói Thành phố Hồ Chí Minh.<br>2003: Giải nhất Ngôi sao bạch kim - \"Giọng ca nam xuất sắc nhất\".<br>2004: Giải thưởng Làn Sóng Xanh: \"Ca sĩ được yêu thích nhất\" trong năm 2004.<br>2005: Giải thưởng Lá Phong của Tổng lãnh sự Canada.<br>2005: Hai giải thưởng Làn Sóng Xanh: \"Ca sĩ được yêu thích nhất\" và Ca sĩ của năm 2005.<br>2006: Giải thưởng Ngôi sao bạch kim - Ca sĩ có phong cách ấn tượng nhất.<br>2007: Giải cống hiến 2007 - Ca sĩ xuất sắc nhất 2007.<br>2008: Hai giải thưởng Làn Sóng Xanh: \"10 ca sĩ được yêu thích nhất\" và \"Ca sĩ của năm\". Huy chương bạc thể loại nhạc nhẹ và nhạc dân gian trong cuộc thi Liên hoan giọng hát vàng Asean 2008.<br>2009 : Nam ca sỹ được yêu thích nhất của HTV Awards - giải thưởng của Đài truyền hình TP.HCM; Giải thưởng Làn Sóng Xanh : Gương mặt của năm<br>2010: 5 giải thưởng Zing Music Awards 2010 và Ca sĩ được yêu thích nhất giải thưởng HTV Awards<br>2011: Giải thưởng HTV Awards : Ca sĩ được yêu thích nhất lần thứ hai.<br>2012: Đàm Vĩnh Hưng phát hành single Tuổi Hồng Thơ Ngây, một ca khúc nổi tiếng, sáng tác khuyết danh vào những năm đầu thập niên 1990. Đây là single đầu tay trong sự nghiệp 15 năm ca hát của mình.<br><br>Bên cạnh thể loại pop Đàm Vĩnh Hưng còn hát rất nhiều các ca khúc nhạc tiền chiến mang tính chất trữ tình cũng như nhạc Trịnh Công Sơn. Hiện nay Đàm Vĩnh Hưng hoạt động cả ở trong nước lẫn hải ngoại và được nhiều sự mến mộ của nhiều tầng lớp thính giả.<br><br>Hiện nay, CD của anh đang tạo nên một cơn sốt trên thị trường băng nhạc và không bao lâu một VCD nhạc được sản xuất bằng hệ thống kỹ thuật số sẽ được Vĩnh Hưng thực hiện như một món quà đánh dấu quá trình đi hát của mình.<br><br>Các album đã phát hành:<br>Vol. 1 - Tình ơi xin ngủ yên (2001)<br>Vol. 2 - Bình minh sẽ mang em đi (2001)<br>Vol. 3 - Một trái tim tình si (2002)<br>Vol. 4 - Bao giờ người trở lại... Hãy đến đây đêm nay (2002)<br>Vol. 5 - Giọt nước mắt cho đời (2003)<br>Vol. 6 - Hưng (2004)<br>Vol. 7 - Mr. Đàm (2005)<br>Vol. 8 - Tình ca hoài niệm (2006) với 12 tình khúc 1954-1975 nổi tiếng<br>Vol. 9 - Giải thoát (2007)<br>Vol. 10 - Lạc mất em (2007)<br>Vol. 11 - Hạnh phúc cuối (2008)<br>Dạ khúc cho tình nhân 1 - Hạnh phúc lang thang (2008)<br>Dạ khúc cho tình nhân 2 - Qua cơn mê (2008)<br>Dạ khúc cho tình nhân 3 - Những bài ca không quên (2010)<br>Dạ khúc cho tình nhân 4 - Cuộc tình đã mất (2011)<br>Dạ khúc cho tình nhân 5 - Xót xa (2011)<br>Dạ khúc cho tình nhân 6 - Xóa tên người tình (2013)<br>Dạ khúc cho tình nhân 7 - Chờ đông (2013)<br>Vùng trời bình yên - với Hồng Ngọc (2002)<br>Phôi pha (2003)<br>Bước chân mùa xuân (2008)<br>Mùa Noel đó (2009)<br>Khoảng cách (2010)<br>Sa mạc tình yêu - với Thanh Lam (2011)<br>Anh còn nợ em (2011)<br>Ca dao mẹ (2011)<br>3H (2011)<br>Góc khuất (2012)<br>Tuổi hồng thơ ngây (2012)<br>Chúc xuân - Bên em mùa xuân (2012)<br>Tình buồn của H (2014)<br>Làm sao anh biết (2014)<br>Ô kìa... (2014)<br>Khắc (2015)<br>Lời con dâng chúa (2015)<br>Tình ca mùa đông (2015)<br>DVD Liveshow Trái tim hát (2003)<br>DVD Liveshow Giờ H (2004)<br>DVD Liveshow Thương hoài ngàn năm (2008)<br>DVD Liveshow Ngày không em (2008)<br>DVD Liveshow Sinh viên họ Đàm (2008)<br>DVD Liveshow Người tình (2010)<br>DVD Biển tình (2011)<br>DVD Liveshow Dạ tiệc trắng (2011)<br>DVD Liveshow Mr. Đàm By Night 5 - Bước chân miền Trung (2011)<br>DVD Liveshow Số phận (2012)<br>DVD Liveshow Thương hoài ngàn năm 2 (2015)<br>DVD Yêu em trong cả giấc mơ (2015)<br>Lời con dâng chúa (2015)<br>Tan vỡ (Single) (2016)<br>Tình không biên giới (2016)<br>Diamond songs (2016)<br>Tình bơ vơ (2017)<br>Vì anh là soái ca (2017)<br>14 năm 9 tháng (2017)</p>",
+  "createDate": {
+    "$date": "2023-11-20T16:06:08.292Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T16:06:08.292Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b8c1fa86f7bbb0dcdf200"
+  },
+  "encodeId": "4f0CWnug2",
+  "name": "League Of Legends",
+  "title": "league-of-legends",
+  "image": "https://photo-zmp3.zmdcdn.me/cover_artist/4/4/44253719d482c024e2bbd799dd57f844_1516270342.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T16:41:03.423Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T16:41:03.426Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b8c36a86f7bbb0dcdf202"
+  },
+  "encodeId": "T-ZG9X_Sx",
+  "name": "NewJeans",
+  "title": "newjeans",
+  "image": "https://photo-zmp3.zmdcdn.me/cover_artist/5/f/d/3/5fd3c340d62e900f4d2f4c4cd2dc1ffa.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T16:41:26.965Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T16:41:26.966Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b8c4da86f7bbb0dcdf204"
+  },
+  "encodeId": "MeKpC5bxI",
+  "name": "Sympton X Collective",
+  "title": "sympton-x-collective",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/3/8/d/a38dacb5282819456e6e3e629af67519.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T16:41:49.814Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T16:41:49.815Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b8c6ba86f7bbb0dcdf206"
+  },
+  "encodeId": "Mtlx-yIA_",
+  "name": "JENNIE",
+  "title": "jennie",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/7/f/a/b7fa3e74c16db4c6c9f18bfb8aa438de.jpg",
+  "information": "<p>Jennie Kim sinh ngày 16 tháng 1 năm 1996), thường được<br>biết đến với nghệ danh Jennie (Hangul: 제니), là một nữ<br>ca sĩ, rapper gốc Hàn Quốc, từng là du học sinh ở New<br>Zealand, thành viên của nhóm nhạc nữ Black Pink do<br>công ty giải trí YG Entertainment thành lập và quản lý.</p>",
+  "createDate": {
+    "$date": "2023-11-20T16:42:19.826Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T16:42:19.826Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b8c80a86f7bbb0dcdf208"
+  },
+  "encodeId": "1zhMTCV9v",
+  "name": "aespa",
+  "title": "aespa",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/3/6/9/7369d55e22eba292bc6a1014c1cc1822.jpg",
+  "information": "<p>Là nhóm nhạc nữ nổi bật của Kpop thế hệ thứ 4 với 4<br>thành viên trực thuộc SM Entertainment, theo đuổi thể<br>loại EDM và hip hop với hit \"Savage\" lập thành tích<br>perfect all-kill vào năm 2021</p>",
+  "createDate": {
+    "$date": "2023-11-20T16:42:40.213Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T16:42:40.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b8ca6a86f7bbb0dcdf215"
+  },
+  "encodeId": "xnuPuYlqj",
+  "name": "Double2T",
+  "title": "double2t",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/e/e/0/cee0921237af2027de90b80066d61f63.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T16:43:18.749Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T16:43:18.750Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b8cc7a86f7bbb0dcdf223"
+  },
+  "encodeId": "oKrTnyQG2",
+  "name": "HIEUTHUHAI",
+  "title": "hieuthuhai",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/2/a/1/c2a154106353063625c9412ed20443a0.jpg",
+  "information": "<p>HIEUTHUHAI: Anh chàng sinh viên mê nhạc rap trở thành hiện tượng của King of Rap.<br>Biết đến thể loại rap đã lâu nhưng HIEUTHUHAI chỉ mới chính thức bước chân vào bộ môn rap 2 năm. Thời gian trước đây, anh thử sức với loại nhạc nhẹ, thế nhưng từ sau khi rẽ sang rap, HIEUTHUHAI như tìm thấy được chính mình và thỏa sức thể hiện bản thân tại dòng nhạc này.</p>",
+  "createDate": {
+    "$date": "2023-11-20T16:43:51.613Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T16:53:16.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b8ceea86f7bbb0dcdf226"
+  },
+  "encodeId": "tCcrGaXbU",
+  "name": "T.R.I",
+  "title": "t.r.i",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/d/8/c/9d8cebbdd8a96e9267699b0d0828616b.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T16:44:30.351Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T16:44:30.351Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b8d08a86f7bbb0dcdf228"
+  },
+  "encodeId": "rH-FKvwvB",
+  "name": "Huyền Tâm Môn",
+  "title": "huyen-tam-mon",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/9/3/8/093889299fe3e2c1f97b993e23866f64.jpg",
+  "information": "<p>Huyền Tâm Môn sinh ngày 30/10/2003. Tuy vẫn còn rất trẻ nhưng Huyền Tâm Môn đã gây ấn tượng với tài năng sáng tác, ca hát với chất giọng đặc biệt và khả năng chơi nhạc cụ. Huyền biết chơi Guitar, Piano.<br>Huyền Tâm Môn bắt đầu thử viết nhạc và sáng tác từ hồi học lớp 8, tham gia các câu lạc bộ, hoạt động ngoại khóa về âm nhạc tại trường cấp 2 và cấp 3, lấy cảm hứng sáng tác qua những câu chuyện xung quanh cuộc sống và phim ảnh, sở thích du lịch, trải nghiệm để lấy cảm hứng sáng tác và học hỏi thêm kỹ năng sống. Với gu âm nhạc đa dạng, Huyền mong sẽ thử sức mình được ở nhiều thể loại nhạc khác nhau.</p>",
+  "createDate": {
+    "$date": "2023-11-20T16:44:56.524Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T16:44:56.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b8d24a86f7bbb0dcdf238"
+  },
+  "encodeId": "18iRjGP0z",
+  "name": "Great",
+  "title": "great",
+  "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/a/c/0/7ac0ae75ea8c5484c8dbd27591853079.jpg",
+  "information": "",
+  "createDate": {
+    "$date": "2023-11-20T16:45:24.339Z"
+  },
+  "following": {
+    "items": []
+  },
+  "contentLastUpdate": {
+    "$date": "2023-11-20T16:45:24.340Z"
+  },
+  "__v": 0
+}]

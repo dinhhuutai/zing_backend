@@ -169,23 +169,28 @@ class PageAlbumController {
         }
     }
 
-    
     // [PUT] /api/v1/page/album/like/:idAlbum
     async like(req, res, next) {
         try {
             const idAlbum = req.params.idAlbum;
-            let playlist = await Playlist.findByIdAndUpdate(idAlbum, { $addToSet: { like: req.id } }, {new: true});
+            let playlist = await Playlist.findByIdAndUpdate(
+                idAlbum,
+                { $addToSet: { like: req.id } },
+                { new: true }
+            );
 
-            if(!playlist) {
-                playlist = await Album.findByIdAndUpdate(idAlbum, { $addToSet: { like: req.id } }, {new: true});
+            if (!playlist) {
+                playlist = await Album.findByIdAndUpdate(
+                    idAlbum,
+                    { $addToSet: { like: req.id } },
+                    { new: true }
+                );
             }
 
-            
             return res.status(200).json({
                 success: true,
                 playlist,
             });
-            
         } catch (error) {
             console.log(error);
             return res
@@ -194,23 +199,88 @@ class PageAlbumController {
         }
     }
 
-    
     // [PUT] /api/v1/page/album/unlike/:idAlbum
     async unlike(req, res, next) {
         try {
             const idAlbum = req.params.idAlbum;
-            let playlist = await Playlist.findByIdAndUpdate(idAlbum, { $pull: { like: req.id } }, {new: true});
+            let playlist = await Playlist.findByIdAndUpdate(
+                idAlbum,
+                { $pull: { like: req.id } },
+                { new: true }
+            );
 
-            if(!playlist) {
-                playlist = await Album.findByIdAndUpdate(idAlbum, { $pull: { like: req.id } }, {new: true});
+            if (!playlist) {
+                playlist = await Album.findByIdAndUpdate(
+                    idAlbum,
+                    { $pull: { like: req.id } },
+                    { new: true }
+                );
             }
 
-            
             return res.status(200).json({
                 success: true,
                 playlist,
             });
-            
+        } catch (error) {
+            console.log(error);
+            return res
+                .status(500)
+                .json({ success: false, message: "Internal server error" });
+        }
+    }
+
+    // [PUT] /api/v1/page/album/historyPlaylist/:idAlbum
+    async historyPlaylist(req, res, next) {
+        try {
+            const idAlbum = req.params.idAlbum;
+            let playlist = await Playlist.findById(idAlbum);
+
+            if (playlist) {
+                playlist = await User.findByIdAndUpdate(
+                    req.id,
+                    {
+                        $push: {
+                            playlistHistory: {
+                                $each: [idAlbum],
+                                $position: 0, // Đặt vị trí là 0 để thêm vào đầu mảng
+                            },
+                        },
+                    },
+                    { new: true }
+                );
+
+                const historyPlaylist = playlist.playlistHistory;
+
+                
+                function removeDuplicates(arr) {
+                    const result = [];
+
+                    for (let i = 0; i < arr.length; i++) {
+                        // Nếu phần tử chưa tồn tại trong mảng kết quả, thêm nó vào
+                        if (!result.some(item => item.toString() === arr[i].toString())) {
+                            result.push(arr[i]);
+                        }
+                    }
+
+                    return result;
+                }
+
+                const historyPlaylistNew = removeDuplicates(historyPlaylist);
+
+                playlist = await User.findByIdAndUpdate(
+                    req.id,
+                    {
+                        playlistHistory: historyPlaylistNew
+                    },
+                    { new: true }
+                );
+
+            }
+
+            return res.status(200).json({
+                success: true,
+                playlist,
+            });
         } catch (error) {
             console.log(error);
             return res

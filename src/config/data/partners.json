@@ -1,0 +1,240 @@
+[{
+    "_id": {
+      "$oid": "655a42d51669b799d4699d6b"
+    },
+    "name": "Danal",
+    "image": "https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/partner_logo/danal.png",
+    "alias": "danal",
+    "createDate": {
+      "$date": "2023-11-19T17:16:05.523Z"
+    },
+    "updateDate": {
+      "$date": "2023-11-19T17:16:05.541Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a42ed1669b799d4699d6d"
+    },
+    "name": "Routenote",
+    "image": "https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/partner_logo/route-note.png",
+    "alias": "routenote",
+    "createDate": {
+      "$date": "2023-11-19T17:16:29.656Z"
+    },
+    "updateDate": {
+      "$date": "2023-11-19T17:16:29.657Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a42f91669b799d4699d6f"
+    },
+    "name": "SM",
+    "image": "https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/partner_logo/SM-Entertainment.png",
+    "alias": "sm",
+    "createDate": {
+      "$date": "2023-11-19T17:16:41.546Z"
+    },
+    "updateDate": {
+      "$date": "2023-11-19T17:16:41.547Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a43061669b799d4699d71"
+    },
+    "name": "Empire",
+    "image": "https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/partner_logo/empire.png",
+    "alias": "empire",
+    "createDate": {
+      "$date": "2023-11-19T17:16:54.631Z"
+    },
+    "updateDate": {
+      "$date": "2023-11-19T17:16:54.632Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a43141669b799d4699d73"
+    },
+    "name": "Ingrooves",
+    "image": "https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/partner_logo/ingrooves.png",
+    "alias": "ingrooves",
+    "createDate": {
+      "$date": "2023-11-19T17:17:08.932Z"
+    },
+    "updateDate": {
+      "$date": "2023-11-19T17:17:08.933Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a43201669b799d4699d75"
+    },
+    "name": "Stone",
+    "image": "https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/partner_logo/stone-music.png",
+    "alias": "stone",
+    "createDate": {
+      "$date": "2023-11-19T17:17:20.209Z"
+    },
+    "updateDate": {
+      "$date": "2023-11-19T17:17:20.210Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a432d1669b799d4699d77"
+    },
+    "name": "Universal",
+    "image": "https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/partner_logo/universal-1.png",
+    "alias": "universal",
+    "createDate": {
+      "$date": "2023-11-19T17:17:33.993Z"
+    },
+    "updateDate": {
+      "$date": "2023-11-19T17:17:33.993Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a433e1669b799d4699d79"
+    },
+    "name": "Monstercat",
+    "image": "https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/partner_logo/monstercat.png",
+    "alias": "monstercat",
+    "createDate": {
+      "$date": "2023-11-19T17:17:50.315Z"
+    },
+    "updateDate": {
+      "$date": "2023-11-19T17:17:50.316Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a434a1669b799d4699d7b"
+    },
+    "name": "Kakao",
+    "image": "https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/partner_logo/kakao.png",
+    "alias": "kakao",
+    "createDate": {
+      "$date": "2023-11-19T17:18:02.035Z"
+    },
+    "updateDate": {
+      "$date": "2023-11-19T17:18:02.035Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a43591669b799d4699d7d"
+    },
+    "name": "Fuga",
+    "image": "https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/partner_logo/FUGA.png",
+    "alias": "fuga",
+    "createDate": {
+      "$date": "2023-11-19T17:18:17.603Z"
+    },
+    "updateDate": {
+      "$date": "2023-11-19T17:18:17.604Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a436d1669b799d4699d7f"
+    },
+    "name": "Beggars",
+    "image": "https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/partner_logo/beggers.png",
+    "alias": "beggars",
+    "createDate": {
+      "$date": "2023-11-19T17:18:37.846Z"
+    },
+    "updateDate": {
+      "$date": "2023-11-19T17:18:37.847Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a43781669b799d4699d81"
+    },
+    "name": "Genie",
+    "image": "https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/partner_logo/genie.png",
+    "alias": "genie",
+    "createDate": {
+      "$date": "2023-11-19T17:18:48.541Z"
+    },
+    "updateDate": {
+      "$date": "2023-11-19T17:18:48.543Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a43991669b799d4699d83"
+    },
+    "name": "Yg",
+    "image": "https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/partner_logo/yg.png",
+    "alias": "yg",
+    "createDate": {
+      "$date": "2023-11-19T17:19:21.159Z"
+    },
+    "updateDate": {
+      "$date": "2023-11-19T17:19:21.160Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a43a51669b799d4699d85"
+    },
+    "name": "Believe",
+    "image": "https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/partner_logo/believe.png",
+    "alias": "believe",
+    "createDate": {
+      "$date": "2023-11-19T17:19:33.513Z"
+    },
+    "updateDate": {
+      "$date": "2023-11-19T17:19:33.513Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a43b21669b799d4699d87"
+    },
+    "name": "Sony",
+    "image": "https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/partner_logo/sony.png",
+    "alias": "sony",
+    "createDate": {
+      "$date": "2023-11-19T17:19:46.606Z"
+    },
+    "updateDate": {
+      "$date": "2023-11-19T17:19:46.606Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a43c81669b799d4699d89"
+    },
+    "name": "Orcahrd",
+    "image": "https://static-zmp3.zmdcdn.me/skins/zmp3-v6.1/images/partner_logo/orcahrd.png",
+    "alias": "orcahrd",
+    "createDate": {
+      "$date": "2023-11-19T17:20:08.484Z"
+    },
+    "updateDate": {
+      "$date": "2023-11-19T17:20:08.484Z"
+    },
+    "__v": 0
+  }]

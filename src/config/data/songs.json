@@ -1,40 +1,4001 @@
-[
-    {
-        "name": "Những Câu Hỏi Khi Say",
-        "title": "Những Câu Hỏi Khi Say",
-        "artists": [],
-        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/6/c/7/9/6c7981d66ffba86c620e47814c6a9fcd.jpg",
-        "linkMusic": "https://a320-zmp3.zmdcdn.me/8ace807b8ebef0c8b68e057e460c75fa?authen=exp=1698657973~acl=/8ace807b8ebef0c8b68e057e460c75fa/*~hmac=156db4ce31020c92b29def821f56121c",
-        "duration": 264,
-        "releaseDate": 1698339603,
-        "genreId": [],
-        "like": [],
-        "listen": [
-            {
-                "time": 0,
-                "hour": "",
-                "counter": 0
-            }
-        ],
-        "listenOneDayLast": 0
+[{
+    "_id": {
+      "$oid": "655a494e1669b799d4699f28"
     },
-    {
-        "name": "Đậm Sâu Chẳng Được Gì",
-        "title": "Dam-Sau-Chang-Duoc-Gi-Hoai-Lam",
-        "artists": ["653e71444aede51a9816828e"],
-        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/c/7/7/dc7780482025af567902baf1f15295f3.jpg",
-        "linkMusic": "https://a320-zmp3.zmdcdn.me/77ddebbc1f567ae10ef7f665c10ef38d?authen=exp=1698810193~acl=/77ddebbc1f567ae10ef7f665c10ef38d/*~hmac=34822abc0aecc8cec7e6de26facb53e0",
-        "duration": 317,
-        "releaseDate": 1698325200,
-        "genreId": ["653e3c22c8830bae78af5829", "653e3dbe307099914de95787"],
-        "like": [],
-        "listen": [
-            {
-                "time": 0,
-                "hour": "",
-                "counter": 0
-            }
-        ],
-        "listenOneDayLast": 0
-    }
-]
+    "encodeId": "Vg0_gD5MC",
+    "name": "Người Yêu Thơ",
+    "title": "nguoi-yeu-tho",
+    "artists": [
+      {
+        "$oid": "655a47a11669b799d4699ee2"
+      },
+      {
+        "$oid": "655a47c81669b799d4699ee4"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/banner/0/3/8/b/038bdda24e4f84687f9bd3dfc7d5d8aa.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700731011/img_zing_mp3/khxffktisyxevw7i1asy.mp3",
+    "duration": 202,
+    "releaseDate": 1698796800,
+    "genreId": [
+      {
+        "$oid": "653e3dbe307099914de95787"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-19T17:43:42.181Z"
+    },
+    "listen": [
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 4,
+        "_id": {
+          "$oid": "655e99f8b1e5f125a3fbe0f3"
+        }
+      },
+      {
+        "time": 1700690400,
+        "hour": "5",
+        "counter": 3,
+        "_id": {
+          "$oid": "655e7b3cbc34d7f4976af4da"
+        }
+      },
+      {
+        "time": 1700514000,
+        "hour": "4",
+        "counter": 20
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:16:51.624Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a4a131669b799d4699f5d"
+    },
+    "encodeId": "tHDWbjLLl",
+    "name": "Cắt Đôi Nỗi Sầu",
+    "title": "cat-đoi-noi-sau",
+    "artists": [
+      {
+        "$oid": "655a4a4f1669b799d4699f78"
+      },
+      {
+        "$oid": "655a4a321669b799d4699f76"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/b/f/0/1/bf0182328238f2a252496a63e51f1f74.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700728805/img_zing_mp3/ngbubksbbu1mmssp2pfg.mp3",
+    "duration": 203,
+    "releaseDate": 1699574400,
+    "genreId": [
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      },
+      {
+        "$oid": "653e3de7307099914de9578f"
+      },
+      {
+        "$oid": "653e3f24307099914de957af"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-19T17:46:59.027Z"
+    },
+    "listen": [
+      {
+        "time": 1700733600,
+        "hour": "17",
+        "counter": 2,
+        "_id": {
+          "$oid": "655f2b61e60f71c930311492"
+        }
+      },
+      {
+        "time": 1700708400,
+        "hour": "10",
+        "counter": 3,
+        "_id": {
+          "$oid": "655ec1dbf15bd848a85a01bf"
+        }
+      },
+      {
+        "time": 1700704800,
+        "hour": "9",
+        "counter": 6,
+        "_id": {
+          "$oid": "655eb9b2894d16a884642f9b"
+        }
+      },
+      {
+        "time": 1700701200,
+        "hour": "8",
+        "counter": 1,
+        "_id": {
+          "$oid": "655ea725b1e5f125a3fc082e"
+        }
+      },
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 19,
+        "_id": {
+          "$oid": "655e99f5b1e5f125a3fbe0ed"
+        }
+      },
+      {
+        "time": 1700690400,
+        "hour": "5",
+        "counter": 5,
+        "_id": {
+          "$oid": "655e7b2bbc34d7f4976af4d6"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T08:40:05.555Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a4dcc1669b799d469a114"
+    },
+    "encodeId": "1OnHST-yO",
+    "name": "Hoa Cỏ Lau",
+    "title": "hoa-co-lau",
+    "artists": [
+      {
+        "$oid": "655a4d701669b799d469a0fe"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/1/9/9/619964de31327dbf8491d14d2c25533f.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700729481/img_zing_mp3/jb6ry4h4h8odtiztlyqy.mp3",
+    "duration": 237,
+    "releaseDate": 1695254400,
+    "genreId": [
+      {
+        "$oid": "653e3de7307099914de9578f"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-19T18:02:52.327Z"
+    },
+    "listen": [
+      {
+        "time": 1700737200,
+        "hour": "18",
+        "counter": 22,
+        "_id": {
+          "$oid": "655f345ff5db32cee9da64ac"
+        }
+      },
+      {
+        "time": 1700730000,
+        "hour": "16",
+        "counter": 3,
+        "_id": {
+          "$oid": "655f153cf15bd848a85a2736"
+        }
+      },
+      {
+        "time": 1700704800,
+        "hour": "9",
+        "counter": 2,
+        "_id": {
+          "$oid": "655ebce1fd5671c75217d072"
+        }
+      },
+      {
+        "time": 1700701200,
+        "hour": "8",
+        "counter": 4,
+        "_id": {
+          "$oid": "655ea413b1e5f125a3fc0656"
+        }
+      },
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 4,
+        "_id": {
+          "$oid": "655e9f1bb1e5f125a3fbf764"
+        }
+      },
+      {
+        "time": 1700694000,
+        "hour": "6",
+        "counter": 1,
+        "_id": {
+          "$oid": "655e8cf0d2599b74e96d85f1"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T08:51:21.317Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a4e8c1669b799d469a140"
+    },
+    "encodeId": "8mS9siui3",
+    "name": "Ngày Mai Người Ta Lấy Chồng",
+    "title": "ngay-mai-nguoi-ta-lay-chong",
+    "artists": [
+      {
+        "$oid": "655a4e1b1669b799d469a132"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/9/3/9/f9390ab7a26adbe59739fe2ba9470ee1.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700730954/img_zing_mp3/h4z1pgruxasuqbbebhu8.mp3",
+    "duration": 420,
+    "releaseDate": 1697155200,
+    "genreId": [
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      },
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3f32307099914de957b3"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-19T18:06:04.367Z"
+    },
+    "listen": [
+      {
+        "time": 1700737200,
+        "hour": "18",
+        "counter": 31,
+        "_id": {
+          "$oid": "655f3522f5db32cee9da7583"
+        }
+      },
+      {
+        "time": 1700701200,
+        "hour": "8",
+        "counter": 13,
+        "_id": {
+          "$oid": "655ea419b1e5f125a3fc065c"
+        }
+      },
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 3,
+        "_id": {
+          "$oid": "655e9e05b1e5f125a3fbf3fb"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:15:54.318Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a50951669b799d469a1bb"
+    },
+    "encodeId": "dR82X2L5n",
+    "name": "Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau",
+    "title": "roi-ta-se-ngam-phao-hoa-cung-nhau",
+    "artists": [
+      {
+        "$oid": "655a503f1669b799d469a1b4"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/4/3/4/9434543f977168783a58bdcef063136d.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700731570/img_zing_mp3/fzcb91294anrynomd1ed.mp3",
+    "duration": 279,
+    "releaseDate": 1697068800,
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      },
+      {
+        "$oid": "653e3f32307099914de957b3"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-19T18:14:45.533Z"
+    },
+    "listen": [
+      {
+        "time": 1700744400,
+        "hour": "20",
+        "counter": 2,
+        "_id": {
+          "$oid": "655f5a6bfce6ed5ce1f25075"
+        }
+      },
+      {
+        "time": 1700701200,
+        "hour": "8",
+        "counter": 4,
+        "_id": {
+          "$oid": "655ea5d5b1e5f125a3fc07ff"
+        }
+      },
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 4,
+        "_id": {
+          "$oid": "655e9e18b1e5f125a3fbf415"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:26:10.501Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a51db1669b799d469a210"
+    },
+    "encodeId": "OH_eUQuQR",
+    "name": "nàng thơ... trời giấu trời mang đi",
+    "title": "nang-tho...-troi-giau-troi-mang-đi",
+    "artists": [
+      {
+        "$oid": "655612514b1ca3f0b692a0a0"
+      },
+      {
+        "$oid": "655a518e1669b799d469a1f9"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/a/5/6/8/a568d2f2905208e440d222eaf73d1778.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700732407/img_zing_mp3/odlnxblxsngvsayzkdgh.mp3",
+    "duration": 262,
+    "releaseDate": 1699488000,
+    "genreId": [
+      {
+        "$oid": "653e3f01307099914de957a5"
+      },
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-19T18:20:11.270Z"
+    },
+    "listen": [
+      {
+        "time": 1700737200,
+        "hour": "18",
+        "counter": 2,
+        "_id": {
+          "$oid": "655f34c9f5db32cee9da7102"
+        }
+      },
+      {
+        "time": 1700733600,
+        "hour": "17",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f23b5f15bd848a85a4dc5"
+        }
+      },
+      {
+        "time": 1700730000,
+        "hour": "16",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f1578f15bd848a85a2b19"
+        }
+      },
+      {
+        "time": 1700701200,
+        "hour": "8",
+        "counter": 5,
+        "_id": {
+          "$oid": "655ea5cfb1e5f125a3fc07fb"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:40:07.443Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a53521669b799d469a2a1"
+    },
+    "encodeId": "PspxwsljL",
+    "name": "Nếu Em Không Về",
+    "title": "neu-em-khong-ve",
+    "artists": [
+      {
+        "$oid": "655a52ff1669b799d469a299"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/8/1/2/68125243beb2d937d4c8b125cc5761a7.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700731478/img_zing_mp3/f18mognrebdksrivuncz.mp3",
+    "duration": 309,
+    "releaseDate": 1699488000,
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      },
+      {
+        "$oid": "653e3f32307099914de957b3"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-19T18:26:26.706Z"
+    },
+    "listen": [
+      {
+        "time": 1700701200,
+        "hour": "8",
+        "counter": 3,
+        "_id": {
+          "$oid": "655ea639b1e5f125a3fc0804"
+        }
+      },
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 1,
+        "_id": {
+          "$oid": "655e9e08b1e5f125a3fbf3fe"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:24:38.289Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a547c1669b799d469a2d5"
+    },
+    "encodeId": "RtKY1m1FM",
+    "name": "Ngày Mai Em Đi Mất",
+    "title": "ngay-mai-em-đi-mat",
+    "artists": [
+      {
+        "$oid": "655a53da1669b799d469a2c9"
+      },
+      {
+        "$oid": "655a542b1669b799d469a2cb"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/8/6/c/986ccfe2a965e11b4c967745a0fefe96.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700730826/img_zing_mp3/d2shfcvxs3fre8yfuurm.mp3",
+    "duration": 246,
+    "releaseDate": 1699056000,
+    "genreId": [
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      },
+      {
+        "$oid": "653e3f32307099914de957b3"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-19T18:31:24.280Z"
+    },
+    "listen": [
+      {
+        "time": 1700744400,
+        "hour": "20",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f5974f5db32cee9dab8dd"
+        }
+      },
+      {
+        "time": 1700701200,
+        "hour": "8",
+        "counter": 1,
+        "_id": {
+          "$oid": "655ea5cbb1e5f125a3fc07f8"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:13:46.437Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a55831669b799d469a345"
+    },
+    "encodeId": "N5t5IPUAX",
+    "name": "Ai Chung Tình Được Mãi (Vinahouse Version)",
+    "title": "ai-chung-tinh-đuoc-mai-(vinahouse-version)",
+    "artists": [
+      {
+        "$oid": "655a552a1669b799d469a32e"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/d/a/9/5da92b54155ac844f9dac366057cbcde.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700709952/img_zing_mp3/bwr1cbiyftvqp9kkw2oi.mp3",
+    "duration": 254,
+    "releaseDate": 1697414400,
+    "genreId": [
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      },
+      {
+        "$oid": "653e3de7307099914de9578f"
+      },
+      {
+        "$oid": "653e3de0307099914de9578d"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-19T18:35:47.215Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T03:25:52.941Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b07eea86f7bbb0dcddf68"
+    },
+    "encodeId": "hfvezV06E",
+    "name": "Last Christmas",
+    "title": "last-christmas",
+    "artists": [
+      {
+        "$oid": "655b07a9a86f7bbb0dcddf52"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/f/f/ff932a223a04686a6ae1af748b71ddd4_1308665884.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700730472/img_zing_mp3/nhchhbjxy5pbp34dbdrj.mp3",
+    "duration": 232,
+    "releaseDate": 1698883200,
+    "genreId": [
+      {
+        "$oid": "653e3d08307099914de9576b"
+      },
+      {
+        "$oid": "653e3f01307099914de957a5"
+      },
+      {
+        "$oid": "653e3d5a307099914de95779"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T07:17:02.597Z"
+    },
+    "listen": [
+      {
+        "time": 1700744400,
+        "hour": "20",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f55dff5db32cee9dab716"
+        }
+      },
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 3,
+        "_id": {
+          "$oid": "655ea0ebb1e5f125a3fbfed6"
+        }
+      },
+      {
+        "time": 1700690400,
+        "hour": "5",
+        "counter": 5,
+        "_id": {
+          "$oid": "655e7b1bbc34d7f4976af485"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:07:52.464Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b089ca86f7bbb0dcddfb2"
+    },
+    "encodeId": "vAJeD8ucj",
+    "name": "Shape of You",
+    "title": "shape-of-you",
+    "artists": [
+      {
+        "$oid": "655b084ba86f7bbb0dcddf90"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/3/c/0/63c07672f833bb32803f8b373ef9b062.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700731723/img_zing_mp3/pckftanafaugy0vrle2m.mp3",
+    "duration": 181,
+    "releaseDate": 1697068800,
+    "genreId": [
+      {
+        "$oid": "653e3d08307099914de9576b"
+      },
+      {
+        "$oid": "653e3de0307099914de9578d"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T07:19:56.478Z"
+    },
+    "listen": [
+      {
+        "time": 1700744400,
+        "hour": "20",
+        "counter": 4,
+        "_id": {
+          "$oid": "655f555ef5db32cee9dab3c8"
+        }
+      },
+      {
+        "time": 1700737200,
+        "hour": "18",
+        "counter": 3,
+        "_id": {
+          "$oid": "655f324c47288c8d1d773802"
+        }
+      },
+      {
+        "time": 1700733600,
+        "hour": "17",
+        "counter": 7,
+        "_id": {
+          "$oid": "655f25464643c95565a0301d"
+        }
+      },
+      {
+        "time": 1700730000,
+        "hour": "16",
+        "counter": 2,
+        "_id": {
+          "$oid": "655f14f2f15bd848a85a24b1"
+        }
+      },
+      {
+        "time": 1700708400,
+        "hour": "10",
+        "counter": 1,
+        "_id": {
+          "$oid": "655ec658f15bd848a85a08e1"
+        }
+      },
+      {
+        "time": 1700704800,
+        "hour": "9",
+        "counter": 2,
+        "_id": {
+          "$oid": "655eb9ae894d16a884642e87"
+        }
+      },
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 8,
+        "_id": {
+          "$oid": "655e9930b1e5f125a3fbdf9e"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:28:43.228Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b0a54a86f7bbb0dcde055"
+    },
+    "encodeId": "WSeh2qFzR",
+    "name": "Huyền Vi",
+    "title": "huyen-vi",
+    "artists": [
+      {
+        "$oid": "655b09eda86f7bbb0dcde03e"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/c/c/0/8cc0c3cb083abceb31df735871ac5664.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700729744/img_zing_mp3/eeoi1kqja4zmfp3jscsx.mp3",
+    "duration": 256,
+    "releaseDate": 1698883200,
+    "genreId": [
+      {
+        "$oid": "653e3de0307099914de9578d"
+      },
+      {
+        "$oid": "653e3eda307099914de95799"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T07:27:16.900Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T08:55:44.763Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b0c56a86f7bbb0dcde15f"
+    },
+    "encodeId": "reyUE_a8y",
+    "name": "Yêu Nhưng Không Thể Giữ",
+    "title": "yeu-nhung-khong-the-giu",
+    "artists": [
+      {
+        "$oid": "655b0bfda86f7bbb0dcde148"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/3/f/0/6/3f0673cdcb84f2d2d0af61f860f4d6d1.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700732630/img_zing_mp3/zufiwg4wxyjehxmqjdsp.mp3",
+    "duration": 304,
+    "releaseDate": 1694649600,
+    "genreId": [
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      },
+      {
+        "$oid": "653e3f01307099914de957a5"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T07:35:50.269Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T09:43:51.017Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b249ba86f7bbb0dcde1f6"
+    },
+    "encodeId": "QSyE-gNWP",
+    "name": "Trượng Phu",
+    "title": "truong-phu",
+    "artists": [
+      {
+        "$oid": "655b2423a86f7bbb0dcde1db"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/a/f/0/0/af008193c7ea1077720fc479fcf550a2.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700733131/img_zing_mp3/vmrs1amkqox9322ujuku.mp3",
+    "duration": 282,
+    "releaseDate": 1686268800,
+    "genreId": [
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      },
+      {
+        "$oid": "653e3de7307099914de9578f"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T09:19:23.073Z"
+    },
+    "listen": [
+      {
+        "time": 1700737200,
+        "hour": "18",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f34a5f5db32cee9da6e59"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:52:11.413Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b25b8a86f7bbb0dcde23b"
+    },
+    "encodeId": "hn6qdRpeZ",
+    "name": "Sao Em Vội Đi",
+    "title": "sao-em-voi-đi",
+    "artists": [
+      {
+        "$oid": "655b2544a86f7bbb0dcde224"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/2/6/9/f2698bf67091d22d388961dbea4117a1.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700731613/img_zing_mp3/f4cu2x2hluunafiika0q.mp3",
+    "duration": 292,
+    "releaseDate": 1698883200,
+    "genreId": [
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      },
+      {
+        "$oid": "653e3f32307099914de957b3"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T09:24:08.724Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T09:26:53.202Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b2682a86f7bbb0dcde298"
+    },
+    "encodeId": "5CPHcisCh",
+    "name": "Why",
+    "title": "why",
+    "artists": [
+      {
+        "$oid": "655b2636a86f7bbb0dcde290"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/e/b/8/6/eb8673411b05ba68c3442bb30f5fecb7.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700732825/img_zing_mp3/lw2f1y2l3wzn7pkpwaef.mp3",
+    "duration": 235,
+    "releaseDate": 1691712000,
+    "genreId": [
+      {
+        "$oid": "653e3de0307099914de9578d"
+      },
+      {
+        "$oid": "653e3d08307099914de9576b"
+      },
+      {
+        "$oid": "653e3dee307099914de95791"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T09:27:30.963Z"
+    },
+    "listen": [
+      {
+        "time": 1700733600,
+        "hour": "17",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f25a3b59fd6224a2184bd"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:47:05.641Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b2a81a86f7bbb0dcde412"
+    },
+    "encodeId": "Uz1QRA-fE",
+    "name": "Như Anh Đã Thấy Em",
+    "title": "nhu-anh-đa-thay-em",
+    "artists": [
+      {
+        "$oid": "655b29d6a86f7bbb0dcde3f5"
+      },
+      {
+        "$oid": "655b29eea86f7bbb0dcde3f7"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/f/b/3/0fb3ab6b2dd74fa6b7741ece6d47c29d.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700731074/img_zing_mp3/zi88cuf3xrvtqegtql7o.mp3",
+    "duration": 302,
+    "releaseDate": 1699488000,
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      },
+      {
+        "$oid": "653e3f32307099914de957b3"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T09:44:33.323Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T09:17:54.832Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b2b0fa86f7bbb0dcde471"
+    },
+    "encodeId": "3s_NPpg3x",
+    "name": "Hôm Nay Em Cưới Rồi (Lofi Version)",
+    "title": "hom-nay-em-cuoi-roi-(lofi-version)",
+    "artists": [
+      {
+        "$oid": "655a53da1669b799d469a2c9"
+      },
+      {
+        "$oid": "655b29eea86f7bbb0dcde3f7"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/7/c/1/3/7c131e10a6951056a11e8bac06913e80.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700729863/img_zing_mp3/afrd82mcvh0a3zfqpmyq.mp3",
+    "duration": 261,
+    "releaseDate": 1694649600,
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      },
+      {
+        "$oid": "653e3f32307099914de957b3"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T09:46:55.920Z"
+    },
+    "listen": [
+      {
+        "time": 1700737200,
+        "hour": "18",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f325f274be9d2a8754504"
+        }
+      },
+      {
+        "time": 1700733600,
+        "hour": "17",
+        "counter": 2,
+        "_id": {
+          "$oid": "655f2a2c6a8d3724d547a186"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T08:57:43.551Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b2c76a86f7bbb0dcde514"
+    },
+    "encodeId": "Yn-7BZzJ7",
+    "name": "Hoa Bằng Lăng",
+    "title": "hoa-bang-lang",
+    "artists": [
+      {
+        "$oid": "655b2c0fa86f7bbb0dcde505"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/3/b/4/a/3b4a3fc75fb324639e75164fe8d8c471.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700729383/img_zing_mp3/izubkqd6yl8b0hc3wqsf.mp3",
+    "duration": 208,
+    "releaseDate": 1699574400,
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3d25307099914de9576f"
+      },
+      {
+        "$oid": "653e3f32307099914de957b3"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T09:52:54.833Z"
+    },
+    "listen": [
+      {
+        "time": 1700748000,
+        "hour": "21",
+        "counter": 3,
+        "_id": {
+          "$oid": "655f5d3f3de34507ce0912a7"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T08:49:42.781Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b2d4ca86f7bbb0dcde51f"
+    },
+    "encodeId": "dJyjNEl32",
+    "name": "Ánh Trăng Nói Hộ Lòng Tôi (Cover)",
+    "title": "anh-trang-noi-ho-long-toi-(cover)",
+    "artists": [
+      {
+        "$oid": "655b2cbea86f7bbb0dcde517"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/b/8/0/b/b80b11950fec26ebb39c7f2cddf38592.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700732285/img_zing_mp3/eyerw9uk3sp1by2oqprh.mp3",
+    "duration": 242,
+    "releaseDate": 1698883200,
+    "genreId": [
+      {
+        "$oid": "653e3d25307099914de9576f"
+      },
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3db6307099914de95785"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T09:56:28.737Z"
+    },
+    "listen": [
+      {
+        "time": 1700748000,
+        "hour": "21",
+        "counter": 5,
+        "_id": {
+          "$oid": "655f5bca3de34507ce090e63"
+        }
+      },
+      {
+        "time": 1700744400,
+        "hour": "20",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f52bef5db32cee9daaef9"
+        }
+      },
+      {
+        "time": 1700737200,
+        "hour": "18",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f32e5f5db32cee9da5dd6"
+        }
+      },
+      {
+        "time": 1700733600,
+        "hour": "17",
+        "counter": 8,
+        "_id": {
+          "$oid": "655f28a6adcc1a6adc8809bd"
+        }
+      },
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 2,
+        "_id": {
+          "$oid": "655ea002b1e5f125a3fbfb79"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:38:05.685Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b2e6ba86f7bbb0dcde5ed"
+    },
+    "encodeId": "8TM5XSZ6U",
+    "name": "Hoa Nở Không Màu (Lofi Ver.)",
+    "title": "hoa-no-khong-mau-(lofi-ver.)",
+    "artists": [
+      {
+        "$oid": "655b29eea86f7bbb0dcde3f7"
+      },
+      {
+        "$oid": "6555e6684b1ca3f0b692a039"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/1/b/8/21b8a4dcf5c467a9b3004ef2c0538550.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700729688/img_zing_mp3/zxeepvyidxeaklnx9ftf.mp3",
+    "duration": 220,
+    "releaseDate": 1697068800,
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3db6307099914de95785"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T10:01:15.571Z"
+    },
+    "listen": [
+      {
+        "time": 1700737200,
+        "hour": "18",
+        "counter": 2,
+        "_id": {
+          "$oid": "655f320d3315272c9e71458d"
+        }
+      },
+      {
+        "time": 1700733600,
+        "hour": "17",
+        "counter": 5,
+        "_id": {
+          "$oid": "655f2805b80133a1df94db24"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T08:54:48.345Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b2ed9a86f7bbb0dcde60f"
+    },
+    "encodeId": "5T8Tu-mx1",
+    "name": "Hoa Cỏ Lau (Lo-Fi Version)",
+    "title": "hoa-co-lau-(lo-fi-version)",
+    "artists": [
+      {
+        "$oid": "655a4d701669b799d469a0fe"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/5/3/4/15347416ca91ca5323cd91d672625036.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700729580/img_zing_mp3/qmo8yqphdf4sgnbdhmvb.mp3",
+    "duration": 225,
+    "releaseDate": 1694563200,
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T10:03:05.152Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T08:53:00.240Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b312ca86f7bbb0dcde74e"
+    },
+    "encodeId": "n6BYW-0RF",
+    "name": "Thằng Điên",
+    "title": "thang-đien",
+    "artists": [
+      {
+        "$oid": "655b30cfa86f7bbb0dcde738"
+      },
+      {
+        "$oid": "655612374b1ca3f0b692a09e"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/d/5/c/9d5c56a277a06a48ec7956a4fd17e4c1.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700733340/img_zing_mp3/wuvnlbsgfizkbhvaebmg.mp3",
+    "duration": 220,
+    "releaseDate": 1697068800,
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T10:13:00.363Z"
+    },
+    "listen": [
+      {
+        "time": 1700737200,
+        "hour": "18",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f31e0b59a087355e0ae91"
+        }
+      },
+      {
+        "time": 1700733600,
+        "hour": "17",
+        "counter": 2,
+        "_id": {
+          "$oid": "655f2e0440c25ebb2ee497aa"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:55:40.388Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b31bca86f7bbb0dcde783"
+    },
+    "encodeId": "XVOTVhns3",
+    "name": "đưa em về nhàa",
+    "title": "đua-em-ve-nhaa",
+    "artists": [
+      {
+        "$oid": "655b3153a86f7bbb0dcde75e"
+      },
+      {
+        "$oid": "655b3171a86f7bbb0dcde760"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/e/7/e/1e7ef0ee2540cc17535d674649fedcf4.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700732066/img_zing_mp3/fug1jzaql4mk9rio9ie4.mp3",
+    "duration": 240,
+    "releaseDate": 1699488000,
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T10:15:24.125Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T09:34:26.676Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b32b6a86f7bbb0dcde801"
+    },
+    "encodeId": "sc1UiEM7j",
+    "name": "Thanh Xuân",
+    "title": "thanh-xuan",
+    "artists": [
+      {
+        "$oid": "655b3275a86f7bbb0dcde7fa"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/2/e/1/c/2e1ca4018e845d515a5c8c1bd20ec40e.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700731801/img_zing_mp3/ekqpsurfyqgj82rwkxaa.mp3",
+    "duration": 221,
+    "releaseDate": 1688515200,
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T10:19:34.049Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T09:30:01.799Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b330ca86f7bbb0dcde803"
+    },
+    "encodeId": "G69VH0AP1",
+    "name": "Có Em Đời Bỗng Vui",
+    "title": "co-em-đoi-bong-vui",
+    "artists": [
+      {
+        "$oid": "655b3171a86f7bbb0dcde760"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/c/7/8/6/c78699650f5d7f41efb9ba76906bae65.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700727964/img_zing_mp3/a1cqr99uhxwykhcwa7bc.mp3",
+    "duration": 251,
+    "releaseDate": 1668038400,
+    "genreId": [
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      },
+      {
+        "$oid": "653e3d5a307099914de95779"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T10:21:00.150Z"
+    },
+    "listen": [
+      {
+        "time": 1700737200,
+        "hour": "18",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f324347288c8d1d77369b"
+        }
+      },
+      {
+        "time": 1700733600,
+        "hour": "17",
+        "counter": 2,
+        "_id": {
+          "$oid": "655f2f9f61eeb51a270492da"
+        }
+      },
+      {
+        "time": 1700708400,
+        "hour": "10",
+        "counter": 1,
+        "_id": {
+          "$oid": "655ec64df15bd848a85a08c3"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T08:26:05.293Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b3cf6a86f7bbb0dcde87d"
+    },
+    "encodeId": "BfQaWGNpc",
+    "name": "Mắt Em",
+    "title": "mat-em",
+    "artists": [
+      {
+        "$oid": "655b3c52a86f7bbb0dcde85d"
+      },
+      {
+        "$oid": "655b3c61a86f7bbb0dcde85f"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/a/6/a/f/a6afd0ada51b5517733fe93d49109b7c.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700730716/img_zing_mp3/djjvx3qe7jzhlb0dqivc.mp3",
+    "duration": 200,
+    "releaseDate": 1699401600,
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3db6307099914de95785"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T11:03:18.799Z"
+    },
+    "listen": [
+      {
+        "time": 1700737200,
+        "hour": "18",
+        "counter": 4,
+        "_id": {
+          "$oid": "655f30da061ed1401c383b6c"
+        }
+      },
+      {
+        "time": 1700733600,
+        "hour": "17",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f28beab3e5da5105e790e"
+        }
+      },
+      {
+        "time": 1700704800,
+        "hour": "9",
+        "counter": 1,
+        "_id": {
+          "$oid": "655ebe2215c4f797ddd30980"
+        }
+      },
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 1,
+        "_id": {
+          "$oid": "655e9f31b1e5f125a3fbf82b"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:11:56.371Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b3d59a86f7bbb0dcde882"
+    },
+    "encodeId": "aceqwV0rq",
+    "name": "Tỏ Tình Trước Đi",
+    "title": "to-tinh-truoc-đi",
+    "artists": [
+      {
+        "$oid": "655b3c78a86f7bbb0dcde861"
+      },
+      {
+        "$oid": "655b3c91a86f7bbb0dcde863"
+      },
+      {
+        "$oid": "655b3ca6a86f7bbb0dcde865"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/b/3/7/0b37c148c019387e90359b8ca7d8ccc0.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700733014/img_zing_mp3/zqecgtfq7kblq8vshw0b.mp3",
+    "duration": 149,
+    "releaseDate": 1694649600,
+    "genreId": [
+      {
+        "$oid": "653e3f1c307099914de957ad"
+      },
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3db6307099914de95785"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T11:04:57.310Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T09:50:14.086Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b3ea5a86f7bbb0dcde975"
+    },
+    "encodeId": "0OnE3hhLu",
+    "name": "hai mươi hai (22)",
+    "title": "hai-muoi-hai-(22)",
+    "artists": [
+      {
+        "$oid": "655612514b1ca3f0b692a0a0"
+      },
+      {
+        "$oid": "655b3e56a86f7bbb0dcde96b"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/b/6/d/e/b6de6c0857b19e1c921f2d379817d491.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700732590/img_zing_mp3/o3jj1iq7qxnb64iwxdhd.mp3",
+    "duration": 239,
+    "releaseDate": 1698883200,
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3db6307099914de95785"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T11:10:29.874Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T09:43:10.072Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b3ee2a86f7bbb0dcde978"
+    },
+    "encodeId": "-jy8vTotg",
+    "name": "mang ghế ra sân ngồi hát",
+    "title": "mang-ghe-ra-san-ngoi-hat",
+    "artists": [
+      {
+        "$oid": "655b3e56a86f7bbb0dcde96b"
+      },
+      {
+        "$oid": "655b3e6ba86f7bbb0dcde96d"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/8/e/6/68e65f67ba718bc806e155bc76dfad5b.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700732526/img_zing_mp3/v6ivpqcfytsg7ictjyz0.mp3",
+    "duration": 211,
+    "releaseDate": 1700179200,
+    "genreId": [
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      },
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3db6307099914de95785"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T11:11:30.024Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T09:42:06.288Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b3ff8a86f7bbb0dcde9ce"
+    },
+    "encodeId": "mQDlp5Bx-",
+    "name": "Gió (Remix)",
+    "title": "gio-(remix)",
+    "artists": [
+      {
+        "$oid": "655b3f73a86f7bbb0dcde9c0"
+      },
+      {
+        "$oid": "655b3f81a86f7bbb0dcde9c2"
+      },
+      {
+        "$oid": "655b3f63a86f7bbb0dcde9be"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/9/8/2/f982fe11eb95ab5e6520b6df3c2d4d5a.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700729214/img_zing_mp3/ylerbhhg5k7q84hw95m5.mp3",
+    "duration": 215,
+    "releaseDate": 1699401600,
+    "genreId": [
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      },
+      {
+        "$oid": "653e3de7307099914de9578f"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T11:16:08.224Z"
+    },
+    "listen": [
+      {
+        "time": 1700733600,
+        "hour": "17",
+        "counter": 2,
+        "_id": {
+          "$oid": "655f2d7ef07f45d8ae413861"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T08:46:54.310Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b4035a86f7bbb0dcde9d1"
+    },
+    "encodeId": "dAMSiN2Tq",
+    "name": "Những Lời Dối Gian (Remix)",
+    "title": "nhung-loi-doi-gian-(remix)",
+    "artists": [
+      {
+        "$oid": "655b3f9fa86f7bbb0dcde9c5"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/3/d/2/83d22b444f2d7faa98715011a82b7fcd.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700731343/img_zing_mp3/rwtbscvgwzl86jriw1i5.mp3",
+    "duration": 253,
+    "releaseDate": 1694649600,
+    "genreId": [
+      {
+        "$oid": "653e3de7307099914de9578f"
+      },
+      {
+        "$oid": "653e3de0307099914de9578d"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T11:17:09.674Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T09:22:23.685Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b413aa86f7bbb0dcdea42"
+    },
+    "encodeId": "OYp6rKj4i",
+    "name": "Hình Như Ta Thích Nhau",
+    "title": "hinh-nhu-ta-thich-nhau",
+    "artists": [
+      {
+        "$oid": "655b40eba86f7bbb0dcdea3a"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/banner/0/2/b/2/02b2d27225cf0265a737a3ae5a80fe1e.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700729819/img_zing_mp3/nzfn7gjezaosyxvvorjw.mp3",
+    "duration": 213,
+    "releaseDate": 1691625600,
+    "genreId": [
+      {
+        "$oid": "653e3de0307099914de9578d"
+      },
+      {
+        "$oid": "653e3f1c307099914de957ad"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T11:21:30.803Z"
+    },
+    "listen": [
+      {
+        "time": 1700733600,
+        "hour": "17",
+        "counter": 2,
+        "_id": {
+          "$oid": "655f2f0bb63bbb3e39d54235"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T08:56:59.654Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b41a0a86f7bbb0dcdea48"
+    },
+    "encodeId": "l0bhRkL-L",
+    "name": "Nhất Trên Đời",
+    "title": "nhat-tren-đoi",
+    "artists": [
+      {
+        "$oid": "655b3c78a86f7bbb0dcde861"
+      },
+      {
+        "$oid": "655b3ca6a86f7bbb0dcde865"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/b/6/d/db6de68045be6546a9e361b6dbe7d5c7.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700731240/img_zing_mp3/v5rnk6rl2o3youfc6pvt.mp3",
+    "duration": 184,
+    "releaseDate": 1698796800,
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3db6307099914de95785"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T11:23:12.207Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T09:20:40.864Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b42b8a86f7bbb0dcdeaa2"
+    },
+    "encodeId": "L8E5QLoP9",
+    "name": "Bụng Mỡ Của Em",
+    "title": "bung-mo-cua-em",
+    "artists": [
+      {
+        "$oid": "655b423fa86f7bbb0dcdea96"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/c/9/f/a/c9fa9028e00da8f92f885c2c3e221aac.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700728611/img_zing_mp3/dcoyrdmyjipttw7zozg4.mp3",
+    "duration": 251,
+    "releaseDate": 1694044800,
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3f1c307099914de957ad"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T11:27:52.551Z"
+    },
+    "listen": [
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 2,
+        "_id": {
+          "$oid": "655e99d4b1e5f125a3fbe046"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T08:36:51.916Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b42f0a86f7bbb0dcdeaa6"
+    },
+    "encodeId": "bndchEgFb",
+    "name": "Cá Cắn Câu",
+    "title": "ca-can-cau",
+    "artists": [
+      {
+        "$oid": "655b425aa86f7bbb0dcdea98"
+      },
+      {
+        "$oid": "655b4276a86f7bbb0dcdea9a"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/5/3/1/65318a7525986d6203066f2166516d73.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700711223/img_zing_mp3/bdp6gyto8vxvsbvjspa9.mp3",
+    "duration": 252,
+    "releaseDate": 1699401600,
+    "genreId": [
+      {
+        "$oid": "653e3f1c307099914de957ad"
+      },
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3de0307099914de9578d"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T11:28:48.944Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T03:47:04.039Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b49e3a86f7bbb0dcdeb14"
+    },
+    "encodeId": "O4d7Ngq7b",
+    "name": "Muộn Rồi Mà Sao Còn (Remix)",
+    "title": "muon-roi-ma-sao-con-(remix)",
+    "artists": [
+      {
+        "$oid": "655b496aa86f7bbb0dcdeb0c"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/a/d/8/f/ad8f54e0a77a05fd752697b066bf7ada.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700730554/img_zing_mp3/fz0yfwdscty4zatqguct.mp3",
+    "duration": 262,
+    "releaseDate": 1694044800,
+    "genreId": [
+      {
+        "$oid": "653e3de7307099914de9578f"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T11:58:27.266Z"
+    },
+    "listen": [
+      {
+        "time": 1700737200,
+        "hour": "18",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f31086677da1cd65cc12f"
+        }
+      },
+      {
+        "time": 1700733600,
+        "hour": "17",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f2593b59fd6224a218371"
+        }
+      },
+      {
+        "time": 1700708400,
+        "hour": "10",
+        "counter": 3,
+        "_id": {
+          "$oid": "655ec668f15bd848a85a0b3f"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:09:14.211Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b4a2fa86f7bbb0dcdeb16"
+    },
+    "encodeId": "3qNOOlReH",
+    "name": "Nơi Này Có Anh (Remix)",
+    "title": "noi-nay-co-anh-(remix)",
+    "artists": [
+      {
+        "$oid": "655b496aa86f7bbb0dcdeb0c"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/3/e/2/13e2daa9989d293f36584e12c803d1f5.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700731423/img_zing_mp3/p0rgsngxz8fwuld88s1z.mp3",
+    "duration": 188,
+    "releaseDate": 1699488000,
+    "genreId": [
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      },
+      {
+        "$oid": "653e3de7307099914de9578f"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T11:59:43.045Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T09:23:43.046Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b678ea86f7bbb0dcdebbd"
+    },
+    "encodeId": "_3_SKiJ3n",
+    "name": "Hương (HAOZI x RINV Remix)",
+    "title": "huong-(haozi-x-rinv-remix)",
+    "artists": [
+      {
+        "$oid": "655b6278a86f7bbb0dcdeb91"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/5/3/e/b/53ebbe30718759320b3daf629eebf9c2.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700729921/img_zing_mp3/ruzevzkuwz0w5sltzdib.mp3",
+    "duration": 201,
+    "releaseDate": 1693958400,
+    "genreId": [
+      {
+        "$oid": "653e3de7307099914de9578f"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T14:05:02.665Z"
+    },
+    "listen": [
+      {
+        "time": 1700737200,
+        "hour": "18",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f31b1349dbaca14994fc3"
+        }
+      },
+      {
+        "time": 1700708400,
+        "hour": "10",
+        "counter": 4,
+        "_id": {
+          "$oid": "655ec663f15bd848a85a0b1f"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T08:58:41.655Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b67d0a86f7bbb0dcdebc0"
+    },
+    "encodeId": "OykEO0iNz",
+    "name": "Cô Đơn Trên Sofa (Fwin Remix)",
+    "title": "co-đon-tren-sofa-(fwin-remix)",
+    "artists": [
+      {
+        "$oid": "655b6297a86f7bbb0dcdeb93"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/c/e/2/d/ce2d5527653cfbbe6af3e220dc1d13ca.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700728668/img_zing_mp3/klxoggfdz7pk7mxpznhx.mp3",
+    "duration": 239,
+    "releaseDate": 1698969600,
+    "genreId": [
+      {
+        "$oid": "653e3de7307099914de9578f"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T14:06:08.782Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T08:37:47.961Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b743aa86f7bbb0dcdec5d"
+    },
+    "encodeId": "sdDUC0ltk",
+    "name": "Không Ai Khác Ngoài Em",
+    "title": "khong-ai-khac-ngoai-em",
+    "artists": [
+      {
+        "$oid": "655b6bffa86f7bbb0dcdec1a"
+      },
+      {
+        "$oid": "655b6c14a86f7bbb0dcdec1c"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/0/0/1/90010dc8cb90067223b396bc3bf6d3f9.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700730346/img_zing_mp3/dmmref8hth6iemuf2svk.mp3",
+    "duration": 217,
+    "releaseDate": 1697068800,
+    "genreId": [
+      {
+        "$oid": "653e3de0307099914de9578d"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T14:59:06.441Z"
+    },
+    "listen": [
+      {
+        "time": 1700733600,
+        "hour": "17",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f2a41d1b74dffd804f67d"
+        }
+      },
+      {
+        "time": 1700708400,
+        "hour": "10",
+        "counter": 2,
+        "_id": {
+          "$oid": "655ec665f15bd848a85a0b32"
+        }
+      },
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 4,
+        "_id": {
+          "$oid": "655ea0feb1e5f125a3fc0086"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:05:46.782Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b754ea86f7bbb0dcded17"
+    },
+    "encodeId": "Ui0qiSFdP",
+    "name": "Hạt Mưa Vương Vấn (Vinahouse Remix)",
+    "title": "hat-mua-vuong-van-(vinahouse-remix)",
+    "artists": [
+      {
+        "$oid": "655a4e1b1669b799d469a132"
+      },
+      {
+        "$oid": "655b74c5a86f7bbb0dcded02"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/9/e/8/c/9e8c67c23bace04d5e0e99b850ced883.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700729985/img_zing_mp3/f73j0tzdyoa2vjenwdbh.mp3",
+    "duration": 248,
+    "releaseDate": 1697673600,
+    "genreId": [
+      {
+        "$oid": "653e3de7307099914de9578f"
+      },
+      {
+        "$oid": "653e3de0307099914de9578d"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T15:03:42.393Z"
+    },
+    "listen": [
+      {
+        "time": 1700737200,
+        "hour": "18",
+        "counter": 2,
+        "_id": {
+          "$oid": "655f31960ee1277fb3cdd99e"
+        }
+      },
+      {
+        "time": 1700708400,
+        "hour": "10",
+        "counter": 2,
+        "_id": {
+          "$oid": "655ec65df15bd848a85a0a01"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T08:59:45.166Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b759ba86f7bbb0dcded1b"
+    },
+    "encodeId": "bYQdRnb71",
+    "name": "Vì Là Sai Lối (Remix Vinahouse)",
+    "title": "vi-la-sai-loi-(remix-vinahouse)",
+    "artists": [
+      {
+        "$oid": "655b74e7a86f7bbb0dcded0c"
+      },
+      {
+        "$oid": "655b74faa86f7bbb0dcded0e"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/b/c/0/1/bc01d777c12249de2923c75af3d79cb3.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700732874/img_zing_mp3/dy0fy24xs3b9eea0usue.mp3",
+    "duration": 302,
+    "releaseDate": 1694649600,
+    "genreId": [
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      },
+      {
+        "$oid": "653e3de7307099914de9578f"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T15:04:59.498Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T09:47:54.943Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b76a7a86f7bbb0dcded55"
+    },
+    "encodeId": "ZNjXjxC-X",
+    "name": "Mật Ngọt (Remix)",
+    "title": "mat-ngot-(remix)",
+    "artists": [
+      {
+        "$oid": "655b75fca86f7bbb0dcded30"
+      },
+      {
+        "$oid": "655b7616a86f7bbb0dcded32"
+      },
+      {
+        "$oid": "655b7628a86f7bbb0dcded34"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/a/f/9/7/af977125f819459e34f62a76a4b2f55a.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700730623/img_zing_mp3/df7oiqgftdjembrdljiz.mp3",
+    "duration": 249,
+    "releaseDate": 1697760000,
+    "genreId": [
+      {
+        "$oid": "653e3de7307099914de9578f"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T15:09:27.742Z"
+    },
+    "listen": [
+      {
+        "time": 1700748000,
+        "hour": "21",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f5c203de34507ce090fd0"
+        }
+      },
+      {
+        "time": 1700708400,
+        "hour": "10",
+        "counter": 2,
+        "_id": {
+          "$oid": "655ec677f15bd848a85a0b91"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:10:24.078Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b76d6a86f7bbb0dcded58"
+    },
+    "encodeId": "-BOyrAn3G",
+    "name": "Tuyệt Sắc (Orinn Remix)",
+    "title": "tuyet-sac-(orinn-remix)",
+    "artists": [
+      {
+        "$oid": "655b765ea86f7bbb0dcded36"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/6/a/d/f6adfcd65653d9c361b4208e98e096ce.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700733059/img_zing_mp3/fqhjafxrexntjadinsgz.mp3",
+    "duration": 196,
+    "releaseDate": 1692835200,
+    "genreId": [
+      {
+        "$oid": "653e3de7307099914de9578f"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T15:10:14.913Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T09:50:59.145Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b7975a86f7bbb0dcdee48"
+    },
+    "encodeId": "EV40MVM4t",
+    "name": "Cuối Cùng Thì",
+    "title": "cuoi-cung-thi",
+    "artists": [
+      {
+        "$oid": "655b77ada86f7bbb0dcdedf2"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/f/5/8/9f58cc8633750bb9a12bc153854a870a.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700711160/img_zing_mp3/c1ots5g2kxkh39by8uko.mp3",
+    "duration": 221,
+    "releaseDate": 1697760000,
+    "genreId": [
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      },
+      {
+        "$oid": "653e3de0307099914de9578d"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T15:21:25.461Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T03:46:00.705Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b79aba86f7bbb0dcdee4b"
+    },
+    "encodeId": "sVOf-vs8F",
+    "name": "Đùa Hơi Quá",
+    "title": "đua-hoi-qua",
+    "artists": [
+      {
+        "$oid": "655b77caa86f7bbb0dcdedf4"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/banner/f/1/5/4/f154fd207ceb9bafbe9a77494158104c.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700732205/img_zing_mp3/f35d6y24tswjnsl6etz5.mp3",
+    "duration": 320,
+    "releaseDate": 1697500800,
+    "genreId": [
+      {
+        "$oid": "653e3de0307099914de9578d"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T15:22:19.762Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T09:36:46.047Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b79e3a86f7bbb0dcdee4e"
+    },
+    "encodeId": "8XL7FiTQ3",
+    "name": "Như Lần Đầu",
+    "title": "nhu-lan-đau",
+    "artists": [
+      {
+        "$oid": "655b77e9a86f7bbb0dcdedf6"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/e/e/2/8ee238401a7af3705bc0052dcda5c816.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700731127/img_zing_mp3/xv0ulnkdottrpijt0rnj.mp3",
+    "duration": 283,
+    "releaseDate": 1699488000,
+    "genreId": [
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      },
+      {
+        "$oid": "653e3f32307099914de957b3"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T15:23:15.155Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T09:18:47.537Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b7a16a86f7bbb0dcdee51"
+    },
+    "encodeId": "gLbdUvWeZ",
+    "name": "Như Những Phút Ban Đầu",
+    "title": "nhu-nhung-phut-ban-đau",
+    "artists": [
+      {
+        "$oid": "6555e6684b1ca3f0b692a039"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/7/c/7c6be286dd1c9831e37a14eca4016975_1467343706.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700731193/img_zing_mp3/hvgryollbrev3y3bjztn.mp3",
+    "duration": 335,
+    "releaseDate": 1699488000,
+    "genreId": [
+      {
+        "$oid": "653e3f32307099914de957b3"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T15:24:06.416Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T09:19:53.606Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b7a63a86f7bbb0dcdee57"
+    },
+    "encodeId": "Ta1_93rUG",
+    "name": "Trên Chuyến Xe",
+    "title": "tren-chuyen-xe",
+    "artists": [
+      {
+        "$oid": "655b7809a86f7bbb0dcdedf8"
+      },
+      {
+        "$oid": "655b781ea86f7bbb0dcdedfa"
+      },
+      {
+        "$oid": "655b3ca6a86f7bbb0dcde865"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/9/5/e/195e96df38b8bb998c32adfe83282cfa.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700733222/img_zing_mp3/hlbgwuuznl9bf6bfhdba.mp3",
+    "duration": 365,
+    "releaseDate": 1698796800,
+    "genreId": [
+      {
+        "$oid": "653e3f32307099914de957b3"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T15:25:23.090Z"
+    },
+    "listen": [
+      {
+        "time": 1700737200,
+        "hour": "18",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f31443330e4eb215f59ab"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:53:42.176Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b7a91a86f7bbb0dcdee5a"
+    },
+    "encodeId": "blwRnB54K",
+    "name": "Thì Thôi",
+    "title": "thi-thoi",
+    "artists": [
+      {
+        "$oid": "655b7832a86f7bbb0dcdedfc"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/b/6/8/1/b681f689f0863f2ddb5fa07eaa9933d7.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700732026/img_zing_mp3/oqmasz4iyog9uvcwszrx.mp3",
+    "duration": 356,
+    "releaseDate": 1697068800,
+    "genreId": [
+      {
+        "$oid": "653e3f32307099914de957b3"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T15:26:09.568Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T09:33:46.644Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b7acba86f7bbb0dcdee5e"
+    },
+    "encodeId": "HQvLvlLOs",
+    "name": "Thương Người Chẳng Chịu Thương Em",
+    "title": "thuong-nguoi-chang-chiu-thuong-em",
+    "artists": [
+      {
+        "$oid": "655b784da86f7bbb0dcdedfe"
+      },
+      {
+        "$oid": "655b786ca86f7bbb0dcdee00"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/c/e/b/d/cebd804ab34b037a5219f270d0db925c.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700733376/img_zing_mp3/kmktiwfzgrmnbcy47nvo.mp3",
+    "duration": 360,
+    "releaseDate": 1700006400,
+    "genreId": [
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      },
+      {
+        "$oid": "653e3f32307099914de957b3"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T15:27:07.376Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T09:56:16.715Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b7b25a86f7bbb0dcdee7a"
+    },
+    "encodeId": "ubQxe0Gcm",
+    "name": "missing you",
+    "title": "missing-you",
+    "artists": [
+      {
+        "$oid": "655b78dca86f7bbb0dcdee2d"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/4/9/0/8/4908150f9a0063889f411a519f7742ef.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700732488/img_zing_mp3/aru0zyueimqfyycsxqcc.mp3",
+    "duration": 237,
+    "releaseDate": 1698019200,
+    "genreId": [
+      {
+        "$oid": "653e3eda307099914de95799"
+      },
+      {
+        "$oid": "653e3f32307099914de957b3"
+      },
+      {
+        "$oid": "653e3d08307099914de9576b"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T15:28:37.853Z"
+    },
+    "listen": [
+      {
+        "time": 1700737200,
+        "hour": "18",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f34b0f5db32cee9da6faf"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:41:28.282Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b7b60a86f7bbb0dcdee7e"
+    },
+    "encodeId": "4BqxAi6c6",
+    "name": "The Day You Left",
+    "title": "the-day-you-left",
+    "artists": [
+      {
+        "$oid": "655b78eca86f7bbb0dcdee2f"
+      },
+      {
+        "$oid": "655b78faa86f7bbb0dcdee31"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/e/0/0/7/e00777db05f482d09f3caf9783b59bc6.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/raw/upload/v1700731915/img_zing_mp3/cxpplcrmqrcsjnc8wv2a",
+    "duration": 132,
+    "releaseDate": 1700179200,
+    "genreId": [
+      {
+        "$oid": "653e3eda307099914de95799"
+      },
+      {
+        "$oid": "653e3f32307099914de957b3"
+      },
+      {
+        "$oid": "653e3d08307099914de9576b"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T15:29:36.756Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T09:31:55.350Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b8475a86f7bbb0dcdef30"
+    },
+    "encodeId": "LxykrwjW0",
+    "name": "Từng Quen",
+    "title": "tung-quen",
+    "artists": [
+      {
+        "$oid": "655b8334a86f7bbb0dcdeeea"
+      },
+      {
+        "$oid": "655b8344a86f7bbb0dcdeeec"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/7/4/c/974c4f42b6143c56af330323d86a0b7f.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700732920/img_zing_mp3/vkukq9usanngp8zkpwie.mp3",
+    "duration": 225,
+    "releaseDate": 1698883200,
+    "genreId": [
+      {
+        "$oid": "653e3f1c307099914de957ad"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T16:08:21.533Z"
+    },
+    "listen": [
+      {
+        "time": 1700748000,
+        "hour": "21",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f5bbf3de34507ce090cef"
+        }
+      },
+      {
+        "time": 1700733600,
+        "hour": "17",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f2dc7e5d537a1f169f5d6"
+        }
+      },
+      {
+        "time": 1700708400,
+        "hour": "10",
+        "counter": 1,
+        "_id": {
+          "$oid": "655ec656f15bd848a85a08cf"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:48:40.552Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b84b5a86f7bbb0dcdef34"
+    },
+    "encodeId": "a4_mKWTs7",
+    "name": "Call Me",
+    "title": "call-me",
+    "artists": [
+      {
+        "$oid": "655b8344a86f7bbb0dcdeeec"
+      },
+      {
+        "$oid": "655b8334a86f7bbb0dcdeeea"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/3/3/e/833e8c663204235b77a6201e6d23cf41.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700711080/img_zing_mp3/llfxvv9szmalidyw7lcc.mp3",
+    "duration": 231,
+    "releaseDate": 1697673600,
+    "genreId": [
+      {
+        "$oid": "653e3f1c307099914de957ad"
+      },
+      {
+        "$oid": "653e3d08307099914de9576b"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T16:09:25.413Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T03:44:40.568Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b8554a86f7bbb0dcdef67"
+    },
+    "encodeId": "h44wWXaia",
+    "name": "Tội Nghiệp Lắm Em",
+    "title": "toi-nghiep-lam-em",
+    "artists": [
+      {
+        "$oid": "655a4e1b1669b799d469a132"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/2/b/a/8/2ba8f8fa0038b1d7359b64f7a2497fab.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700732964/img_zing_mp3/l9vjityophe9ixzsh46l.mp3",
+    "duration": 292,
+    "releaseDate": 1700179200,
+    "genreId": [
+      {
+        "$oid": "653e3f32307099914de957b3"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T16:12:04.961Z"
+    },
+    "listen": [
+      {
+        "time": 1700730000,
+        "hour": "16",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f1575f15bd848a85a2b09"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:49:24.347Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b8584a86f7bbb0dcdef69"
+    },
+    "encodeId": "h6uvX6afv",
+    "name": "E Là Không Thể",
+    "title": "e-la-khong-the",
+    "artists": [
+      {
+        "$oid": "655a4e1b1669b799d469a132"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/b/4/2/9b4257f7dd6deda1512a8aafe1cdce86.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700729007/img_zing_mp3/ty1dy8l0iwxzllp3ysmp.mp3",
+    "duration": 310,
+    "releaseDate": 1699488000,
+    "genreId": [
+      {
+        "$oid": "653e3f32307099914de957b3"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T16:12:52.644Z"
+    },
+    "listen": [],
+    "updateDate": {
+      "$date": "2023-11-23T08:43:27.740Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b8669a86f7bbb0dcdef97"
+    },
+    "encodeId": "JvoS3RIiJ",
+    "name": "trên taxi chẳng muốn về nhà",
+    "title": "tren-taxi-chang-muon-ve-nha",
+    "artists": [
+      {
+        "$oid": "655b838fa86f7bbb0dcdeeff"
+      },
+      {
+        "$oid": "655b83a8a86f7bbb0dcdef01"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/a/8/f/1/a8f1b898e96e813725ce4969a3ddcd30.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700732372/img_zing_mp3/wrnv6peylewygxtdcphj.mp3",
+    "duration": 236,
+    "releaseDate": 1699747200,
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T16:16:41.800Z"
+    },
+    "listen": [
+      {
+        "time": 1700744400,
+        "hour": "20",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f52d4f5db32cee9daaf0b"
+        }
+      },
+      {
+        "time": 1700737200,
+        "hour": "18",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f34d7f5db32cee9da7132"
+        }
+      },
+      {
+        "time": 1700701200,
+        "hour": "8",
+        "counter": 1,
+        "_id": {
+          "$oid": "655eabeab1e5f125a3fc0851"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:39:32.348Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b86a6a86f7bbb0dcdef9a"
+    },
+    "encodeId": "-KFaKsf8m",
+    "name": "Sài Gòn Hôm Nay Mưa",
+    "title": "sai-gon-hom-nay-mua",
+    "artists": [
+      {
+        "$oid": "655b83a8a86f7bbb0dcdef01"
+      },
+      {
+        "$oid": "655b838fa86f7bbb0dcdeeff"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/c/b/0/0cb0f04b6eb1e49f4ecaec2117775326.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700731763/img_zing_mp3/cplzippl3elxxsbv0nhf.mp3",
+    "duration": 247,
+    "releaseDate": 1699401600,
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T16:17:42.747Z"
+    },
+    "listen": [
+      {
+        "time": 1700701200,
+        "hour": "8",
+        "counter": 1,
+        "_id": {
+          "$oid": "655eabf2b1e5f125a3fc0854"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:29:23.319Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b8755a86f7bbb0dcdf01f"
+    },
+    "encodeId": "aQOY2xvku",
+    "name": "Đậm Sâu Chẳng Được Gì",
+    "title": "đam-sau-chang-đuoc-gi",
+    "artists": [
+      {
+        "$oid": "6555e6684b1ca3f0b692a039"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/c/7/7/dc7780482025af567902baf1f15295f3.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700732115/img_zing_mp3/wugs8xsp8vanbdy4yjve.mp3",
+    "duration": 317,
+    "releaseDate": 1699228800,
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      },
+      {
+        "$oid": "653e3f32307099914de957b3"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T16:20:37.369Z"
+    },
+    "listen": [
+      {
+        "time": 1700701200,
+        "hour": "8",
+        "counter": 1,
+        "_id": {
+          "$oid": "655ea970b1e5f125a3fc0839"
+        }
+      },
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 2,
+        "_id": {
+          "$oid": "655e9e09b1e5f125a3fbf403"
+        }
+      },
+      {
+        "time": 1700694000,
+        "hour": "6",
+        "counter": 1,
+        "_id": {
+          "$oid": "655e8d05d2599b74e96d86eb"
+        }
+      },
+      {
+        "time": 1700690400,
+        "hour": "5",
+        "counter": 28,
+        "_id": {
+          "$oid": "655e7d76df885e7f1345fdf1"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:35:15.294Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b8788a86f7bbb0dcdf021"
+    },
+    "encodeId": "XOganBauF",
+    "name": "Hoa Nở Không Màu",
+    "title": "hoa-no-khong-mau",
+    "artists": [
+      {
+        "$oid": "6555e6684b1ca3f0b692a039"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/a/3/4/a/a34aa83645a06fc684b11271a1bcea0a.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700729630/img_zing_mp3/rtn4mredosoc2ugnju78.mp3",
+    "duration": 328,
+    "releaseDate": 1688601600,
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3f32307099914de957b3"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T16:21:28.510Z"
+    },
+    "listen": [
+      {
+        "time": 1700690400,
+        "hour": "5",
+        "counter": 8,
+        "_id": {
+          "$oid": "655e7d79df885e7f1345fdf4"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T08:53:50.750Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b882da86f7bbb0dcdf066"
+    },
+    "encodeId": "ewS1KLuxA",
+    "name": "Giọt Lệ Đài Trang",
+    "title": "giot-le-đai-trang",
+    "artists": [
+      {
+        "$oid": "655b83f0a86f7bbb0dcdef03"
+      },
+      {
+        "$oid": "6555e6684b1ca3f0b692a039"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1311755018.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700729281/img_zing_mp3/inspzhts2rzmij5capky.mp3",
+    "duration": 355,
+    "releaseDate": 1699401600,
+    "genreId": [
+      {
+        "$oid": "653e3dd8307099914de9578b"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T16:24:13.536Z"
+    },
+    "listen": [
+      {
+        "time": 1700744400,
+        "hour": "20",
+        "counter": 3,
+        "_id": {
+          "$oid": "655f5354f5db32cee9dab0b1"
+        }
+      },
+      {
+        "time": 1700730000,
+        "hour": "16",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f14b8f15bd848a85a2487"
+        }
+      },
+      {
+        "time": 1700701200,
+        "hour": "8",
+        "counter": 1,
+        "_id": {
+          "$oid": "655eacb78e1bd2bab9854d95"
+        }
+      },
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 1,
+        "_id": {
+          "$oid": "655ea0f1b1e5f125a3fbffa7"
+        }
+      },
+      {
+        "time": 1700694000,
+        "hour": "6",
+        "counter": 1,
+        "_id": {
+          "$oid": "655e8c40d2599b74e96d8466"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T08:48:02.200Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b8864a86f7bbb0dcdf069"
+    },
+    "encodeId": "zU-Znu5iY",
+    "name": "Xin Lỗi Tình Yêu",
+    "title": "xin-loi-tinh-yeu",
+    "artists": [
+      {
+        "$oid": "655b83f0a86f7bbb0dcdef03"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/c/a/caa5dc32c05e8895fe4d8a22a4eba3e5_1285175044.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700732723/img_zing_mp3/obi1c0xcvmhpvgjwvi8i.mp3",
+    "duration": 320,
+    "releaseDate": 1700179200,
+    "genreId": [
+      {
+        "$oid": "653e3dd8307099914de9578b"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T16:25:08.515Z"
+    },
+    "listen": [
+      {
+        "time": 1700744400,
+        "hour": "20",
+        "counter": 6,
+        "_id": {
+          "$oid": "655f52dff5db32cee9dab08c"
+        }
+      },
+      {
+        "time": 1700701200,
+        "hour": "8",
+        "counter": 1,
+        "_id": {
+          "$oid": "655eacb58e1bd2bab9854d8e"
+        }
+      },
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 7,
+        "_id": {
+          "$oid": "655e9938b1e5f125a3fbe023"
+        }
+      },
+      {
+        "time": 1700694000,
+        "hour": "6",
+        "counter": 19,
+        "_id": {
+          "$oid": "655e8935d2599b74e96d805b"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:45:23.501Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b888aa86f7bbb0dcdf06b"
+    },
+    "encodeId": "781KnZdAu",
+    "name": "Thành Phố Buồn",
+    "title": "thanh-pho-buon",
+    "artists": [
+      {
+        "$oid": "655b83f0a86f7bbb0dcdef03"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/e/9/e97346e738e83123041b6a8423ce9e71_1285171980.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700746303/img_zing_mp3/xqom9c1gbxwzgvrzooje.mp3",
+    "duration": 343,
+    "releaseDate": 1699401600,
+    "genreId": [
+      {
+        "$oid": "653e3dd8307099914de9578b"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T16:25:46.668Z"
+    },
+    "listen": [
+      {
+        "time": 1700744400,
+        "hour": "20",
+        "counter": 5,
+        "_id": {
+          "$oid": "655f5359f5db32cee9dab0bb"
+        }
+      },
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 2,
+        "_id": {
+          "$oid": "655ea0f5b1e5f125a3fbffb0"
+        }
+      },
+      {
+        "time": 1700694000,
+        "hour": "6",
+        "counter": 1,
+        "_id": {
+          "$oid": "655e8bf5d2599b74e96d8374"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T13:31:43.364Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b88b5a86f7bbb0dcdf06d"
+    },
+    "encodeId": "KvlYv97gN",
+    "name": "Tiếng Gió Xôn Xao",
+    "title": "tieng-gio-xon-xao",
+    "artists": [
+      {
+        "$oid": "655b83f0a86f7bbb0dcdef03"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/5/b/5b99665ac7b33f6cde98206bf712ac2c_1285174675.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700733289/img_zing_mp3/a3awekrj2runuwusxz3n.mp3",
+    "duration": 273,
+    "releaseDate": 1692230400,
+    "genreId": [
+      {
+        "$oid": "653e3dd8307099914de9578b"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T16:26:29.123Z"
+    },
+    "listen": [
+      {
+        "time": 1700748000,
+        "hour": "21",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f60df3de34507ce09195b"
+        }
+      },
+      {
+        "time": 1700744400,
+        "hour": "20",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f54b7f5db32cee9dab370"
+        }
+      },
+      {
+        "time": 1700708400,
+        "hour": "10",
+        "counter": 1,
+        "_id": {
+          "$oid": "655ec6def15bd848a85a0f33"
+        }
+      },
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 2,
+        "_id": {
+          "$oid": "655e9cb4b1e5f125a3fbea1a"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:54:49.859Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b8d82a86f7bbb0dcdf252"
+    },
+    "encodeId": "m6kkV2W8n",
+    "name": "GODS",
+    "title": "gods",
+    "artists": [
+      {
+        "$oid": "655b8c1fa86f7bbb0dcdf200"
+      },
+      {
+        "$oid": "655b8c36a86f7bbb0dcdf202"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/7/7/a/9/77a9e98544f046254daf010d79f0668e.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700729116/img_zing_mp3/dr63n81bswnilx9tqqrk.mp3",
+    "duration": 255,
+    "releaseDate": 1698192000,
+    "genreId": [
+      {
+        "$oid": "653e3d08307099914de9576b"
+      },
+      {
+        "$oid": "653e3de0307099914de9578d"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T16:46:58.082Z"
+    },
+    "listen": [
+      {
+        "time": 1700744400,
+        "hour": "20",
+        "counter": 4,
+        "_id": {
+          "$oid": "655f52ddf5db32cee9dab080"
+        }
+      },
+      {
+        "time": 1700737200,
+        "hour": "18",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f34c3f5db32cee9da70f7"
+        }
+      },
+      {
+        "time": 1700708400,
+        "hour": "10",
+        "counter": 1,
+        "_id": {
+          "$oid": "655ec8edf15bd848a85a14b0"
+        }
+      },
+      {
+        "time": 1700701200,
+        "hour": "8",
+        "counter": 2,
+        "_id": {
+          "$oid": "655ea411b1e5f125a3fc063c"
+        }
+      },
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 14,
+        "_id": {
+          "$oid": "655e9942b1e5f125a3fbe028"
+        }
+      },
+      {
+        "time": 1700694000,
+        "hour": "6",
+        "counter": 16,
+        "_id": {
+          "$oid": "655e8981d2599b74e96d805e"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T08:45:16.776Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b8dc0a86f7bbb0dcdf255"
+    },
+    "encodeId": "Ak3wEfKl8",
+    "name": "At My Worst",
+    "title": "at-my-worst",
+    "artists": [
+      {
+        "$oid": "655b8c4da86f7bbb0dcdf204"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/3/9/5/8395c8b202b930eec67dfc88e3a2e6f8.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700710883/img_zing_mp3/pshtqnphqfenctmogknp.mp3",
+    "duration": 170,
+    "releaseDate": 1700006400,
+    "genreId": [
+      {
+        "$oid": "653e3d08307099914de9576b"
+      },
+      {
+        "$oid": "653e3de0307099914de9578d"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T16:48:00.333Z"
+    },
+    "listen": [
+      {
+        "time": 1700744400,
+        "hour": "20",
+        "counter": 4,
+        "_id": {
+          "$oid": "655f5368f5db32cee9dab0d4"
+        }
+      },
+      {
+        "time": 1700730000,
+        "hour": "16",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f14c5f15bd848a85a2490"
+        }
+      },
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 3,
+        "_id": {
+          "$oid": "655e99cab1e5f125a3fbe035"
+        }
+      },
+      {
+        "time": 1700694000,
+        "hour": "6",
+        "counter": 6,
+        "_id": {
+          "$oid": "655e8cfad2599b74e96d866a"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T03:41:23.348Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b8dffa86f7bbb0dcdf258"
+    },
+    "encodeId": "aVb2SPhlh",
+    "name": "You & Me",
+    "title": "you-&-me",
+    "artists": [
+      {
+        "$oid": "655b8c6ba86f7bbb0dcdf206"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/e/d/2/0ed20794e6572a20f57cd15393aca3f1.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700732687/img_zing_mp3/vjzsiu8l9jazfi1yqqsv.mp3",
+    "duration": 179,
+    "releaseDate": 1700092800,
+    "genreId": [
+      {
+        "$oid": "653e3d15307099914de9576d"
+      },
+      {
+        "$oid": "653e3de0307099914de9578d"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T16:49:03.599Z"
+    },
+    "listen": [
+      {
+        "time": 1700744400,
+        "hour": "20",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f5373f5db32cee9dab0e5"
+        }
+      },
+      {
+        "time": 1700704800,
+        "hour": "9",
+        "counter": 1,
+        "_id": {
+          "$oid": "655eba9efd5671c75217c134"
+        }
+      },
+      {
+        "time": 1700701200,
+        "hour": "8",
+        "counter": 1,
+        "_id": {
+          "$oid": "655eacb38e1bd2bab9854d87"
+        }
+      },
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 9,
+        "_id": {
+          "$oid": "655e9b35b1e5f125a3fbe475"
+        }
+      },
+      {
+        "time": 1700694000,
+        "hour": "6",
+        "counter": 1,
+        "_id": {
+          "$oid": "655e8bf2d2599b74e96d836b"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:44:47.560Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b8e35a86f7bbb0dcdf25b"
+    },
+    "encodeId": "3rKCw6O2p",
+    "name": "Drama",
+    "title": "drama",
+    "artists": [
+      {
+        "$oid": "655b8c80a86f7bbb0dcdf208"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/4/a/6/2/4a6285d9dc7269edf32dbde735f392c8.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700728876/img_zing_mp3/k9wa2rwjyfizp681kdxr.mp3",
+    "duration": 215,
+    "releaseDate": 1699920000,
+    "genreId": [
+      {
+        "$oid": "653e3d15307099914de9576d"
+      },
+      {
+        "$oid": "653e3de0307099914de9578d"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T16:49:57.631Z"
+    },
+    "listen": [
+      {
+        "time": 1700744400,
+        "hour": "20",
+        "counter": 4,
+        "_id": {
+          "$oid": "655f52dbf5db32cee9dab071"
+        }
+      },
+      {
+        "time": 1700737200,
+        "hour": "18",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f376df5db32cee9da7ca2"
+        }
+      },
+      {
+        "time": 1700708400,
+        "hour": "10",
+        "counter": 3,
+        "_id": {
+          "$oid": "655ec449f15bd848a85a0387"
+        }
+      },
+      {
+        "time": 1700704800,
+        "hour": "9",
+        "counter": 7,
+        "_id": {
+          "$oid": "655eb264361027d32ff2335a"
+        }
+      },
+      {
+        "time": 1700701200,
+        "hour": "8",
+        "counter": 4,
+        "_id": {
+          "$oid": "655ea645b1e5f125a3fc0811"
+        }
+      },
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 14,
+        "_id": {
+          "$oid": "655e9b28b1e5f125a3fbe46c"
+        }
+      },
+      {
+        "time": 1700694000,
+        "hour": "6",
+        "counter": 12,
+        "_id": {
+          "$oid": "655e8beed2599b74e96d8365"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T08:41:16.667Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b8eb0a86f7bbb0dcdf261"
+    },
+    "encodeId": "VrP2brrSg",
+    "name": "À Lôi",
+    "title": "a-loi",
+    "artists": [
+      {
+        "$oid": "655b8ca6a86f7bbb0dcdf215"
+      },
+      {
+        "$oid": "655b09eda86f7bbb0dcde03e"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/6/d/9/6/6d961b2a82f151a0f9af7de928e8f809.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700732323/img_zing_mp3/okub3byvpwajo65trler.mp3",
+    "duration": 197,
+    "releaseDate": 1700352000,
+    "genreId": [
+      {
+        "$oid": "653e3dee307099914de95791"
+      },
+      {
+        "$oid": "653e3de0307099914de9578d"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T16:52:00.329Z"
+    },
+    "listen": [
+      {
+        "time": 1700744400,
+        "hour": "20",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f5378f5db32cee9dab0f9"
+        }
+      },
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 8,
+        "_id": {
+          "$oid": "655e9bceb1e5f125a3fbe52a"
+        }
+      },
+      {
+        "time": 1700694000,
+        "hour": "6",
+        "counter": 6,
+        "_id": {
+          "$oid": "655e8852d2599b74e96d8050"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:38:44.503Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b8eeea86f7bbb0dcdf264"
+    },
+    "encodeId": "MQaPbBFxR",
+    "name": "NOLOVENOLIFE",
+    "title": "nolovenolife",
+    "artists": [
+      {
+        "$oid": "655b8cc7a86f7bbb0dcdf223"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/4/a/c/d4acc6335d41bd7164173312c6123706.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700730781/img_zing_mp3/w7qloelfio6ype6qvpaz.mp3",
+    "duration": 171,
+    "releaseDate": 1699574400,
+    "genreId": [
+      {
+        "$oid": "653e3de0307099914de9578d"
+      },
+      {
+        "$oid": "653e3dee307099914de95791"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T16:53:02.172Z"
+    },
+    "listen": [
+      {
+        "time": 1700748000,
+        "hour": "21",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f5bb23de34507ce090c67"
+        }
+      },
+      {
+        "time": 1700744400,
+        "hour": "20",
+        "counter": 3,
+        "_id": {
+          "$oid": "655f537ff5db32cee9dab11f"
+        }
+      },
+      {
+        "time": 1700708400,
+        "hour": "10",
+        "counter": 39,
+        "_id": {
+          "$oid": "655ec5b1f15bd848a85a06f2"
+        }
+      },
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 3,
+        "_id": {
+          "$oid": "655e9bf1b1e5f125a3fbe544"
+        }
+      },
+      {
+        "time": 1700694000,
+        "hour": "6",
+        "counter": 2,
+        "_id": {
+          "$oid": "655e8cddd2599b74e96d8560"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:13:01.974Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b8f7aa86f7bbb0dcdf2d6"
+    },
+    "encodeId": "-v2Dz_6v3",
+    "name": "05 (Không Phai) (Masew Remix)",
+    "title": "05-(khong-phai)-(masew-remix)",
+    "artists": [
+      {
+        "$oid": "655a4a321669b799d4699f76"
+      },
+      {
+        "$oid": "655b8ceea86f7bbb0dcdf226"
+      },
+      {
+        "$oid": "655a4d701669b799d469a0fe"
+      },
+      {
+        "$oid": "655b09eda86f7bbb0dcde03e"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/5/b/6/1/5b61a30f04aee798909d6357c6a56eaf.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700709773/img_zing_mp3/dn8o4yumad56rl3pc4lk.mp3",
+    "duration": 205,
+    "releaseDate": 1699056000,
+    "genreId": [
+      {
+        "$oid": "653e3dee307099914de95791"
+      },
+      {
+        "$oid": "653e3de0307099914de9578d"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T16:55:22.970Z"
+    },
+    "listen": [
+      {
+        "time": 1700744400,
+        "hour": "20",
+        "counter": 13,
+        "_id": {
+          "$oid": "655f50e8f5db32cee9da857f"
+        }
+      },
+      {
+        "time": 1700737200,
+        "hour": "18",
+        "counter": 2,
+        "_id": {
+          "$oid": "655f34cdf5db32cee9da710f"
+        }
+      },
+      {
+        "time": 1700730000,
+        "hour": "16",
+        "counter": 2,
+        "_id": {
+          "$oid": "655f14a4f15bd848a85a23dc"
+        }
+      },
+      {
+        "time": 1700726400,
+        "hour": "15",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f0bb9f15bd848a85a1896"
+        }
+      },
+      {
+        "time": 1700708400,
+        "hour": "10",
+        "counter": 24,
+        "_id": {
+          "$oid": "655ec1b9f15bd848a85a0091"
+        }
+      },
+      {
+        "time": 1700704800,
+        "hour": "9",
+        "counter": 17,
+        "_id": {
+          "$oid": "655eb51a4a57fba6bdccdafd"
+        }
+      },
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 20,
+        "_id": {
+          "$oid": "655e9bf0b1e5f125a3fbe53f"
+        }
+      },
+      {
+        "time": 1700694000,
+        "hour": "6",
+        "counter": 4,
+        "_id": {
+          "$oid": "655e8bf0d2599b74e96d8368"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T03:22:53.744Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655b8fb4a86f7bbb0dcdf2da"
+    },
+    "encodeId": "h_qGGWgBF",
+    "name": "Phố Đã Lên Đèn (Masew Remix)",
+    "title": "pho-đa-len-đen-(masew-remix)",
+    "artists": [
+      {
+        "$oid": "655b09eda86f7bbb0dcde03e"
+      },
+      {
+        "$oid": "655b8d08a86f7bbb0dcdf228"
+      },
+      {
+        "$oid": "655b8d24a86f7bbb0dcdf238"
+      }
+    ],
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/7/8/d/978d12830c18df95c26e93e658019166.jpg",
+    "linkMusic": "http://res.cloudinary.com/dsdbqfn5l/video/upload/v1700731517/img_zing_mp3/ffp7uptss0461beedlix.mp3",
+    "duration": 189,
+    "releaseDate": 1692316800,
+    "genreId": [
+      {
+        "$oid": "653e3d5a307099914de95779"
+      },
+      {
+        "$oid": "653e3de0307099914de9578d"
+      },
+      {
+        "$oid": "653e3c22c8830bae78af5829"
+      }
+    ],
+    "like": [],
+    "createDate": {
+      "$date": "2023-11-20T16:56:20.774Z"
+    },
+    "listen": [
+      {
+        "time": 1700744400,
+        "hour": "20",
+        "counter": 4,
+        "_id": {
+          "$oid": "655f537df5db32cee9dab111"
+        }
+      },
+      {
+        "time": 1700737200,
+        "hour": "18",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f34e8f5db32cee9da73f6"
+        }
+      },
+      {
+        "time": 1700730000,
+        "hour": "16",
+        "counter": 1,
+        "_id": {
+          "$oid": "655f14a9f15bd848a85a2472"
+        }
+      },
+      {
+        "time": 1700708400,
+        "hour": "10",
+        "counter": 2,
+        "_id": {
+          "$oid": "655ec8ddf15bd848a85a148f"
+        }
+      },
+      {
+        "time": 1700704800,
+        "hour": "9",
+        "counter": 21,
+        "_id": {
+          "$oid": "655eb54dcc188c9e81ccee7e"
+        }
+      },
+      {
+        "time": 1700697600,
+        "hour": "7",
+        "counter": 19,
+        "_id": {
+          "$oid": "655e96641124a7f952b127b3"
+        }
+      },
+      {
+        "time": 1700694000,
+        "hour": "6",
+        "counter": 7,
+        "_id": {
+          "$oid": "655e8855d2599b74e96d8054"
+        }
+      },
+      {
+        "time": 1700690400,
+        "hour": "5",
+        "counter": 1,
+        "_id": {
+          "$oid": "655e8779d2599b74e96d804d"
+        }
+      }
+    ],
+    "updateDate": {
+      "$date": "2023-11-23T09:25:17.030Z"
+    },
+    "__v": 0
+  }]

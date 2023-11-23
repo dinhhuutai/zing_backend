@@ -1,0 +1,45 @@
+[{
+    "_id": {
+      "$oid": "655a45311669b799d4699e18"
+    },
+    "name": "vn",
+    "alias": "vn",
+    "image": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/song-vn-2x.jpg",
+    "createDate": {
+      "$date": "2023-11-19T17:26:09.123Z"
+    },
+    "updateDate": {
+      "$date": "2023-11-19T17:26:09.129Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a45431669b799d4699e1a"
+    },
+    "name": "usuk",
+    "alias": "usuk",
+    "image": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/web_song_usuk.jpg",
+    "createDate": {
+      "$date": "2023-11-19T17:26:27.115Z"
+    },
+    "updateDate": {
+      "$date": "2023-11-19T17:26:27.115Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "655a45571669b799d4699e1c"
+    },
+    "name": "kpop",
+    "alias": "kpop",
+    "image": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/web_song_kpop.jpg",
+    "createDate": {
+      "$date": "2023-11-19T17:26:47.575Z"
+    },
+    "updateDate": {
+      "$date": "2023-11-19T17:26:47.575Z"
+    },
+    "__v": 0
+  }]
