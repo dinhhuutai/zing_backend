@@ -261,6 +261,34 @@ class SongController {
                 });
             }
 
+            await Song.aggregate([
+                {
+                    $addFields: {
+                        listen: {
+                            $filter: {
+                                input: "$listen",
+                                as: "listenItem",
+                                cond: {
+                                    $gte: [
+                                        {
+                                            $toDate: {
+                                                $multiply: [
+                                                    "$$listenItem.time",
+                                                    1000,
+                                                ],
+                                            },
+                                        },
+                                        new Date(
+                                            (cTimeRound - 24 * 60 * 60) * 1000
+                                        ),
+                                    ],
+                                },
+                            },
+                        },
+                    },
+                },
+            ]);
+
             return res.status(200).json({
                 success: true,
             });

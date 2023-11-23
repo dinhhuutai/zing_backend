@@ -9,6 +9,7 @@ const partnerRouter = require('./partner');
 const weekchartRouter = require('./weekchart');
 const pageExploreRouter = require('./pageExplore');
 const pageAlbumRouter = require('./pageAlbum');
+const pageZingchartRouter = require('./pageZingchart');
 
 function routes(app) {
 
@@ -31,6 +32,8 @@ function routes(app) {
     app.use("/api/v1/weekchart", weekchartRouter);
 
     app.use("/api/v1/page/explore", pageExploreRouter);
+
+    app.use("/api/v1/page/zingchart", pageZingchartRouter);
 
     app.use("/api/v1/page/album", pageAlbumRouter);
 

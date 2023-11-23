@@ -422,8 +422,19 @@ class PageExploreController {
                                             $cond: {
                                                 if: {
                                                     $gte: [
-                                                        { $toDate: { $multiply: ["$$listenItem.time", 1000] } },
-                                                        new Date((cTimeRound - (24 * 60 * 60)) * 1000),
+                                                        {
+                                                            $toDate: {
+                                                                $multiply: [
+                                                                    "$$listenItem.time",
+                                                                    1000,
+                                                                ],
+                                                            },
+                                                        },
+                                                        new Date(
+                                                            (cTimeRound -
+                                                                24 * 60 * 60) *
+                                                                1000
+                                                        ),
                                                     ],
                                                 },
                                                 then: "$$listenItem.counter",
@@ -451,10 +462,23 @@ class PageExploreController {
                     },
                 ]);
 
-                console.log(res);
+                function removeDuplicates(arr) {
+                    const result = [];
+
+                    for (let i = 0; i < arr.length; i++) {
+                        // Nếu phần tử chưa tồn tại trong mảng kết quả, thêm nó vào
+                        if (!result.some(item => item.time === arr[i].time)) {
+                            result.push(arr[i]);
+                        } else if(result[result.length - 1].counter < arr[i].counter) {
+                            result[result.length - 1] = arr[i];
+                        }
+                    }
+
+                    return result;
+                }
 
                 const items = {
-                    [res[0].encodeId]: arrayTemp
+                    [res[0].encodeId]: removeDuplicates(arrayTemp
                         .map((item) =>
                             res[0].listen.length > 0
                                 ? res[0].listen.map((it) =>
@@ -464,8 +488,8 @@ class PageExploreController {
                                   )
                                 : { ...item, time: item.time * 1000 }
                         )
-                        .flat(),
-                    [res[1].encodeId]: arrayTemp
+                        .flat()),
+                    [res[1].encodeId]: removeDuplicates(arrayTemp
                         .map((item) =>
                             res[1].listen.length > 0
                                 ? res[1].listen.map((it) =>
@@ -475,8 +499,8 @@ class PageExploreController {
                                   )
                                 : { ...item, time: item.time * 1000 }
                         )
-                        .flat(),
-                    [res[2].encodeId]: arrayTemp
+                        .flat()),
+                    [res[2].encodeId]: removeDuplicates(arrayTemp
                         .map((item) =>
                             res[2].listen.length > 0
                                 ? res[2].listen.map((it) =>
@@ -486,7 +510,7 @@ class PageExploreController {
                                   )
                                 : { ...item, time: item.time * 1000 }
                         )
-                        .flat(),
+                        .flat()),
                 };
 
                 const RTChart = {
