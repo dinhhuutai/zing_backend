@@ -10,18 +10,19 @@ class PageZingchartController {
     // [GET] /api/v1/page/zingchart/get?ctime=
     async get(req, res, next) {
         try {
-
             const cTime = req.query?.ctime;
+
+            const currentDate = new Date(cTime * 1000); // Tạo đối tượng Date từ mili giây
+
+            const hours = currentDate.getHours(); // Lấy giờ từ đối tượng Date
+            const day = currentDate.getDate(); // Lấy ngày từ đối tượng Date
+            const month = currentDate.getMonth(); // Lấy tháng từ đối tượng Date (chú ý: tháng bắt đầu từ 0)
+            const year = currentDate.getFullYear(); // Lấy năm từ đối tượng Date
+
+            let cTimeRound = new Date(year, month, day, hours, 0, 0);
+            cTimeRound = cTimeRound.getTime() / 1000;
+
             const getRTChart = async () => {
-                const currentDate = new Date(cTime * 1000); // Tạo đối tượng Date từ mili giây
-                const hours = currentDate.getHours(); // Lấy giờ từ đối tượng Date
-                const day = currentDate.getDate(); // Lấy ngày từ đối tượng Date
-                const month = currentDate.getMonth(); // Lấy tháng từ đối tượng Date (chú ý: tháng bắt đầu từ 0)
-                const year = currentDate.getFullYear(); // Lấy năm từ đối tượng Date
-
-                let cTimeRound = new Date(year, month, day, hours, 0, 0);
-                cTimeRound = cTimeRound.getTime() / 1000;
-
                 let arrayTemp = [];
 
                 for (let i = 0; i < 24; i++) {
@@ -94,9 +95,11 @@ class PageZingchartController {
 
                     for (let i = 0; i < arr.length; i++) {
                         // Nếu phần tử chưa tồn tại trong mảng kết quả, thêm nó vào
-                        if (!result.some(item => item.time === arr[i].time)) {
+                        if (!result.some((item) => item.time === arr[i].time)) {
                             result.push(arr[i]);
-                        } else if(result[result.length - 1].counter < arr[i].counter) {
+                        } else if (
+                            result[result.length - 1].counter < arr[i].counter
+                        ) {
                             result[result.length - 1] = arr[i];
                         }
                     }
@@ -105,39 +108,54 @@ class PageZingchartController {
                 }
 
                 const items = {
-                    [res[0].encodeId]: removeDuplicates(arrayTemp
-                        .map((item) =>
-                            res[0].listen.length > 0
-                                ? res[0].listen.map((it) =>
-                                      it.time === item.time
-                                          ? { ...it, time: it.time * 1000 }
-                                          : { ...item, time: item.time * 1000 }
-                                  )
-                                : { ...item, time: item.time * 1000 }
-                        )
-                        .flat()),
-                    [res[1].encodeId]: removeDuplicates(arrayTemp
-                        .map((item) =>
-                            res[1].listen.length > 0
-                                ? res[1].listen.map((it) =>
-                                      it.time === item.time
-                                          ? { ...it, time: it.time * 1000 }
-                                          : { ...item, time: item.time * 1000 }
-                                  )
-                                : { ...item, time: item.time * 1000 }
-                        )
-                        .flat()),
-                    [res[2].encodeId]: removeDuplicates(arrayTemp
-                        .map((item) =>
-                            res[2].listen.length > 0
-                                ? res[2].listen.map((it) =>
-                                      it.time === item.time
-                                          ? { ...it, time: it.time * 1000 }
-                                          : { ...item, time: item.time * 1000 }
-                                  )
-                                : { ...item, time: item.time * 1000 }
-                        )
-                        .flat()),
+                    [res[0].encodeId]: removeDuplicates(
+                        arrayTemp
+                            .map((item) =>
+                                res[0].listen.length > 0
+                                    ? res[0].listen.map((it) =>
+                                          it.time === item.time
+                                              ? { ...it, time: it.time * 1000 }
+                                              : {
+                                                    ...item,
+                                                    time: item.time * 1000,
+                                                }
+                                      )
+                                    : { ...item, time: item.time * 1000 }
+                            )
+                            .flat()
+                    ),
+                    [res[1].encodeId]: removeDuplicates(
+                        arrayTemp
+                            .map((item) =>
+                                res[1].listen.length > 0
+                                    ? res[1].listen.map((it) =>
+                                          it.time === item.time
+                                              ? { ...it, time: it.time * 1000 }
+                                              : {
+                                                    ...item,
+                                                    time: item.time * 1000,
+                                                }
+                                      )
+                                    : { ...item, time: item.time * 1000 }
+                            )
+                            .flat()
+                    ),
+                    [res[2].encodeId]: removeDuplicates(
+                        arrayTemp
+                            .map((item) =>
+                                res[2].listen.length > 0
+                                    ? res[2].listen.map((it) =>
+                                          it.time === item.time
+                                              ? { ...it, time: it.time * 1000 }
+                                              : {
+                                                    ...item,
+                                                    time: item.time * 1000,
+                                                }
+                                      )
+                                    : { ...item, time: item.time * 1000 }
+                            )
+                            .flat()
+                    ),
                 };
 
                 const RTChart = {
@@ -153,10 +171,121 @@ class PageZingchartController {
             };
             const rtChart = await getRTChart();
 
+            const getRank = async () => {
+                const res = await Song.aggregate([
+                    {
+                        $addFields: {
+                            totalCounter: {
+                                $sum: {
+                                    $map: {
+                                        input: "$listen",
+                                        as: "listenItem",
+                                        in: {
+                                            $cond: {
+                                                if: {
+                                                    $gte: [
+                                                        {
+                                                            $toDate: {
+                                                                $multiply: [
+                                                                    "$$listenItem.time",
+                                                                    1000,
+                                                                ],
+                                                            },
+                                                        },
+                                                        new Date(
+                                                            (cTimeRound -
+                                                                24 * 60 * 60) *
+                                                                1000
+                                                        ),
+                                                    ],
+                                                },
+                                                then: "$$listenItem.counter",
+                                                else: 0,
+                                            },
+                                        },
+                                    },
+                                },
+                            },
+                        },
+                    },
+                    {
+                        $lookup: {
+                            from: "artists", // Tên bảng cần join
+                            localField: "artists",
+                            foreignField: "_id",
+                            as: "artists", // Tên trường sẽ chứa thông tin user
+                        },
+                    },
+                    {
+                        $sort: { totalCounter: -1 }, // Sắp xếp theo giảm dần của totalCounter
+                    },
+                    {
+                        $limit: 100, // Giới hạn kết quả chỉ trả về 5 album
+                    },
+                ]);
+
+                return {
+                    items: res,
+                    total: res.length,
+                };
+            };
+            const rank = await getRank();
+
+            const getWeekChart = async () => {
+                const genreIdVietNam = await Genre.findOne({
+                    alias: "nhac-viet",
+                });
+                const genreIdUs = await Genre.findOne({
+                    alias: "nhac-au-my",
+                });
+                const genreIdKpop = await Genre.findOne({
+                    alias: "nhac-han",
+                });
+
+                const songVN = await Song.find({
+                    genreId: { $in: genreIdVietNam._id },
+                })
+                    .sort({ listenWeek: -1 })
+                    .limit(5)
+                    .populate("artists");
+
+                const songUs = await Song.find({
+                    genreId: { $in: genreIdUs._id },
+                })
+                    .sort({ listenWeek: -1 })
+                    .limit(5)
+                    .populate("artists");
+
+                const songKpop = await Song.find({
+                    genreId: { $in: genreIdKpop._id },
+                })
+                    .sort({ listenWeek: -1 })
+                    .limit(5)
+                    .populate("artists");
+
+                return [
+                    {
+                        name: "vn",
+                        items: songVN,
+                    },
+                    {
+                        name: "us",
+                        items: songUs,
+                    },
+                    {
+                        name: "korea",
+                        items: songKpop,
+                    },
+                ];
+            };
+            const weekChart = await getWeekChart();
+
             res.status(200).json({
                 success: true,
                 items: {
                     rtChart,
+                    rank,
+                    weekChart,
                 },
             });
         } catch (error) {

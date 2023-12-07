@@ -239,6 +239,9 @@ class SongController {
 
             const song = await Song.findById(id);
 
+            const totalListen = song.listenWeek ? song.listenWeek + 1 : 1;
+            await Song.findByIdAndUpdate(id, {listenWeek: totalListen}, { new: true });
+
             if (song && song.listen[0]?.time === cTimeRound) {
                 await Song.updateOne(
                     { _id: id, "listen.time": cTimeRound },
